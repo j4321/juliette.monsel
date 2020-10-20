@@ -56,6 +56,9 @@ html_sidebars = {
     ]
 }
 
+html_theme_options = {
+    'fixed_sidebar': True,
+}
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
