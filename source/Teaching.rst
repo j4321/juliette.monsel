@@ -1,0 +1,22 @@
+Teaching
+========
+
+.. rubric:: Teaching assistant
+
+:2017, 2018: Newtonian mechanics (1st year undergraduates) 
+    
+    Supervised tutorials and lab work. 
+    
+    Program:
+
+        - Collisions
+        - Polar coordinates
+        - Harmonic oscillators
+        - Angular momentum and torque
+        
+        
+.. rubric:: Portfolio
+
+As part of the doctoral course on research and higher education, I have produced a `portfolio (in French) <http://juliette-monsel.byethost15.com>`_.
+It is documenting some of the skills that I acquired during my doctorate and mostly focuses on my teaching.
+  

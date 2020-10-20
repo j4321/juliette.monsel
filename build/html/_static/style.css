@@ -1,0 +1,64 @@
+body {
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+/*
+    background-color: black;
+    color: white;
+*/
+}
+/*
+div.document {
+    background-color: black;
+}
+*/
+div.header {
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+/*
+    background-color: black;
+    color: white;
+*/
+}
+
+div.publi li:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+
+div.leftside {
+  width: 35%;
+  padding: 0px 3px 0px 0px;
+  float: left;
+}
+
+div.rightside {
+  margin-left: 37%;
+  font-size: 85%;
+  /* float: right; */
+}
+
+dl.field-list > dt:after {
+    content: " ";
+}
+
+dl.field-list > dt {
+    font-weight: normal;
+    font-style: italic;
+}
+
+dl.field-list > dd:not(:last-child) {
+    margin-bottom: 10px;
+}
+dl.field-list > dt:not(:last-child) {
+    margin-bottom: 10px;
+}
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6  {
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+/*
+    background-color: black;
+    color: white;
+*/
+}
