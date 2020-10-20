@@ -27,8 +27,8 @@ Contributed talks
 -----------------
 """,
     'poster': """
-Poster
-------
+Posters
+-------
 """
 }
 

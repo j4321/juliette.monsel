@@ -63,8 +63,8 @@ Contributed talks
         :filter: (not cited) and (year == "2017") and (keywords == "contributed")
         :style: mystyle
 
-Poster
-------
+Posters
+-------
 
 .. rubric:: 2020
 
