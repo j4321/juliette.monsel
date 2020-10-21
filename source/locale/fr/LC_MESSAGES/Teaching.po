@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 21:11+0200\n"
+"POT-Creation-Date: 2020-10-21 22:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,6 @@ msgid "2017, 2018"
 msgstr "2017, 2018"
 
 #: ../../source/Teaching.rst:6
-#, fuzzy
 msgid "Newtonian mechanics (1st year undergraduates, Université Grenoble Alpes)"
 msgstr "Mécanique du point (L1, Université Grenoble Alpes)"
 
