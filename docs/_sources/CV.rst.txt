@@ -23,9 +23,11 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 :2016 -- 2019: **Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. Supervisor: Alexia Auffèves.
     
 
-.. rubric:: Awards
+.. rubric:: Awards and Grants
 
 :2020: **Spinger Thesis Award**, recognizing outstanding Ph.D.research
+
+:2016: **Ph.D. grant** from the `CFM Foundation for Research <http://www.fondation-cfm.fr/>`_
 
 .. ~ .. rubric:: Grants
 

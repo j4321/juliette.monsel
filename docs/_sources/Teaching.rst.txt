@@ -3,7 +3,7 @@ Teaching
 
 .. rubric:: Teaching assistant
 
-:2017, 2018: Newtonian mechanics (1st year undergraduates) 
+:2017, 2018: Newtonian mechanics (1st year undergraduates, Université Grenoble Alpes) 
     
     Supervised tutorials and lab work. 
     

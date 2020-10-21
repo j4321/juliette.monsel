@@ -21,7 +21,7 @@ project = 'Juliette Monsel'
 copyright = '2020, Juliette Monsel'
 author = 'Juliette Monsel'
 
-
+languages = ['en', 'fr']
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -51,6 +51,7 @@ html_theme = 'alabaster'
 html_sidebars = {
     '**': [
         'about.html',
+        'language.html',
         'navigation.html',
         'relations.html',
     ]
@@ -58,6 +59,7 @@ html_sidebars = {
 
 html_theme_options = {
     'fixed_sidebar': True,
+    'show_powered_by': False,
 }
 
 
@@ -66,6 +68,10 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 
 html_static_path = ['_static']
+
+# intl
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
 
 # --- bibtex
 from pybtex.style.formatting.alpha import Style as PlainStyle
