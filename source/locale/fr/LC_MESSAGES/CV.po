@@ -144,7 +144,7 @@ msgid ""
 "French (native), English (fluent), Italian (good understanding), Swedish "
 "(beginner)"
 msgstr ""
-"Français (langue maternelle), Anglais (professionnelle), Italian "
+"Français (langue maternelle), Anglais (professionnelle), Italien "
 "(pratique occasionnelle)"
 
 #: ../../source/CV.rst
