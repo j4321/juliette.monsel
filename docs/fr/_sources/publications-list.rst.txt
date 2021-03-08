@@ -8,6 +8,15 @@ Books
         :all:
         :style: mystyle
 
+Preprints
+---------
+.. container:: publi
+
+    .. bibliography:: preprints.bib
+        :list: bullet
+        :all:
+        :style: mystyle
+    
 Articles
 --------
 

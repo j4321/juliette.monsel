@@ -19,8 +19,8 @@ for entry in bib_database.entries:
 
 headers = {
     'invited': """
-Invited talks and seminars
----------------------------
+Seminars and invited talks
+--------------------------
 """,
     'contributed': """
 Contributed talks

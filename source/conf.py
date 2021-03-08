@@ -30,7 +30,7 @@ languages = ['en', 'fr']
 extensions = [
     'sphinxcontrib.bibtex'
 ]
-
+bibtex_bibfiles = ['conf.bib', 'books.bib', 'preprints.bib', 'publications.bib']
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -420,6 +420,15 @@ class MyStyle(PlainStyle):
                 field('video', raw=True)
                 ]
         ]
+    
+    def format_title(self, e, which_field, as_sentence=True):
+        formatted_title = field(
+            which_field, apply_func=lambda text: f'"{text.capitalize()}"'
+        )
+        if as_sentence:
+            return sentence [ formatted_title ]
+        else:
+            return formatted_title
 
 
 register_plugin('pybtex.style.formatting', 'mystyle', MyStyle)

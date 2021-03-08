@@ -1,6 +1,16 @@
 
-Invited talks and seminars
----------------------------
+Seminars and invited talks
+--------------------------
+
+.. rubric:: 2021
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2021") and (keywords == "invited")
+        :style: mystyle
+
 
 .. rubric:: 2019
 

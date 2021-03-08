@@ -26,7 +26,7 @@ Juliette Monsel
         | Sweden
         
         | office: C434/MC2, Kemivägen 9
-        | email: monsel@chalmers.se
+        | email: monsel<at>chalmers.se
         
                     
 |

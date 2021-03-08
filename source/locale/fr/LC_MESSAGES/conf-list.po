@@ -19,8 +19,8 @@ msgstr ""
 "Generated-By: Babel 2.8.0\n"
 
 #: ../../source/conf-list.rst:3
-msgid "Invited talks and seminars"
-msgstr "Oraux sur invitation et séminaires"
+msgid "Seminars and invited talks"
+msgstr "Séminaires et oraux sur invitation"
 
 #: ../../source/conf-list.rst:6 ../../source/conf-list.rst:38
 msgid "2019"
