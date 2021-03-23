@@ -74,18 +74,64 @@ locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
 # --- bibtex
+import re
+
 from pybtex.style.formatting.alpha import Style as PlainStyle
 # ~ from pybtex.style.labels import BaseLabelStyle
 from pybtex.style.sorting import BaseSortingStyle
 import datetime
+from pybtex.style.template import node
 from pybtex.style.formatting import toplevel
 from pybtex.style.template import (
-    tag, field, optional, optional_field, sentence, words, first_of, join, href
+    tag, field, optional, names, optional_field, sentence, words, first_of, join, href
 )
+from pybtex.style.names import BaseNameStyle, name_part
 from pybtex.richtext import Symbol, Text
 # ~ from collections import Counter
 from pybtex.plugin import register_plugin
-import re
+
+
+class NameStyle(BaseNameStyle):
+
+    def format(self, person, abbr=False):
+        r"""
+        Format names similarly to {ff~}{vv~}{ll}{, jj} in BibTeX.
+
+        >>> from pybtex.database import Person
+        >>> name = Person(string=r"Charles Louis Xavier Joseph de la Vall{\'e}e Poussin")
+        >>> plain = NameStyle().format
+
+        >>> print(plain(name).format().render_as('latex'))
+        Charles Louis Xavier~Joseph de~la Vall{é}e~Poussin
+        >>> print(plain(name).format().render_as('html'))
+        Charles Louis Xavier&nbsp;Joseph de&nbsp;la Vall<span class="bibtex-protected">é</span>e&nbsp;Poussin
+
+        >>> print(plain(name, abbr=True).format().render_as('latex'))
+        C.~L. X.~J. de~la Vall{é}e~Poussin
+        >>> print(plain(name, abbr=True).format().render_as('html'))
+        C.&nbsp;L. X.&nbsp;J. de&nbsp;la Vall<span class="bibtex-protected">é</span>e&nbsp;Poussin
+
+        >>> name = Person(first='First', last='Last', middle='Middle')
+        >>> print(plain(name).format().render_as('latex'))
+        First~Middle Last
+
+        >>> print(plain(name, abbr=True).format().render_as('latex'))
+        F.~M. Last
+
+        >>> print(plain(Person('de Last, Jr., First Middle')).format().render_as('latex'))
+        First~Middle de~Last, Jr.
+
+        """
+        name =  join[
+            name_part(tie=True, abbr=abbr)[person.rich_first_names + person.rich_middle_names],
+            name_part(tie=True)[person.rich_prelast_names],
+            name_part[person.rich_last_names],
+            name_part(before=', ')[person.rich_lineage_names]
+        ]
+        if str(person) == "Monsel, Juliette":
+            return tag("em")[name]
+        return name
+
 
 #~class LabelStyle(BaseLabelStyle):
 #~    def format_labels(self, sorted_entries):
@@ -110,6 +156,7 @@ import re
 #~        else:
 #~            return "??"
 #~        # bst additionally sets sort.label
+
 
 class SortingStyle(BaseSortingStyle):
 
@@ -149,6 +196,8 @@ class MyStyle(PlainStyle):
         super(MyStyle, self).__init__(*args, **kwargs)
         self.sorting_style = SortingStyle()
         self.sort = self.sorting_style.sort
+        self.name_style = NameStyle()
+        self.format_name = self.name_style.format
         # ~ self.label_style = LabelStyle()
         # ~ self.format_labels = self.label_style.format_labels
 
@@ -196,21 +245,30 @@ class MyStyle(PlainStyle):
         ]
         return template
 
-    #~def get_book_template(self, e):
-    #~    template = toplevel [
-    #~        self.format_author_or_editor(e),
-    #~        self.format_btitle(e, 'title'),
-    #~        self.format_volume_and_series(e),
-    #~        sentence [
-    #~            field('publisher'),
-    #~            optional_field('address'),
-    #~            self.format_edition(e),
-    #~        ],
-    #~        optional[ sentence [ self.format_isbn(e) ] ],
-    #~        sentence [ optional_field('note') ],
-    #~        self.format_web_refs(e),
-    #~    ]
-    #~    return template
+    def get_book_template(self, e):
+        template = toplevel [
+            self.format_author_or_editor(e),
+            self.format_btitle(e, 'title'),
+            self.format_volume_and_series(e),
+            sentence [
+                field('publisher'),
+                optional_field('address'),
+                self.format_edition(e),
+            ],
+            optional[ sentence [ self.format_isbn(e) ] ],
+            sentence [ optional_field('note') ],
+            self.format_web_refs(e),
+            optional[ sentence [ self.format_phd(e) ] ],
+        ]
+        return template
+    
+    def format_url(self, e):
+        # based on urlbst format.url
+        return href [
+            field('url', raw=True),
+            field('url', raw=True)
+        ]
+
 
     def get_booklet_template(self, e):
         template = toplevel [
@@ -400,6 +458,14 @@ class MyStyle(PlainStyle):
             self.format_web_refs(e),
         ]
         return template
+        
+    def format_names(self, role, as_sentence=True):
+        formatted_names = names(role, sep=', ', sep2 = ' and ', last_sep=', and ')
+        if as_sentence:
+            return sentence [formatted_names]
+        else:
+            return formatted_names
+
 
     def format_web_refs(self, e):
         # based on urlbst output.web.refs
@@ -421,6 +487,23 @@ class MyStyle(PlainStyle):
                 ]
         ]
     
+    def format_phd(self, e):
+        # based on urlbst format.url
+        return words [
+            'The initial version of my PhD dissertation is available ',
+            href [
+                field('phd', raw=True),
+                'here'
+                ]
+        ]
+        
+    def format_btitle(self, e, which_field, as_sentence=True):
+        formatted_title = field(which_field)
+        if as_sentence:
+            return sentence[ formatted_title ]
+        else:
+            return formatted_title
+    
     def format_title(self, e, which_field, as_sentence=True):
         formatted_title = field(
             which_field, apply_func=lambda text: f'"{text.capitalize()}"'
@@ -429,6 +512,5 @@ class MyStyle(PlainStyle):
             return sentence [ formatted_title ]
         else:
             return formatted_title
-
 
 register_plugin('pybtex.style.formatting', 'mystyle', MyStyle)

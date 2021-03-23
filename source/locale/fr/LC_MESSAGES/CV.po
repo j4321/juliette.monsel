@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 22:35+0200\n"
+"POT-Creation-Date: 2021-03-23 18:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../source/CV.rst:2
 msgid "Short CV"
@@ -28,7 +28,57 @@ msgstr ""
 "Mon CV complet (en anglais) est disponible :download:`ici "
 "<assets/CV_Juliette_Monsel.pdf>`"
 
+#: ../../source/CV.rst:7
+msgid "Research"
+msgstr "Recherche"
+
+#: ../../source/CV.rst
+msgid "2020 -- current"
+msgstr "2020 -- aujourd'hui"
+
 #: ../../source/CV.rst:8
+msgid ""
+"**Postdoctoral researcher**, *Dept. of Microtechnology and Nanoscience, "
+"Chalmers University of Technology*, Gothenburg, Sweden. Advisor: Janine "
+"Splettstoesser."
+msgstr ""
+"**Chercheuse postdoctorale**, *Dept. de Microtechnologie et Nanoscience, "
+"Chalmers Tekniska Högskola*, Göteborg, Suède. Encadrante: Janine "
+"Splettstoesser."
+
+#: ../../source/CV.rst:10
+msgid "Thermodynamics of optomechanics and electronic transport."
+msgstr "Thermodynamique appliquée à l'optomécanique et au transport électronique."
+
+#: ../../source/CV.rst
+msgid "2019 -- 2020"
+msgstr ""
+
+#: ../../source/CV.rst:13
+msgid ""
+"**Postdoctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France."
+" Advisor: Alexia Auffèves."
+msgstr ""
+"**Chercheuse postdoctorale**, *Institut Néel, CNRS/UGA*, Grenoble. "
+"Encadrante: Alexia Auffèves."
+
+#: ../../source/CV.rst:15 ../../source/CV.rst:20
+msgid "Quantum thermodynamics and optomechanics."
+msgstr "Thermodynamique quantique et optomécanique."
+
+#: ../../source/CV.rst
+msgid "2016 -- 2019"
+msgstr ""
+
+#: ../../source/CV.rst:18
+msgid ""
+"**Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. "
+"Supervisor: Alexia Auffèves."
+msgstr ""
+"**Doctorante**, *Institut Néel, CNRS/UGA*, Grenoble. Encadrante: Alexia "
+"Auffèves."
+
+#: ../../source/CV.rst:24
 msgid "Education"
 msgstr "Éducation"
 
@@ -36,7 +86,7 @@ msgstr "Éducation"
 msgid "2019"
 msgstr ""
 
-#: ../../source/CV.rst:9
+#: ../../source/CV.rst:25
 msgid ""
 "**Ph.D.** in Theoretical Physics at `Université Grenoble Alpes "
 "<https://www.univ-grenoble-alpes.fr/english/>`_, France"
@@ -48,7 +98,7 @@ msgstr ""
 msgid "2016"
 msgstr ""
 
-#: ../../source/CV.rst:11
+#: ../../source/CV.rst:27
 msgid ""
 "**M.Sc.** in Physics at `École Normale Supérieure de Lyon <http://www"
 ".ens-lyon.fr/en/>`_, France"
@@ -60,7 +110,7 @@ msgstr ""
 msgid "2014"
 msgstr ""
 
-#: ../../source/CV.rst:13
+#: ../../source/CV.rst:29
 msgid ""
 "**B.Sc.** in Physics at `École Normale Supérieure de Lyon <http://www"
 ".ens-lyon.fr/en/>`_, France"
@@ -68,49 +118,7 @@ msgstr ""
 "**Licence**, Science de la Matière spécialité Physique à `l'École Normale"
 " Supérieure de Lyon <http://www.ens-lyon.fr/>`_"
 
-#: ../../source/CV.rst:16
-msgid "Research"
-msgstr "Recherche"
-
-#: ../../source/CV.rst
-msgid "2020 -- current"
-msgstr "2020 -- aujourd'hui"
-
-#: ../../source/CV.rst:17
-msgid ""
-"**Postdoctoral researcher**, *Dept. of Microtechnology and Nanoscience, "
-"Chalmers University of Technology*, Gothenburg, Sweden. Advisor: Janine "
-"Splettstoesser."
-msgstr ""
-"**Chercheuse postdoctorale**, *Dept. de Microtechnologie et Nanoscience, "
-"Chalmers Tekniska Högskola*, Göteborg, Suède. Encadrante: Janine "
-"Splettstoesser."
-
-#: ../../source/CV.rst
-msgid "2019 -- 2020"
-msgstr ""
-
-#: ../../source/CV.rst:20
-msgid ""
-"**Postdoctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France."
-" Advisor: Alexia Auffèves."
-msgstr ""
-"**Chercheuse postdoctorale**, *Institut Néel, CNRS/UGA*, Grenoble. "
-"Encadrante: Alexia Auffèves."
-
-#: ../../source/CV.rst
-msgid "2016 -- 2019"
-msgstr ""
-
-#: ../../source/CV.rst:23
-msgid ""
-"**Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. "
-"Supervisor: Alexia Auffèves."
-msgstr ""
-"**Doctorante**, *Institut Néel, CNRS/UGA*, Grenoble. Encadrante: Alexia "
-"Auffèves."
-
-#: ../../source/CV.rst:27
+#: ../../source/CV.rst:33
 msgid "Awards and Grants"
 msgstr "Récompenses et bourses"
 
@@ -118,20 +126,21 @@ msgstr "Récompenses et bourses"
 msgid "2020"
 msgstr "2020"
 
-#: ../../source/CV.rst:28
+#: ../../source/CV.rst:34
 msgid "**Spinger Thesis Award**, recognizing outstanding Ph.D.research"
 msgstr ""
 "**Prix de thèse Springer**, récompensant une recherche de doctorat "
 "exceptionnelle"
 
-#: ../../source/CV.rst:30
+#: ../../source/CV.rst:36
 msgid ""
 "**Ph.D. grant** from the `CFM Foundation for Research <http://www"
 ".fondation-cfm.fr/>`_"
 msgstr ""
 "**Bourse de thèse** de la `Fondation CFM pour la Recherche <http://www"
 ".fondation-cfm.fr/>`_"
-#: ../../source/CV.rst:41
+
+#: ../../source/CV.rst:47
 msgid "Skills"
 msgstr "Compétences"
 
@@ -139,39 +148,39 @@ msgstr "Compétences"
 msgid "Languages"
 msgstr "Langues"
 
-#: ../../source/CV.rst:42
+#: ../../source/CV.rst:48
 msgid ""
 "French (native), English (fluent), Italian (good understanding), Swedish "
 "(beginner)"
 msgstr ""
 "Français (langue maternelle), Anglais (professionnelle), Italien "
-"(pratique occasionnelle)"
+"(bonne compréhension), Suédois (débutante)"
 
 #: ../../source/CV.rst
 msgid "Programming"
 msgstr "Programmation"
 
-#: ../../source/CV.rst:43
+#: ../../source/CV.rst:49
 msgid "Python, Git, C++, Matlab"
 msgstr "Python, Git, C++, Matlab"
 
-#: ../../source/CV.rst:46
+#: ../../source/CV.rst:52
 msgid "Social media"
 msgstr "Réseaux sociaux"
 
-#: ../../source/CV.rst:47
+#: ../../source/CV.rst:53
 msgid "|ORCID| http://orcid.org/0000-0002-4965-6794"
 msgstr ""
 
-#: ../../source/CV.rst:48
+#: ../../source/CV.rst:54
 msgid "|scholar| https://scholar.google.com/scholar?q=Juliette+Monsel"
 msgstr ""
 
-#: ../../source/CV.rst:49
+#: ../../source/CV.rst:55
 msgid "|linkedin| https://www.linkedin.com/in/juliette-monsel/"
 msgstr ""
 
-#: ../../source/CV.rst:50
+#: ../../source/CV.rst:56
 msgid "|RG| https://www.researchgate.net/profile/Juliette_Monsel"
 msgstr ""
 
