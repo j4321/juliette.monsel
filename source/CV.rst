@@ -50,11 +50,12 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. rubric:: Social media
 
-.. ~- |ORCID| http://orcid.org/0000-0002-4965-6794
-.. ~- |scholar| https://scholar.google.com/scholar?q=Juliette+Monsel
+
 - |linkedin| https://www.linkedin.com/in/juliette-monsel/
 - |RG| https://www.researchgate.net/profile/Juliette_Monsel
 
+.. ~- |ORCID| http://orcid.org/0000-0002-4965-6794
+.. ~- |scholar| https://scholar.google.com/scholar?q=Juliette+Monsel
 
 .. ~.. |ORCID| image:: assets/orcid.png
 .. ~    :width: 20

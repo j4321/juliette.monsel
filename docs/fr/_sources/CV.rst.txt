@@ -3,6 +3,22 @@ Short CV
 
 My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
+.. rubric:: Research
+
+:2020 -- current: **Postdoctoral researcher**, *Dept. of Microtechnology and Nanoscience, Chalmers University of Technology*, Gothenburg, Sweden. Advisor: Janine Splettstoesser.
+
+    Thermodynamics of optomechanics and electronic transport.
+    
+    
+:2019 -- 2020: **Postdoctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. Advisor: Alexia Auffèves.
+
+    Quantum thermodynamics and optomechanics.
+    
+
+:2016 -- 2019: **Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. Supervisor: Alexia Auffèves. 
+    
+    Quantum thermodynamics and optomechanics.
+
 .. rubric:: Education
 
 
@@ -12,16 +28,6 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 :2014: **B.Sc.** in Physics at `École Normale Supérieure de Lyon <http://www.ens-lyon.fr/en/>`_, France
 
-.. rubric:: Research
-
-:2020 -- current: **Postdoctoral researcher**, *Dept. of Microtechnology and Nanoscience, Chalmers University of Technology*, Gothenburg, Sweden. Advisor: Janine Splettstoesser.
-    
-    
-:2019 -- 2020: **Postdoctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. Advisor: Alexia Auffèves.
-    
-
-:2016 -- 2019: **Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. Supervisor: Alexia Auffèves.
-    
 
 .. rubric:: Awards and Grants
 
@@ -44,19 +50,20 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. rubric:: Social media
 
-- |ORCID| http://orcid.org/0000-0002-4965-6794
-- |scholar| https://scholar.google.com/scholar?q=Juliette+Monsel
+
 - |linkedin| https://www.linkedin.com/in/juliette-monsel/
 - |RG| https://www.researchgate.net/profile/Juliette_Monsel
 
+.. ~- |ORCID| http://orcid.org/0000-0002-4965-6794
+.. ~- |scholar| https://scholar.google.com/scholar?q=Juliette+Monsel
 
-.. |ORCID| image:: assets/orcid.png
-    :width: 20
-    :alt: ORCID
+.. ~.. |ORCID| image:: assets/orcid.png
+.. ~    :width: 20
+.. ~    :alt: ORCID
     
-.. |scholar| image:: assets/scholar.png
-    :width: 20
-    :alt: Google Scholar
+.. ~.. |scholar| image:: assets/scholar.png
+.. ~    :width: 20
+.. ~    :alt: Google Scholar
     
 .. |linkedin| image:: assets/linkedin.png
     :width: 20

@@ -62,3 +62,7 @@ div.body h6  {
     color: white;
 */
 }
+
+.underline {
+  text-decoration: underline;
+}
