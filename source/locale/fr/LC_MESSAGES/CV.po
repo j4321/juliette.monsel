@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 18:12+0100\n"
+"POT-Creation-Date: 2021-03-24 00:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -153,8 +153,8 @@ msgid ""
 "French (native), English (fluent), Italian (good understanding), Swedish "
 "(beginner)"
 msgstr ""
-"Français (langue maternelle), Anglais (professionnelle), Italien "
-"(bonne compréhension), Suédois (débutante)"
+"Français (langue maternelle), Anglais (courant), Italien (bonne "
+"compréhension), Suédois (notions)"
 
 #: ../../source/CV.rst
 msgid "Programming"
@@ -168,14 +168,6 @@ msgstr "Python, Git, C++, Matlab"
 msgid "Social media"
 msgstr "Réseaux sociaux"
 
-#: ../../source/CV.rst:53
-msgid "|ORCID| http://orcid.org/0000-0002-4965-6794"
-msgstr ""
-
-#: ../../source/CV.rst:54
-msgid "|scholar| https://scholar.google.com/scholar?q=Juliette+Monsel"
-msgstr ""
-
 #: ../../source/CV.rst:55
 msgid "|linkedin| https://www.linkedin.com/in/juliette-monsel/"
 msgstr ""
@@ -183,4 +175,10 @@ msgstr ""
 #: ../../source/CV.rst:56
 msgid "|RG| https://www.researchgate.net/profile/Juliette_Monsel"
 msgstr ""
+
+#~ msgid "|ORCID| http://orcid.org/0000-0002-4965-6794"
+#~ msgstr ""
+
+#~ msgid "|scholar| https://scholar.google.com/scholar?q=Juliette+Monsel"
+#~ msgstr ""
 

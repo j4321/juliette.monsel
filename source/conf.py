@@ -28,9 +28,10 @@ languages = ['en', 'fr']
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinxcontrib.bibtex'
+    'sphinxcontrib.bibtex',
+    'sphinxcontrib.openstreetmap'
 ]
-bibtex_bibfiles = ['conf.bib', 'books.bib', 'preprints.bib', 'publications.bib']
+bibtex_bibfiles = ['conf.bib', 'publications.bib']
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -73,6 +74,25 @@ html_static_path = ['_static']
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
+# --- compile CV
+import os
+path = os.getcwd()
+import sys
+sys.path.append(path)
+from compile_CV import compile_CV
+compile_CV()
+
+# ~import subprocess
+# ~os.chdir("assets")
+# ~p = subprocess.Popen(["pdflatex", "-output-directory=build", "CV_Juliette_Monsel.tex"], stdout=subprocess.PIPE)
+# ~print(p.stdout.read().decode())
+# ~p = subprocess.Popen(["biber", "build/CV_Juliette_Monsel"], stdout=subprocess.PIPE)
+# ~print(p.stdout.read().decode())
+# ~p = subprocess.Popen(["pdflatex", "-output-directory=build", "CV_Juliette_Monsel.tex"], stdout=subprocess.PIPE)
+# ~print(p.stdout.read().decode())
+# ~os.rename("build/CV_Juliette_Monsel.pdf", "CV_Juliette_Monsel.pdf")
+# ~os.chdir(path)
+
 # --- bibtex
 import re
 
@@ -89,6 +109,12 @@ from pybtex.style.names import BaseNameStyle, name_part
 from pybtex.richtext import Symbol, Text
 # ~ from collections import Counter
 from pybtex.plugin import register_plugin
+
+from rst_from_bib import generate_conf, generate_publi
+# generate publication and conference lists from bibtex files
+
+generate_conf()
+generate_publi()
 
 
 class NameStyle(BaseNameStyle):
@@ -162,6 +188,9 @@ class SortingStyle(BaseSortingStyle):
 
     def sorting_key(self, entry):
         year = entry.fields.get('year', '')
+        if not year.isdigit():
+            # preprint
+            year =  f"20{entry.fields['eprint'][:2]}"
         month = entry.fields.get('month', '')
         if month and year:
             date = datetime.datetime.strptime('{} {}'.format(month, year), '%b %Y')
@@ -254,6 +283,7 @@ class MyStyle(PlainStyle):
                 field('publisher'),
                 optional_field('address'),
                 self.format_edition(e),
+                field('year')
             ],
             optional[ sentence [ self.format_isbn(e) ] ],
             sentence [ optional_field('note') ],

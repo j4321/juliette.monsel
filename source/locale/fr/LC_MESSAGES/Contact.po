@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2021, Juliette Monsel
+# This file is distributed under the same license as the Juliette Monsel
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Juliette Monsel \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-15 18:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../source/Contact.rst:2
+msgid "Contact"
+msgstr ""
+
+#: ../../source/Contact.rst:6
+msgid "Email: monsel<at>chalmers.se"
+msgstr "Courriel: monsel<at>chalmers.se"
+
+#: ../../source/Contact.rst:7
+msgid ""
+"`My Chalmers webpage "
+"<https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_"
+msgstr "Ma page Chalmers"
+
+#: ../../source/Contact.rst:9
+msgid "Address"
+msgstr "Adresse"
+
+#: ../../source/Contact.rst
+msgid "Dept. of Microtechnology and Nanoscience (MC2)"
+msgstr ""
+
+#: ../../source/Contact.rst
+msgid "Chalmers University of Technology"
+msgstr ""
+
+#: ../../source/Contact.rst
+msgid "SE-412 96 Gothenburg"
+msgstr ""
+
+#: ../../source/Contact.rst
+msgid "Sweden"
+msgstr ""
+
+#: ../../source/Contact.rst
+msgid "office: C434 at MC2, Kemivägen 9"
+msgstr "bureau: C434 at MC2, Kemivägen 9"
+

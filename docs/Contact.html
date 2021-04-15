@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact &#8212; My research webpage</title>
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/style.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Teaching" href="Teaching.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  <div class="document">
+    
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Juliette Monsel</a></h1>
+
+
+
+
+
+
+
+
+
+<a href="fr/Contact.html">En français</a>
+<p class="caption"><span class="caption-text">My research webpage:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="CV.html">Short CV</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Publications.html">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Conferences.html">Conferences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Teaching.html">Teaching</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Contact</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="Teaching.html" title="previous chapter">Teaching</a></li>
+  </ul></li>
+</ul>
+</div>
+        </div>
+      </div>
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="contact">
+<h1>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">¶</a></h1>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p>Email: monsel&lt;at&gt;chalmers.se</p></li>
+<li><p><a class="reference external" href="https://www.chalmers.se/en/staff/Pages/monsel.aspx">My Chalmers webpage</a></p></li>
+<li><p>Address</p>
+<blockquote>
+<div><div class="line-block">
+<div class="line">Dept. of Microtechnology and Nanoscience (MC2)</div>
+<div class="line">Chalmers University of Technology</div>
+<div class="line">SE-412 96 Gothenburg</div>
+<div class="line">Sweden</div>
+<div class="line"><br /></div>
+<div class="line">office: C434 at MC2, Kemivägen 9</div>
+</div>
+</div></blockquote>
+</li>
+</ul>
+
+        <link rel="stylesheet" href="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/libs/leaflet/leaflet.css" />
+        <link rel="stylesheet" href="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.css" />
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/libs/leaflet/leaflet-src.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/Label.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/BaseMarkerMethods.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/Marker.Label.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/CircleMarker.Label.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/Path.Label.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/Map.Label.js"></script>
+        <script src="http://cdn.rawgit.com/Leaflet/Leaflet.label/master/src/FeatureGroup.Label.js"></script>
+        
+        <div id='chalmers_MC2' style='width: 100%; height: 400px;'>
+        <script type='text/javascript'>
+        var osm_url = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var attr = "MC2, Chalmers | Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors";
+        var osm = new L.TileLayer(osm_url, {attribution: attr});
+        var latlng = new L.LatLng(57.6912759, 11.9754732);
+        var chalmers_MC2 = new L.Map('chalmers_MC2', {
+        layers: [osm],
+        center: latlng,
+        zoom: 15,
+        zoomControl: true,
+        });var markers = [
+            {label: "MC2 - Chalmers, Kemivägen 9", latitude: 57.6912759, longitude: 11.9754732},
+            ];
+        for (var i = 0; i < markers.length; i++) {
+          var marker = markers[i];
+          var latlng = [marker['latitude'], marker['longitude']];
+          var label = marker['label'];
+          L.marker(latlng).bindLabel(label, {noHide: true}).addTo(chalmers_MC2);
+        }
+        L.multiPolygon([
+        ]).bindLabel("").addTo(chalmers_MC2);</script></div></div>
+
+
+          </div>
+          
+        </div>
+      </div>
+    <div class="clearer"></div>
+  </div>
+    <div class="footer">
+      &copy;2020-2021, Juliette Monsel.
+      
+      |
+      <a href="_sources/Contact.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -21,6 +21,10 @@ div.header {
 div.publi li:not(:last-child) {
     margin-bottom: 20px;
 }
+div.document {
+    width: 75%;
+    margin: 30px auto 0 auto;
+}
 
 
 div.leftside {
@@ -30,7 +34,10 @@ div.leftside {
 }
 
 div.rightside {
+/*
   margin-left: 37%;
+*/
+  margin-left: 5%;
   font-size: 85%;
   /* float: right; */
 }
@@ -66,3 +73,53 @@ div.body h6  {
 .underline {
   text-decoration: underline;
 }
+
+/*
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
+}
+*/
+
+div.preprint.admonition {
+    margin: 5px 0px 20px 30px;
+    font-size: 85%;
+    padding: 10px 20px;
+    background-color: {{ theme_admonition_bg }};
+    border: 1px solid {{ theme_admonition_border }};
+}
+
+/*
+div.preprint.admonition tt.xref, div.admonition code.xref, div.admonition a tt {
+    background-color: {{ theme_admonition_xref_bg }};
+    border-bottom: 1px solid {{ theme_admonition_xref_border }};
+}
+*/
+
+div.preprint.admonition p.admonition-title {
+    font-family: {{ theme_head_font_family }};
+    font-weight: normal;
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    line-height: 1;
+}
+
+/*
+div.preprint admonition p.last {
+    margin-bottom: 0;
+}
+*/
+
+
+div.preprint.admonition p.admonition-title:after {
+    content: "";
+}
+
