@@ -9,26 +9,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 18:17+0200\n"
+"POT-Creation-Date: 2021-06-28 16:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../source/Bicycles.rst:2
-msgid "Bicycle and mechanics"
+#, fuzzy
+msgid "Hobby: Bicycle and mechanics"
 msgstr "Vélo et mécanique"
-
-#: ../../source/Bicycles.rst:4
-msgid ""
-"Though I do fundamental theoretical research in quantum mechanics, I also"
-" practise applied bicycle mechanics as a hobby."
-msgstr ""
-"Bien que je fasse de la recherche fondamentale et théorique en mécanique "
-"quantique, je fait aussi la mécanique appliquée au vélo."
 
 #: ../../source/Bicycles.rst:8
 msgid "Cycling in the city"
@@ -100,31 +93,31 @@ msgid "Bike kitchens"
 msgstr "Ateliers vélo participatifs et solidaires"
 
 #: ../../source/Bicycles.rst:29
+#, fuzzy
 msgid ""
-"One thing I like about (old) bikes is that they are simple / low tech "
-"enough so that it is possible repair them oneself. I find it really "
-"satisfying to be able to diagnose and fix myself most issues I have with "
-"my bikes. A great place to learn bicycle mechanics is a *Bike Kitchen*, "
-"that is a Do-It-Yourself bicyle workshop where one has access to tools, "
-"second-hand spare parts and help from volunteers. Bike kitchens come with"
-" a large variety of structures and operating models (exclusively "
-"volunteer-run or with few employees, membership mandatory or not to "
-"access the workshop, ... ) but they have the common goals of promoting "
-"bike riding, reusing and recycling old bikes and teaching bicycle "
-"mechanics."
+"One thing I like about (old) bikes is that they are simple enough so that"
+" it is possible repair them oneself. I find it really satisfying to be "
+"able to diagnose and fix myself most issues I have with my bikes. A great"
+" place to learn bicycle mechanics is a *Bike Kitchen*, that is a Do-It-"
+"Yourself bicyle workshop where one has access to tools, second-hand spare"
+" parts and help from volunteers. Bike kitchens come with a large variety "
+"of structures and operating models (exclusively volunteer-run or with few"
+" employees, membership mandatory or not to access the workshop, ... ) but"
+" they have the common goals of promoting bike riding, reusing and "
+"recycling old bikes and teaching bicycle mechanics."
 msgstr ""
-"Une des raisons pour lesquelles j'apprécie les (vieux) vélos est qu'ils sont "
-"suffisamment simples pour pouvoir les réparer soi-même. Je trouve cela très "
-"satisafaisant d'être capable de diagnostiquer et réparer moi-même la plupart "
-"des problèmes que j'ai avec mes vélos. Les atelier vélo participatifs et 
-"solidaires (souvent appelés 'Bike kitchens' dans les pays anglophones) sont "
-"de bons endroits où apprendre la mécanique cycle. Il s'agit d'ateliers "
-"d'auto-réparation qui donnent accès à des outils, des pièces détachées d'occasions "
-"et à l'aide des bénévoles. Il en existe avec des structures et modes d'organisation "
-"variés (avec ou sans salariés, adhésion obligatoire ou non pour accéder à l'atelier, ...) "
-"mais ils ont pour but commun de promouvoir le vélo à travers le rémploi de vieux vélos et "
-"l'apprentissage de la mécanique cycle."
-
+"Une des raisons pour lesquelles j'apprécie les (vieux) vélos est qu'ils "
+"sont suffisamment simples pour pouvoir les réparer soi-même. Je trouve "
+"cela très satisafaisant d'être capable de diagnostiquer et réparer moi-"
+"même la plupart des problèmes que j'ai avec mes vélos. Les atelier vélo "
+"participatifs esolidaires (souvent appelés 'Bike kitchens' dans les pays "
+"anglophones) sont de bons endroits où apprendre la mécanique cycle. Il "
+"s'agit d'ateliers d'auto-réparation qui donnent accès à des outils, des "
+"pièces détachées d'occasions et à l'aide des bénévoles. Il en existe avec"
+" des structures et modes d'organisation variés (avec ou sans salariés, "
+"adhésion obligatoire ou non pour accéder à l'atelier, ...) mais ils ont "
+"pour but commun de promouvoir le vélo à travers le rémploi de vieux vélos"
+" et l'apprentissage de la mécanique cycle."
 
 #: ../../source/Bicycles.rst:36
 msgid "I have been a volunteer in two of them:"
@@ -147,7 +140,8 @@ msgid ""
 "and this is where I learned almost everything I know about bicycle "
 "mechanics."
 msgstr ""
-"Et c'est dans ces ateliers, et en particulier au p’Tit véLo, que j'ai acquis la quasi-totalité de es connaissances en mécanique cycle."
+"Et c'est dans ces ateliers, et en particulier au p’Tit véLo, que j'ai "
+"acquis la quasi-totalité de es connaissances en mécanique cycle."
 
 #: ../../source/Bicycles.rst:43
 msgid "What I like about bike kitchens:"
@@ -193,16 +187,15 @@ msgstr ""
 msgid ""
 "`Wiklou <vhttps://wiklou.org/wiki/Accueil>`_, le wiki francophone du vélo"
 " (in French)"
-msgstr ""
-"`Wiklou <vhttps://wiklou.org/wiki/Accueil>`_, le wiki francophone du vélo"
+msgstr "`Wiklou <vhttps://wiklou.org/wiki/Accueil>`_, le wiki francophone du vélo"
 
 #: ../../source/Bicycles.rst:56
 msgid ""
 "`List of publications about bicycle workshops "
 "<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 msgstr ""
-"Liste de publications à propos des ateliers vélo (en anglais)"
-"<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
+"Liste de publications à propos des ateliers vélo (en "
+"anglais)<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 
 #: ../../source/Bicycles.rst:60
 msgid "Travelling"
@@ -222,12 +215,14 @@ msgstr ""
 #: ../../source/Bicycles.rst:63
 #, fuzzy
 msgid "Châlons sur Sâone - Tours (6 days, ~ 600 km, summer 2019) with this bike:"
-msgstr ""
-"Châlons sur Sâone - Tours (6 jours, ~ 600 km, été 2019) avec ce"
-" vélo :"
+msgstr "Châlons sur Sâone - Tours (6 jours, ~ 600 km, été 2019) avec ce vélo :"
 
 #: ../../source/Bicycles.rst:65
 msgid "|diaferia|"
+msgstr ""
+
+#: ../../source/Bicycles.rst:73 ../../source/Bicycles.rst:77
+msgid "My mountainbike with luggage"
 msgstr ""
 
 #: ../../source/Bicycles.rst:67
@@ -236,14 +231,22 @@ msgid ""
 "<https://kattegattleden.se/>`_ (3 days and half, ~ 400 km, summer 2020) "
 "with this bike (picture taken during the trip with the luggage on):"
 msgstr ""
-"Göteborg - Helsinborg en suivant le "
-"`Kattegattleden <https://kattegattleden.se/>`_ (3 "
-"jours et demi, ~ 400 km, été 2020) avec ce vélo (photo "
-"prise pendant le voyage avec tous "
-"mes bagages):"
-
+"Göteborg - Helsinborg en suivant le `Kattegattleden "
+"<https://kattegattleden.se/>`_ (3 jours et demi, ~ 400 km, été 2020) avec"
+" ce vélo (photo prise pendant le voyage avec tous mes bagages):"
 
 #: ../../source/Bicycles.rst:69
 msgid "|RD|"
 msgstr ""
+
+#~ msgid ""
+#~ "Though I do fundamental theoretical "
+#~ "research in quantum mechanics, I also"
+#~ " practise applied bicycle mechanics as "
+#~ "a hobby."
+#~ msgstr ""
+#~ "Bien que je fasse de la recherche"
+#~ " fondamentale et théorique en mécanique "
+#~ "quantique, je fait aussi la mécanique"
+#~ " appliquée au vélo."
 

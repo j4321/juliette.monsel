@@ -40,30 +40,13 @@ My research interests are:
 - electronic transport
 
 |
+
 ------------
     
 News
 ----
 
-- *New preprint* -- March 28, 2021
-
-.. admonition::  Ultrastrong coupling between electron tunneling and mechanical motion
-    :class: preprint
-    
-    *Florian Vigneau, Juliette Monsel, Jorge Tabanera, Léa Bresque, Federico Fedele, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares*
-    
-    .. image:: assets/Vigneau2021Mar.svg
-        :align: right
-
-    We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. 
-    We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
-
-    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
-    
-    `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
-
-
-- *New preprint* -- March 5, 2021
+- *New article* -- June 25, 2021
 
 .. admonition::  Optomechanical cooling with coherent and squeezed light: the thermodynamic cost of opening the heat valve
     :class: preprint
@@ -78,8 +61,28 @@ News
     
     This work arises from a collaboration between `Janine Splettstoesser's theoretical group <https://sites.google.com/site/splettchalmers>`_ and `Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ to investigate thermodynamics with optomechanical setups.
     
-    `arXiv:2103.03596 <https://arxiv.org/abs/2103.03596>`_
+    `Phys. Rev. A 103, 063519 (2021) <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_
     
+
+
+- *New preprint* -- March 28, 2021
+
+.. admonition::  Ultrastrong coupling between electron tunneling and mechanical motion
+    :class: preprint
+    
+    *Florian Vigneau, Juliette Monsel, Jorge Tabanera, Léa Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares*
+    
+    .. image:: assets/Vigneau2021Mar.svg
+        :align: right
+
+    We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. 
+    We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
+
+    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
+    
+    `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
+
+
         
 
 

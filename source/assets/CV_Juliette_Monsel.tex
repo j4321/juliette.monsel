@@ -45,10 +45,32 @@ maxnames=100]{biblatex}
 \AtEveryBibitem{%
     \clearfield{number}
 }
+\usepackage[normalem]{ulem} %for \uline
 
+\usepackage{xstring}
+\usepackage{etoolbox}
+\newboolean{bold}
+\newcommand{\underlineauthor}[1]{%
+    \DeclareNameFormat{author}{%
+        \setboolean{bold}{false}%
+        \renewcommand{\do}[1]{\expandafter\ifstrequal\expandafter{\namepartfamily}{####1}{\setboolean{bold}{true}}{}}%
+        \docsvlist{#1}%
+        \ifthenelse{\value{listcount}=1}
+        {%
+            {\expandafter\ifthenelse{\boolean{bold}}{\uline{\namepartgiveni\addspace\namepartfamily }}{\namepartgiveni\addspace\namepartfamily}}%
+        }{\ifnumless{\value{listcount}}{\value{liststop}}
+            {\expandafter\ifthenelse{\boolean{bold}}{\addcomma\addspace \uline{\namepartgiveni\addspace\namepartfamily }}{\addcomma\addspace \namepartgiveni\addspace\namepartfamily }}%
+            {\expandafter\ifthenelse{\boolean{bold}}{\addcomma\addspace \uline{\namepartgiveni\addspace \namepartfamily \addcomma\isdot}}{\addcomma\addspace \namepartgiveni\addspace\namepartfamily\addcomma \addcomma\isdot}}%
+        }
+        \ifthenelse{\value{listcount}<\value{liststop}}
+        {\addcomma\space}{}
+    }
+}
+
+\underlineauthor{Monsel, Juliette}
 
 \renewbibmacro*{date}{}
-\renewbibmacro*{author/translator+others}{}
+%\renewbibmacro*{author/translator+others}{}
 \DeclareFieldFormat[article]{pages}{#1}
 \DeclareFieldFormat[article]{volume}{\textbf{#1}}
 \renewbibmacro*{date+extrayear}{}
@@ -56,6 +78,7 @@ maxnames=100]{biblatex}
 %
 \newcommand*{\bibyear}{}
 \renewbibmacro{in:}{}
+%\setlength{\bibitemsep}{0.25em}
 \defbibenvironment{bibliography}
 {\list
     {\iffieldequals{year}{\bibyear}
@@ -116,13 +139,13 @@ maxnames=100]{biblatex}
 %\phone[fax]{+3~(456)~789~012}
 \email{monsel@chalmers.se}                               % optional, remove / comment the line if not wanted
 %\email{juliette.monsel@gmx.fr}                               % optional, remove / comment the line if not wanted
-\homepage{https://j4321.github.io/juliette.monsel}                         % optional, remove / comment the line if not wanted
+\homepage{j4321.github.io/juliette.monsel}                         % optional, remove / comment the line if not wanted
 %\social[linkedin]{www.linkedin.com/in/juliette-monsel}                        % optional, remove / comment the line if not wanted
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
 %\social[github]{j4321}                              % optional, remove / comment the line if not wanted
 \extrainfo{Nationality: French}                 % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
-\quote{Research interests: stochastic thermodynamics, quantum optics, optomechanics and electronic transport.}                                 % optional, remove / comment the line if not wanted
+\quote{Research interests: stochastic thermodynamics, quantum open systems, quantum optics, optomechanics and electronic transport.}                                 % optional, remove / comment the line if not wanted
 
 % to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
 %\makeatletter
@@ -148,19 +171,20 @@ maxnames=100]{biblatex}
 %\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
-\vspace{-0.25cm}
-%\vspace{-0.5cm}
+%\vspace{-0.25cm}
+\vspace{0.5cm}
 \section{Education}
-\cventry{2019}{Ph.D.}{Université Grenoble Alpes}{France}{Theoretical Physics}{}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
+\cventry[0.5em]{2019}{Ph.D.}{Université Grenoble Alpes}{France}{Theoretical Physics}{}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
     
 \cventry{2016}{M.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}  % arguments 3 to 6 can be left empty
 \cventry{2014}{B.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}
 \cventry{2011 -- 2013}{Classe Préparatoire}{Lycée La Martinière Monplaisir}{Lyon, France}{}{Two-year intensive course preparing for the competitive entrance examinations to French leading institutions of higher education. Track: Mathematics-Physics.}
 %\cventry{July 2011}{Baccalauréat -- High school diploma}{Lycée du Val de Saône}{Trévoux, France}{}{Scientific course, Mention: highest honors, GPA: 18.2/20 -- A$^+$}
+
 \section{Research experience}
 %TODO: detail projects
 \cventry{2020 -- current}{Postdoctoral researcher}{Department of Microtechnology and Nanoscience, Chalmers University of Technology}{Gothenburg, Sweden}{}{
-    Advisor: Janine Splettstoesser. Thermodynamics of optomechanics and electronic transport.
+    Advisor: Janine Splettstoesser. Quantum thermodynamics.
     \begin{itemize}
         \item Studied thermodynamic of electronic transport
         \item Analyzed optomechanical cooling in a thermodynamic perspective
@@ -169,8 +193,9 @@ maxnames=100]{biblatex}
 \cventry{2019 -- 2020\\(4 months)}{Postdoctoral researcher}{Institut Néel}{Grenoble, France}{}{Advisor: Alexia Auffèves. Quantum thermodynamics and optomechanics.
 \begin{itemize}
     \item Explored the potential of carbon nanotubes for thermodynamic experiments
+    \item Studied stochastic thermodynamics with Kerr resonators
 \end{itemize}} 
-\cventry{2016 -- 2019\\(3 years 2 months)}{Doctoral researcher}{Institut Néel}{Grenoble, France}{}
+\cventry{2016 -- 2019\\(3 years, 2 months)}{Doctoral researcher}{Institut Néel}{Grenoble, France}{}
 {
     Supervisor: Alexia Auffèves. Quantum thermodynamics and optomechanics.
     \begin{itemize}
@@ -178,30 +203,30 @@ maxnames=100]{biblatex}
         \item Proposed methods to define and measure work in the quantum regime
     \end{itemize}
 } 
-%\cventry{2016\\(4 months)}{Master intern}{Institut Néel}{Grenoble, France}{supervisor: Alexia Auffèves}{Fluctuation theorems in a hybrid optomechanical system.%
-%%\begin{itemize}%
-%%\item Simulated trajectories of the hybrid optomechanical system using a quantum jump approach
-%%\item Computed the irreversibility for a single trajectory and checked Jarzynski's equality
-%%\end{itemize}
-%}
-%\cventry{2015\\(3 months)}{Master intern}{Institut Néel}{Grenoble, France}{supervisor: Alexia Auffèves}{Hybrid optomechanical system in the ultra-strong coupling regime.%
-%%\begin{itemize}%
-%%    \item Simulated trajectories of the hybrid optomechanical system using Python programming language
-%%    \item Showed that the system can behave like a ``mechanical laser'' or a cooling system
-%%\end{itemize} 
-%}
+\cventry{2016\\(4 months)}{Master intern}{Institut Néel}{Grenoble, France}{}{Supervisor: Alexia Auffèves. Fluctuation theorems in a hybrid optomechanical system.%
+%\begin{itemize}%
+%\item Simulated trajectories of the hybrid optomechanical system using a quantum jump approach
+%\item Computed the irreversibility for a single trajectory and checked Jarzynski's equality
+%\end{itemize}
+}
+\cventry{2015\\(3 months)}{Master intern}{Institut Néel}{Grenoble, France}{}{Supervisor: Alexia Auffèves. Hybrid optomechanical system in the ultra-strong coupling regime.%
+%\begin{itemize}%
+%    \item Simulated trajectories of the hybrid optomechanical system using Python programming language
+%    \item Showed that the system can behave like a ``mechanical laser'' or a cooling system
+%\end{itemize} 
+}
 %%\cventry{2014\\(6 Fridays)}{Experimental Project}{Laboratoire de Physique}{ENS de Lyon}{supervisor: Antoine Naert}{Energy exchanges with a dissipative thermostat.
 %\begin{itemize}
 %\item Studied the energy exchanges between a rarefacted granular gas and a blade
 %\end{itemize}
 %}
-%\cventry{2014\\(2 months)}{Bachelor intern}{Institut Lumière Matière}{Lyon, France}{supervisor: Julien Laverdant}{Experimental control of polarization with a spatial light modulator.%
+\cventry{2014\\(2 months)}{Bachelor intern}{Institut Lumière Matière}{Lyon, France}{}{Supervisor: Julien Laverdant. Experimental control of polarization with a spatial light modulator.%
 %%\begin{itemize}%
 %%\item Simulated the focusing of a laser beam with Matlab
 %%\item Successfully generated a radially polarized beam with the spatial light modulator
 %%\end{itemize}
-%}
-%\vspace{0.05cm}
+}
+\newpage
 \section{Teaching experience}
 \cventry{2017, 2018\\(64 hours/year)}{Teaching Assistant}{Université Grenoble Alpes}{France}{}{Newtonian mechanics for first year undergraduates.
 \begin{itemize}
@@ -211,7 +236,7 @@ maxnames=100]{biblatex}
 \end{itemize}
 }
 
-\cventry{2013 -- 2014\\(7 months)}{Tutor for homework assistance}{Trait d'Union program}{Villeurbanne, France}{}{Homework assistance program for students from high schools in disadvantaged areas (2 hours/week).
+\cventry{2013 -- 2014\\(7 months)}{Tutor for homework assistance}{Trait d'Union program}{Villeurbanne, France}{}{Took part in a homework assistance program for students from high schools in disadvantaged areas (2 hours/week).
     %    \begin{itemize}
     %        \item Supervised high school students while they were doing their homework (two hours a week)
     %        \item Met people from varied social and cultural background
@@ -251,31 +276,30 @@ maxnames=100]{biblatex}
 
 %\section{Supervision experience}
 %... PhD co-supervisor ...
-%\section{Reviewing activities}
-%\cvlistitem{New Journal of Physics}
+
 
 \section{Skills}
 \subsection{Languages}
-\cvitem{English}{fluent}
-\cvitem{French}{native speaker}
-\cvitem{Italian}{good oral and written comprehension}
-\cvitem{Swedish}{beginner (A2)}
+\cvitem[0.5em]{English}{fluent}
+\cvitem[0.5em]{French}{native speaker}
+\cvitem[0.5em]{Italian}{good oral and written comprehension}
+\cvitem[0.5em]{Swedish}{currently learning (A2)}
 %\cvitem{Languages}{\textbf{French}: native\quad \textbf{English}: fluent\quad \textbf{Italian}: average}
 %\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX\quad \textbf{Softwares}: Matlab, Spyder\quad \textbf{OS}: Windows, Linux}
 \subsection{Computer}
-\cvitem{Programming}{Python, C++, Git, Matlab}
-\cvitem{Operating systems}{Linux, Windows, Mac}
-\cvitem{Text processing}{\LaTeX, LibreOffice}
+\cvitem[0.5em]{Programming}{Python, Git, Matlab, C++}
+\cvitem[0.5em]{Operating systems}{Linux, Windows, MacOS}
+\cvitem[0.5em]{Text processing}{\LaTeX, LibreOffice}
 %\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX, Git\quad \textbf{Softwares}: Matlab, Spyder}
 %\vspace{0.2cm}
 \section{Service to the community}
-\cvitem{Reviewer}{J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
+\cvitem{Reviewer}{Phys. Rev. E (2021), J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
 \cvitem{Fête de la Science}{Speaker and guide (2016 -- 2019) at the ``Fête de la Science'', a yearly national French event during which scientific institutions promote science through animations and laboratory tours.}
 \section{Volunteer experience}
 \cventry{2020 -- current}{Cykelköket}{}{Gothenburg, Sweden}{}{The ``Bike kitchen'' is an open Do-It-Yourself bicycle workshop.
     \begin{itemize}
         \item Helped people repair their bikes
-        \item Took part in the workshop's administration as a board member
+        \item Took part in the administration of the workshop as a board member
     \end{itemize}
 }
 \cventry{2017 -- 2020}{uN p’Tit véLo dAnS La Tête}{}{Grenoble, France}{}{Associative self-repair workshop aiming at teaching bicycle mechanics and promoting bike riding.
@@ -294,44 +318,44 @@ maxnames=100]{biblatex}
 
 
 \section{Interests}
-%\cvitem{Handiwork}{bicycle mechanics, crochet, sewing, wood sculpting}
-\cvitem{Reading}{novels (in French and in English), popular science magazines}
-\cvitem{Sports}{hiking, bike riding}
-\cvitem{Programming}{\colorhref{https://github.com/j4321/}{Open-source software} development (Python), answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}}
+\cvitem[0.5em]{Handiwork}{bicycle mechanics, crochet, sewing}
+\cvitem[0.5em]{Reading}{novels, mostly mysteries, in French (Fred Vargas) and in English (Michael Connelly, Peter Robinson)}
+\cvitem[0.5em]{Sports}{hiking, cycling}
+\cvitem[0.5em]{Programming}{\colorhref{https://github.com/j4321/}{Open-source software} development (Python), answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}}
 
 
-\section{References}
-%\begin{minipage}[t]{0.5\maincolumnwidth+0.45\hintscolumnwidth}
-%    \textbf{Alexia Auffèves (Ph.D. supervisor)}\\
+%\section{References}
+%%\begin{minipage}[t]{0.5\maincolumnwidth+0.45\hintscolumnwidth}
+%%    \textbf{Alexia Auffèves (Ph.D. supervisor)}\\
+%%    Institut Néel, CNRS - Université Grenoble Alpes\\
+%%    25 rue des Martyrs BP 166\\
+%%    38042 Grenoble cedex 9, France\\
+%%    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr
+%%\end{minipage}
+%%\begin{minipage}[t]{0.5\maincolumnwidth+0.65\hintscolumnwidth}
+%%    \textbf{François Gieres (master teacher)}\\
+%%    Institut de Physique des 2 Infinis, Université Claude Bernard\\
+%%    4, rue Enrico Fermi\\
+%%    69622 Villeurbanne Cedex, France\\
+%%    +33 4 72 43 26 81 -- f.gieres@ipnl.in2p3.fr
+%%\end{minipage}
+%%%%
+%%%%    
+%\cventry{}{Janine Splettstoesser}{Postdoctoral advisor}{}{}{
+%%    Chalmers University of Technology, SE-412 96 Gothenburg, Sweden.\\
+%    +46 31 772 3111 -- janines@chalmers.se\\[0.2cm]
+%    Chalmers University of Technology\\
+%    SE-412 96 Gothenburg\\
+%    Sweden
+%}
+%\cventry{}{Alexia Auffèves}{Ph.D. supervisor}{}{}{
+%%    Univ. Grenoble Alpes, CNRS, Grenoble INP, Institut Néel, 38000 Grenoble, France.
+%    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr\\[0.2cm]
 %    Institut Néel, CNRS - Université Grenoble Alpes\\
 %    25 rue des Martyrs BP 166\\
-%    38042 Grenoble cedex 9, France\\
-%    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr
-%\end{minipage}
-%\begin{minipage}[t]{0.5\maincolumnwidth+0.65\hintscolumnwidth}
-%    \textbf{François Gieres (master teacher)}\\
-%    Institut de Physique des 2 Infinis, Université Claude Bernard\\
-%    4, rue Enrico Fermi\\
-%    69622 Villeurbanne Cedex, France\\
-%    +33 4 72 43 26 81 -- f.gieres@ipnl.in2p3.fr
-%\end{minipage}
-%%%
-%%%    
-\cventry{}{Janine Splettstoesser}{Postdoctoral advisor}{}{}{
-%    Chalmers University of Technology, SE-412 96 Gothenburg, Sweden.\\
-    +46 31 772 3111 -- janines@chalmers.se\\[0.2cm]
-    Chalmers University of Technology\\
-    SE-412 96 Gothenburg\\
-    Sweden
-}
-\cventry{}{Alexia Auffèves}{Ph.D. supervisor}{}{}{
-%    Univ. Grenoble Alpes, CNRS, Grenoble INP, Institut Néel, 38000 Grenoble, France.
-    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr\\[0.2cm]
-    Institut Néel, CNRS - Université Grenoble Alpes\\
-    25 rue des Martyrs BP 166\\
-    38042 Grenoble cedex 9\\
-    France
-}
+%    38042 Grenoble cedex 9\\
+%    France
+%}
 
 \end{document}
 

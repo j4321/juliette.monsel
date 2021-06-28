@@ -1,7 +1,7 @@
-Bicycle and mechanics
-=====================
+Hobby: Bicycle and mechanics
+============================
 
-Though I do fundamental theoretical research in quantum mechanics, I also practise applied bicycle mechanics as a hobby. 
+.. ~Though I do fundamental theoretical research in quantum mechanics, I also practise applied bicycle mechanics as a hobby. 
 
 
 .. rubric:: Cycling in the city
@@ -26,7 +26,7 @@ However, in the case of cycling, it needs to be extended beyond clothing to incl
 
 .. rubric:: Bike kitchens
 
-One thing I like about (old) bikes is that they are simple / low tech enough so that it is possible repair them oneself. 
+One thing I like about (old) bikes is that they are simple enough so that it is possible repair them oneself. 
 I find it really satisfying to be able to diagnose and fix myself most issues I have with my bikes. 
 A great place to learn bicycle mechanics is a *Bike Kitchen*, that is a Do-It-Yourself bicyle workshop where one has access to tools, second-hand spare parts and help from volunteers. 
 Bike kitchens come with a large variety of structures and operating models (exclusively volunteer-run or with few employees, membership mandatory or not to access the workshop, ... ) 

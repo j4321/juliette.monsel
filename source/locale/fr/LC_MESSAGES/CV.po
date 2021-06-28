@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-24 00:44+0100\n"
+"POT-Creation-Date: 2021-06-28 16:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../source/CV.rst:2
 msgid "Short CV"
@@ -164,17 +164,26 @@ msgstr "Programmation"
 msgid "Python, Git, C++, Matlab"
 msgstr "Python, Git, C++, Matlab"
 
-#: ../../source/CV.rst:52
+#: ../../source/CV.rst:53
 msgid "Social media"
 msgstr "Réseaux sociaux"
 
-#: ../../source/CV.rst:55
+#: ../../source/CV.rst:54
 msgid "|linkedin| https://www.linkedin.com/in/juliette-monsel/"
 msgstr ""
 
-#: ../../source/CV.rst:56
+#: ../../source/CV.rst:68
+msgid "LinkedIn"
+msgstr ""
+
+#: ../../source/CV.rst:55
 msgid "|RG| https://www.researchgate.net/profile/Juliette_Monsel"
 msgstr ""
+
+#: ../../source/CV.rst:72
+#, fuzzy
+msgid "ResearchGate"
+msgstr "Recherche"
 
 #~ msgid "|ORCID| http://orcid.org/0000-0002-4965-6794"
 #~ msgstr ""
