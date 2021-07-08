@@ -36,7 +36,7 @@ My research interests are:
 - quantum thermodynamics
 - quantum open systems
 - optomechanics
-- quantrum optics
+- quantum optics
 - electronic transport
 
 |
