@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2021, Juliette Monsel
+# This file is distributed under the same license as the Juliette Monsel
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Juliette Monsel \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-09 14:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/Research.rst:2
+msgid "Research"
+msgstr "Recherche"
+
+#: ../../source/Research.rst:5
+msgid "Quantum thermodynamics"
+msgstr "Thermodynamique quantique"
+
+#: ../../source/Research.rst:10
+#, fuzzy
+msgid ""
+"Thermodynamics was developed in the 19th century to study steam engines "
+"using the cyclical transformations of a working substance to extract heat"
+" from thermal baths and convert it into work, possibly stored in a "
+"battery. This applied science eventually led to the development of "
+"fundamental concepts such as irreversibility. Quantum thermodynamics aims"
+" at revisiting these results when the working substances, baths and "
+"batteries become quantum systems. See for instance the book "
+"`Thermodynamics in the quantum regime: fundamental aspects and new "
+"directions <https://link.springer.com/book/10.1007/978-3-319-99046-0>`_ "
+"(most of the chapters can also be found on arXiv) for an review of the "
+"field."
+msgstr ""
+"La thermodynamique a été développée au XIXème siècle pour étudier les machines "
+"à vapeur exploitant les transformations cycliques d'un fluide calorifique pour "
+"extraire de la chaleur de bains thermiques et la convertir en travail, "
+"éventuellement stocké dans une batterie. Cette discipline appliquée a finalement "
+"permis d'élaborer des concepts fondamentaux tels que l'irréversibilité. La "
+"thermodynamique quantique vise à revisiter ces résultats lorsque les fluides calorifiques, "
+"bains et batteries deviennent des systèmes quantiques. Voir par exemple "
+"`Thermodynamics in the quantum regime: fundamental aspects and new "
+"directions <https://link.springer.com/book/10.1007/978-3-319-99046-0>`_ "
+"(la plupart des chapitres sont aussi sur arXiv) pour un passage en revue du domaine."
+
+
+
+
+
+#: ../../source/Research.rst:17
+#, fuzzy
+msgid ""
+"My research mainly focus on the thermodynamics of quantum open systems, "
+"in regimes relevant for experimental implementations. My background is "
+"mostly quantum optics but I am currently also investigating electronic "
+"transport."
+msgstr ""
+"Ma recherche porte principalement sur la thermodynamique des systèmes quantiques ouverts, "
+"dans des régimes pertinents pour les systèmes expériementaux. J'ai surtout étudié des systèmes "
+"relevant de l'optique quantique, mais je m'intéresse aussi maintenant au transport électronique."
+
+#: ../../source/Research.rst:19
+#, fuzzy
+msgid ""
+"PhD dissertation: `Quantum Thermodynamics and Optomechanics <https://tel"
+".archives-ouvertes.fr/tel-02517050>`_"
+msgstr ""
+"Thèse: `Quantum Thermodynamics and Optomechanics <https://tel"
+".archives-ouvertes.fr/tel-02517050>`_"
+
+#: ../../source/Research.rst:22
+msgid "Quantum optics"
+msgstr "Optique quantique"
+
+#: ../../source/Research.rst:25
+msgid "Cavity optomechanics"
+msgstr "Optomécanique en cavité"
+
+#: ../../source/Research.rst:29
+msgid ""
+"The light field in an optical cavity interacts with a mechanical "
+"resonator via radiation pressure. In a typical setup, the cavity has one "
+"moving end-mirror which constitutes the mechanical degree of freedom. "
+"When the mechanical position varies, the cavity length changes which "
+"modifies its resonance frequency. On the other hand, when adding more "
+"photons in the cavity, the radiation pressure on th emirror increases, "
+"which shifts the resonator's rest position. This optomechanical coupling "
+"gives a high degree of control on the dynamics of the mechanical "
+"resonator through the cavity, making it possible to use this platform for"
+" applications such as ground state cooling, sensing or quantum "
+"manipulation. It also makes it also of great interset for thermodynamics:"
+" work and entropy measurenments, heat engines proposals, ..."
+msgstr ""
+
+#: ../../source/Research.rst:32
+msgid ""
+"In collaboration with `Witlef Wieczorek's experimental group <https"
+"://wieczorek-lab.com>`_, we have studied the thermodynamic performance of"
+" optomechanical cooling."
+msgstr ""
+
+#: ../../source/Research.rst:34
+msgid ""
+"*Optomechanical cooling with coherent and squeezed light: The "
+"thermodynamic cost of opening the heat valve* -- `Phys. Rev. A 103, "
+"063519 (2021) <https://doi.org/10.1103/PhysRevA.103.063519>`_"
+msgstr ""
+
+#: ../../source/Research.rst:41
+msgid "Hybrid optomechanical systems"
+msgstr "Systèmes hybrides optomécaniques"
+
+#: ../../source/Research.rst:45
+msgid ""
+"This is a different kind of optomechanical system where the optical part "
+"is a qubit instead of a cavity. The qubit’s transition frequency is "
+"modulated by the vibrations of the mechanical system. The mechanical "
+"degree of freedom exchanges work with the qubit and therefore behaves "
+"like a dispersive battery, i.e. whose natural frequency is very different"
+" from the one of the qubit’s transition. The electromagnetic environment "
+"of the qubit plays the role of the thermal bath. The fluctuations of the "
+"mechanical energy are equal to the fluctuations of work, which allows the"
+" direct measurement of entropy production. As a result, hybrid "
+"optomechanical systems are promising for experimentally testing "
+"fluctuation theorems in open quantum systems."
+msgstr ""
+
+#: ../../source/Research.rst:53
+msgid ""
+"*An Autonomous Quantum Machine to Measure the Thermodynamic Arrow of "
+"Time* -- `npj Quantum Inf. 4, 1 (2018) "
+"<https://doi.org/10.1038/s41534-018-0109-8>`_"
+msgstr ""
+
+#: ../../source/Research.rst:59
+msgid "One-dimensional atoms"
+msgstr "Atomes unidimensionnel"
+
+#: ../../source/Research.rst:63
+msgid ""
+"A qubit is embeded in a one-dimenstional waveguide and the battery is the"
+" waveguide mode of same frequency as the qubit’s transition. Therefore, "
+"this is a resonant battery, unlike in the optomechanical case, which "
+"makes this platform especially promising to study the impact of "
+"coherences on work exchanges."
+msgstr ""
+
+#: ../../source/Research.rst:68
+msgid ""
+"*The Energetic Cost of Work Extraction* -- `Phys. Rev. Lett. 124, 130601 "
+"(2020) <https://doi.org/10.1103/PhysRevLett.124.130601>`_"
+msgstr ""
+
+#: ../../source/Research.rst:72
+msgid "Electronic systems"
+msgstr "Systèmes électroniques"
+
+#: ../../source/Research.rst:76
+msgid "Driven quantum dots"
+msgstr "Boîtes quantiques"
+
+#: ../../source/Research.rst:80
+#, fuzzy
+msgid ""
+"A quantum dot is weakly coupled to two leads, that is two electron "
+"reservoirs. Electrons can tunnel in and out of the quantum dot. "
+"Parameters of this system can be driven (energies, chemical potentials, "
+"tunnel couplings, temperatures, ...). We investigate particle and energy "
+"currents for slow periodic driving up to the first non-adiabatic "
+"correction."
+msgstr ""
+"Une boîte quantique est faiblement couplée à deux électrodes, c'est-à-dire deux "
+"réservoirs électroniques. Des électrons peuvent entrer et sortir de la "
+"boîte quantique par effet tunnel. Des paramètres de ce système (énergies, "
+"potentiel chimiques, couplages, températures, ...) peuvent être modulés. "
+"Nous étudions les courants de particules et d'énergie pour des modulation "
+"périodiques lentes, jusqu'à la première correction non-adiabatique." 
+
+#: ../../source/Research.rst:88
+msgid "Suspended carbon nanotubes"
+msgstr "Nanotubes de carbone suspendus"
+
+#: ../../source/Research.rst:93
+msgid ""
+"These devices combine electronic transport and mechanical degrees of "
+"freedom which makes them a very promising platform for thermodynamics. "
+"Charge or spin qubits can be created inside the nanotube, making these "
+"devices similar to hybrid optomechanical systems."
+msgstr ""
+
+#: ../../source/Research.rst:95
+msgid ""
+"I am taking part in the FQXI project `Nanomechanics in the solid-state "
+"for quantum information thermodynamics "
+"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+msgstr ""
+
+#: ../../source/Research.rst:97
+msgid ""
+"*Ultrastrong coupling between electron tunnelling and mechanical motion* "
+"-- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"
+msgstr ""
+

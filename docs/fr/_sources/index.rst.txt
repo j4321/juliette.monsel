@@ -87,11 +87,12 @@ News
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :hidden:
     :caption: My research webpage:
     
     CV
+    Research
     Publications
     Conferences
     Teaching
