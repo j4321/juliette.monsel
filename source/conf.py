@@ -236,14 +236,17 @@ class MyStyle(PlainStyle):
             self.format_title(e, 'title'),
             sentence [
                 optional[ self.format_editor(e, as_sentence=False) ],
-                self.format_btitle(e, 'booktitle', as_sentence=False),
+                tag('strong') [field('booktitle')],
+                # ~self.format_btitle(e, 'booktitle', as_sentence=False),
                 self.format_volume_and_series(e, as_sentence=False),
                 self.format_chapter_and_pages(e),
+                optional_field('note') 
             ],
             sentence [
                 optional_field('publisher'),
-                optional_field('address'),
+                optional_field('location'),
                 self.format_edition(e),
+                optional_field('dates'),
             ],
             self.format_web_refs(e),
         ]
@@ -281,7 +284,7 @@ class MyStyle(PlainStyle):
             self.format_volume_and_series(e),
             sentence [
                 field('publisher'),
-                optional_field('address'),
+                optional_field('location'),
                 self.format_edition(e),
                 field('year')
             ],
@@ -306,7 +309,7 @@ class MyStyle(PlainStyle):
             self.format_title(e, 'title'),
             sentence [
                 optional_field('howpublished'),
-                optional_field('address'),
+                optional_field('location'),
                 optional_field('note'),
             ],
             self.format_web_refs(e),
@@ -323,7 +326,7 @@ class MyStyle(PlainStyle):
             self.format_volume_and_series(e),
             sentence [
                 field('publisher'),
-                optional_field('address'),
+                optional_field('location'),
                 optional [
                     words [field('edition'), 'edition']
                 ],
@@ -348,7 +351,7 @@ class MyStyle(PlainStyle):
             ],
             sentence [
                 optional_field('publisher'),
-                optional_field('address'),
+                optional_field('location'),
                 self.format_edition(e),
             ],
             self.format_web_refs(e),
@@ -367,7 +370,7 @@ class MyStyle(PlainStyle):
                     self.format_volume_and_series(e, as_sentence=False),
                     optional[ pages ],
                 ],
-                self.format_address_organization_publisher_date(e),
+                self.format_location_organization_publisher_date(e),
             ],
             sentence [ optional_field('note') ],
             self.format_web_refs(e),
@@ -382,7 +385,7 @@ class MyStyle(PlainStyle):
             self.format_btitle(e, 'title'),
             sentence [
                 optional_field('organization'),
-                optional_field('address'),
+                optional_field('location'),
                 self.format_edition(e),
             ],
             sentence [ optional_field('note') ],
@@ -397,7 +400,7 @@ class MyStyle(PlainStyle):
             sentence[
                 "Master's thesis",
                 field('school'),
-                optional_field('address'),
+                optional_field('location'),
             ],
             sentence [ optional_field('note') ],
             self.format_web_refs(e),
@@ -423,7 +426,7 @@ class MyStyle(PlainStyle):
             sentence[
                 'PhD thesis',
                 field('school'),
-                optional_field('address'),
+                optional_field('location'),
             ],
             sentence [ optional_field('note') ],
             self.format_web_refs(e),
@@ -437,7 +440,7 @@ class MyStyle(PlainStyle):
                 sentence [
                     self.format_btitle(e, 'title', as_sentence=False),
                     self.format_volume_and_series(e, as_sentence=False),
-                    self.format_address_organization_publisher_date(e),
+                    self.format_location_organization_publisher_date(e),
                 ],
             ]
         else:
@@ -446,7 +449,7 @@ class MyStyle(PlainStyle):
                 sentence [
                     self.format_btitle(e, 'title', as_sentence=False),
                     self.format_volume_and_series(e, as_sentence=False),
-                    self.format_address_organization_publisher_date(
+                    self.format_location_organization_publisher_date(
                         e, include_organization=False),
                 ],
             ]
@@ -471,7 +474,7 @@ class MyStyle(PlainStyle):
                     optional_field('number'),
                 ],
                 field('institution'),
-                optional_field('address'),
+                optional_field('location'),
             ],
             sentence [ optional_field('note') ],
             self.format_web_refs(e),

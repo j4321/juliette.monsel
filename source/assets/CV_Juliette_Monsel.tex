@@ -30,6 +30,7 @@
 %\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 \renewcommand\colorhref[3][black]{\href{#2}{\textit{\small\color{#1}#3}}}
 
+%%%%%%%%%%%%%%%%%%%%% publi and conf with biblatex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{csquotes}
 \usepackage[backend=biber,
 bibstyle=ieee,
@@ -37,19 +38,42 @@ citestyle=numeric,
 sorting=ydmdddnt, 
 date=year,
 isbn=false,
-url=false,
+url=true,
 doi=false,
+dashed=false,
 maxnames=100]{biblatex}
 
 \BiblatexSplitbibDefernumbersWarningOff
 \AtEveryBibitem{%
     \clearfield{number}
 }
+
 \usepackage[normalem]{ulem} %for \uline
 
 \usepackage{xstring}
 \usepackage{etoolbox}
 \newboolean{bold}
+
+
+\DeclareSourcemap{
+    \maps[datatype=bibtex]{
+        \map{
+            \step[fieldsource=dates]
+            \step[fieldset=usera,origfieldval]
+        }
+    }
+}
+
+
+\DeclareSourcemap{
+    \maps[datatype=bibtex]{
+        \map{
+            \step[fieldsource=video]
+            \step[fieldset=userb,origfieldval]
+        }
+    }
+}
+
 \newcommand{\underlineauthor}[1]{%
     \DeclareNameFormat{author}{%
         \setboolean{bold}{false}%
@@ -66,19 +90,47 @@ maxnames=100]{biblatex}
         {\addcomma\space}{}
     }
 }
+\ExecuteBibliographyOptions{doi=false}
+\newbibmacro{string+doi}[1]{%
+    \iffieldundef{doi}{#1}{\href{http://dx.doi.org/\thefield{doi}}{#1}}
+}
+\newbibmacro{string+url}[1]{%
+    \iffieldundef{url}{#1}{\href{\thefield{url}}{#1}}
+}
+
+\newbibmacro{url+video}{%
+    \iffieldundef{userb}{\iffieldundef{url}{}{Website: \url{\thefield{url}}}}{Video: \url{\thefield{userb}}}
+}
+
+\newbibmacro{dates}{%
+    \iffieldundef{usera}{}{, \thefield{usera}}
+}
+
+
+\DeclareFieldFormat{title}{\usebibmacro{string+doi}{\mkbibemph{#1}}}
+\DeclareFieldFormat{journaltitle}{\usebibmacro{string+doi}{\mkbibemph{#1}}}
+\DeclareFieldFormat[inproceedings]{booktitle}{\usebibmacro{string+url}{\mkbibemph{#1}}}
+\DeclareFieldFormat[inproceedings]{url}{\usebibmacro{url+video}}
+%\DeclareListFormat[inproceedings]{location}{%
+%        \usebibmacro{list:delim}{#1}%
+%        #1\isdot
+%        \usebibmacro{list:andothers}
+%}
 
 \underlineauthor{Monsel, Juliette}
 
-\renewbibmacro*{date}{}
+\renewbibmacro*{date}{\ifentrytype{inproceedings}{\iffieldundef{usera}{}{, \thefield{usera}}}{}
+}
 %\renewbibmacro*{author/translator+others}{}
-\DeclareFieldFormat[article]{pages}{#1}
-\DeclareFieldFormat[article]{volume}{\textbf{#1}}
+\DeclareFieldFormat[article]{pages}{\usebibmacro{string+doi}{#1}}
+\DeclareFieldFormat[article]{volume}{\usebibmacro{string+doi}{\textbf{#1}}}
 \renewbibmacro*{date+extrayear}{}
 \renewbibmacro*{issue+date}{}
+
 %
 \newcommand*{\bibyear}{}
 \renewbibmacro{in:}{}
-%\setlength{\bibitemsep}{0.25em}
+\setlength{\bibitemsep}{0.2em}
 \defbibenvironment{bibliography}
 {\list
     {\iffieldequals{year}{\bibyear}
@@ -94,6 +146,17 @@ maxnames=100]{biblatex}
     \sloppy\clubpenalty4000\widowpenalty4000}
 {\endlist}
 {\item}
+
+%\DeclareFieldFormat{usera}{\textbf{#1}}
+
+%\AtEveryBibitem{%
+%    \csappto{blx@bbx@\thefield{entrytype}}{% put at end of entry
+%        \iffieldundef{usera}{}{%
+%            \space\printfield{usera}
+%        }
+%    }
+%}
+
 \addbibresource{../publications.bib}
 \addbibresource{../conf.bib}
 \defbibheading{bibliography}[\refname]{}
@@ -128,6 +191,15 @@ maxnames=100]{biblatex}
         \field{title}
     }
 } 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%% add icons for resaerch social media
+\usepackage{fontawesome5}
+\renewcommand*\orcidsocialsymbol{{\faIcon{orcid}}~} % <=========================
+\newcommand*\researcheridsocialsymbol{{\faIcon{parking}}~} % <========= \aiGoogleScholarSquare
+%\newcommand*\researchgatesocialsymbol{{\aiResearchGate}~}   % <========= \aiResearchGateSquare
+
+
 % personal data
 \name{Juliette}{Monsel}
 %\title{Researcher in theoretical physics} 
@@ -141,6 +213,9 @@ maxnames=100]{biblatex}
 %\email{juliette.monsel@gmx.fr}                               % optional, remove / comment the line if not wanted
 \homepage{j4321.github.io/juliette.monsel}                         % optional, remove / comment the line if not wanted
 %\social[linkedin]{www.linkedin.com/in/juliette-monsel}                        % optional, remove / comment the line if not wanted
+\social[orcid]{0000-0002-4965-6794}                        % optional, remove / comment the line if not wanted
+\social[researcherid]{AAH-5591-2020} 
+
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
 %\social[github]{j4321}                              % optional, remove / comment the line if not wanted
 \extrainfo{Nationality: French}                 % optional, remove / comment the line if not wanted
@@ -172,13 +247,15 @@ maxnames=100]{biblatex}
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
 %\vspace{-0.25cm}
-\vspace{0.5cm}
+%\vspace{0.5cm}
 \section{Education}
+\cventry[0.5em]{2020}{Qualification}{National Council of Universities (CNU)}{France}{}{Certificate allowing me to apply to ``Maître de Conférence'' positions, permanent Assistant Professor positions with an important teaching component, at French universities.}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
+
 \cventry[0.5em]{2019}{Ph.D.}{Université Grenoble Alpes}{France}{}{Theoretical Physics.}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
     
-\cventry{2016}{M.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}  % arguments 3 to 6 can be left empty
-\cventry{2014}{B.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}
-\cventry{2011 -- 2013}{Classe Préparatoire}{Lycée La Martinière Monplaisir}{Lyon, France}{}{Two-year intensive course preparing for the competitive entrance examinations to French leading institutions of higher education. Track: Mathematics-Physics.}
+\cventry[0.5em]{2016}{M.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}  % arguments 3 to 6 can be left empty
+\cventry[0.5em]{2014}{B.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}
+\cventry[0.5em]{2011 -- 2013}{Classe Préparatoire}{Lycée La Martinière Monplaisir}{Lyon, France}{}{Two-year intensive course preparing for the competitive entrance examinations to French leading institutions of higher education. Track: Mathematics-Physics.}
 %\cventry{July 2011}{Baccalauréat -- High school diploma}{Lycée du Val de Saône}{Trévoux, France}{}{Scientific course, Mention: highest honors, GPA: 18.2/20 -- A$^+$}
 
 \section{Research experience}
@@ -226,7 +303,7 @@ maxnames=100]{biblatex}
 %%\item Successfully generated a radially polarized beam with the spatial light modulator
 %%\end{itemize}
 }
-\newpage
+%\newpage
 \section{Teaching experience}
 \cventry{2017, 2018\\(64 hours/year)}{Teaching Assistant}{Université Grenoble Alpes}{France}{}{Newtonian mechanics for first year undergraduates.
 \begin{itemize}
@@ -242,12 +319,30 @@ maxnames=100]{biblatex}
     %        \item Met people from varied social and cultural background
     %    \end{itemize}
 }
+\subsection{Student supervision}
+\cvitem[0.5em]{Starting in Oct. 2021}{Co-supervisor of the master student Juliane Graf from University of Regensburg (Germany) at MC2, Chalmers University of Technology for a six-month project.}
+\cvitem[0.5em]{2020 -- current}{Official assistant supervisor of the Ph.D. student Ludovico Tesser at MC2, Chalmers University of Technology.}
+\cvitem[0.5em]{2016}{Informal co-supervisor of the master student Cauê Moreno Kersul de Castro Carvalho during his two-month internship at the Institut Néel, Grenoble, France.}
+
+\subsection{Training}
+\cventry[0.5em]{2017}{How to develop as a teacher}{Doctoral school of Physics}{Grenoble, France}{}{Two-day training program on communication and group animation techniques for teaching.}
+\cventry[0.5em]{2016 -- 2019}{Research and Higher Education (RES) label}{Doctoral school of Physics}{Grenoble, France}{}{Teaching oriented Ph.D. program leading to the production of a portfolio documenting the development of my teaching and research skills (in French): \url{http://juliette-monsel.byethost15.com}.}
+\cventry[0.5em]{2016}{Introduction to the profession of teacher-researcher}{Doctoral school of Physics}{Autrans, France}{}{Three-day workshop on topics related to teaching at the university.}
+%\vspace{0.2cm}
+\section{Awards and Grants}
+\cvitem{2020}{Spinger Thesis Award, recognizing outstanding Ph.D. research}
+\cvitem{2016}{Ph.D. grant from the CFM Foundation for Research}
+%\vspace{0.2cm}
 
 
 %\vspace{0.2cm}
 \nocite{*}
 \section{Publications}
-\printbibliography[title={Publications}, keyword={publi}]
+\subsection{Articles}
+\printbibliography[title={Articles}, keyword={publi}]
+\renewcommand*{\bibyear}{}
+\subsection{Books}
+\printbibliography[title={Books}, keyword={book}]
 \renewcommand*{\bibyear}{}
 
 %\nocitebook{book1,book2}
@@ -257,44 +352,29 @@ maxnames=100]{biblatex}
 %\bibliographystyle{moderncv}
 
 %\vspace{0.2cm}
-\section{Awards and Grants}
-\cvitem{2020}{Spinger Thesis Award, recognizing outstanding Ph.D. research}
-\cvitem{2016}{Ph.D. grant from the CFM Foundation for Research}
-%\vspace{0.2cm}
 \section{Conferences and seminars} 
 %TODO: Add details and month
-\subsection{Seminars and invited talks}
-\printbibliography[title={Invited talks and seminars}, keyword={invited}]
+\subsection{Invited talks}
+\printbibliography[title={Invited talks}, keyword={invited}]
 \renewcommand*{\bibyear}{}
 \subsection{Contributed talks}
 \printbibliography[title={Contributed talks}, keyword={contributed}]
 \renewcommand*{\bibyear}{}
-\subsection{Posters}
-\printbibliography[title={Posters}, keyword={poster}]
+\subsection{Invited seminars}
+\printbibliography[title={Invited seminars}, keyword={seminar}]
+\renewcommand*{\bibyear}{}
+\subsection{Contributed posters}
+\printbibliography[title={Contributed posters}, keyword={poster}]
 \renewcommand*{\bibyear}{}
 
 
 %\section{Supervision experience}
 %... PhD co-supervisor ...
 
-
-\section{Skills}
-\subsection{Languages}
-\cvitem[0.5em]{English}{fluent}
-\cvitem[0.5em]{French}{native speaker}
-\cvitem[0.5em]{Italian}{good oral and written comprehension}
-\cvitem[0.5em]{Swedish}{currently learning (A2)}
-%\cvitem{Languages}{\textbf{French}: native\quad \textbf{English}: fluent\quad \textbf{Italian}: average}
-%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX\quad \textbf{Softwares}: Matlab, Spyder\quad \textbf{OS}: Windows, Linux}
-\subsection{Computer}
-\cvitem[0.5em]{Programming}{Python, Git, Matlab, C++}
-\cvitem[0.5em]{Operating systems}{Linux, Windows, MacOS}
-\cvitem[0.5em]{Text processing}{\LaTeX, LibreOffice}
-%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX, Git\quad \textbf{Softwares}: Matlab, Spyder}
-%\vspace{0.2cm}
 \section{Service to the community}
-\cvitem{Reviewer}{Phys. Rev. E (2021), J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
-\cvitem{Fête de la Science}{Speaker and guide (2016 -- 2019) at the ``Fête de la Science'', a yearly national French event during which scientific institutions promote science through animations and laboratory tours.}
+\cvitem[0.5em]{Reviewer}{Phys. Rev. E (2021), J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
+\cvitem[0.5em]{Scientific outreach}{Speaker and guide (2016 -- 2019) at the ``Fête de la Science'', a yearly national French event during which scientific institutions promote science through animations and laboratory tours aimed at high school students and the general public.}
+
 \section{Volunteer experience}
 \cventry{2020 -- current}{Cykelköket}{}{Gothenburg, Sweden}{}{The ``Bike kitchen'' is an open Do-It-Yourself bicycle workshop.
     \begin{itemize}
@@ -317,6 +397,20 @@ maxnames=100]{biblatex}
 %}
 
 
+\section{Skills}
+\subsection{Languages}
+\cvitemwithcomment[0.4em]{English}{fluent}{CLES 2 certificate of B2 level}
+\cvitem[0.4em]{French}{native speaker}
+\cvitem[0.4em]{Italian}{good oral and written comprehension}
+\cvitemwithcomment[0.4em]{Swedish}{currently learning}{following B1 course at Chalmers}
+%\cvitem{Languages}{\textbf{French}: native\quad \textbf{English}: fluent\quad \textbf{Italian}: average}
+%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX\quad \textbf{Softwares}: Matlab, Spyder\quad \textbf{OS}: Windows, Linux}
+\subsection{Computer}
+\cvitem[0.5em]{Programming}{Python, Git, Matlab, C++}
+\cvitem[0.5em]{Operating systems}{Linux, Windows, MacOS}
+\cvitem[0.5em]{Text processing}{\LaTeX, LibreOffice}
+%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX, Git\quad \textbf{Softwares}: Matlab, Spyder}
+%\vspace{0.2cm}
 \section{Interests}
 %~\cvitem[0.5em]{Handiwork}{bicycle mechanics, crochet, sewing}
 \cvitem[0.5em]{Reading}{novels, mostly mysteries, in French (Fred Vargas) and in English (Michael Connelly, Peter Robinson)}
