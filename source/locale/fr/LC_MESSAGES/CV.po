@@ -2,14 +2,13 @@
 # Copyright (C) 2020, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 15:54+0200\n"
+"POT-Creation-Date: 2021-09-08 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,21 +31,52 @@ msgstr ""
 msgid "Research"
 msgstr "Recherche"
 
+#: ../../source/CV.rst:8
+msgid ""
+"|nbsp| |arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ |nbsp| "
+"|ORCID| `ORCID <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
+"|ResearcherID| `ResearcherID "
+"<http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp| |Scopus| `Scopus"
+" <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
+"|nbsp| |scholar| `Google Scholar "
+"<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
+msgstr ""
+
+#: ../../source/CV.rst
+msgid "arXiv"
+msgstr ""
+
+#: ../../source/CV.rst
+msgid "ORCID"
+msgstr ""
+
+#: ../../source/CV.rst
+msgid "ResearcherID"
+msgstr "ResearcherID"
+
+#: ../../source/CV.rst
+msgid "Scopus"
+msgstr ""
+
+#: ../../source/CV.rst
+msgid "Google Scholar"
+msgstr ""
+
 #: ../../source/CV.rst
 msgid "2020 -- current"
 msgstr "2020 -- aujourd'hui"
 
-#: ../../source/CV.rst:8
+#: ../../source/CV.rst:14
 msgid ""
-"**Postdoctoral researcher**, *Dept. of Microtechnology and Nanoscience, "
-"Chalmers University of Technology*, Gothenburg, Sweden. Advisor: Janine "
-"Splettstoesser."
+"**Postdoctoral researcher**, `Dept. of Microtechnology and Nanoscience, "
+"Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden. Advisor: "
+"Janine Splettstoesser."
 msgstr ""
-"**Chercheuse postdoctorale**, *Dept. de Microtechnologie et Nanoscience, "
-"Chalmers Tekniska Högskola*, Göteborg, Suède. Encadrante: Janine "
+"**Chercheuse postdoctorale**, `Dept. de Microtechnologie et Nanoscience, "
+"Chalmers Tekniska Högskola <MC2_>`_, Göteborg, Suède. Encadrante: Janine "
 "Splettstoesser."
 
-#: ../../source/CV.rst:10
+#: ../../source/CV.rst:16
 msgid "Thermodynamics of optomechanics and electronic transport."
 msgstr "Thermodynamique appliquée à l'optomécanique et au transport électronique."
 
@@ -54,15 +84,15 @@ msgstr "Thermodynamique appliquée à l'optomécanique et au transport électron
 msgid "2019 -- 2020"
 msgstr ""
 
-#: ../../source/CV.rst:13
+#: ../../source/CV.rst:19
 msgid ""
-"**Postdoctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France."
-" Advisor: Alexia Auffèves."
+"**Postdoctoral researcher**, |Neel|, Grenoble, France. Advisor: Alexia "
+"Auffèves."
 msgstr ""
-"**Chercheuse postdoctorale**, *Institut Néel, CNRS/UGA*, Grenoble. "
+"**Chercheuse postdoctorale**, |Neel|, Grenoble. "
 "Encadrante: Alexia Auffèves."
 
-#: ../../source/CV.rst:15 ../../source/CV.rst:20
+#: ../../source/CV.rst:21 ../../source/CV.rst:26
 msgid "Quantum thermodynamics and optomechanics."
 msgstr "Thermodynamique quantique et optomécanique."
 
@@ -70,15 +100,15 @@ msgstr "Thermodynamique quantique et optomécanique."
 msgid "2016 -- 2019"
 msgstr ""
 
-#: ../../source/CV.rst:18
+#: ../../source/CV.rst:24
 msgid ""
-"**Doctoral researcher**, *Institut Néel, CNRS/UGA*, Grenoble, France. "
-"Supervisor: Alexia Auffèves."
+"**Doctoral researcher**, |Neel|, Grenoble, France. Supervisor: Alexia "
+"Auffèves."
 msgstr ""
-"**Doctorante**, *Institut Néel, CNRS/UGA*, Grenoble. Encadrante: Alexia "
+"**Doctorante**, |Neel|, Grenoble. Encadrante: Alexia "
 "Auffèves."
 
-#: ../../source/CV.rst:24
+#: ../../source/CV.rst:31
 msgid "Education"
 msgstr "Éducation"
 
@@ -86,39 +116,37 @@ msgstr "Éducation"
 msgid "2019"
 msgstr ""
 
-#: ../../source/CV.rst:25
+#: ../../source/CV.rst:32
 msgid ""
-"**Ph.D.** in Theoretical Physics at `Université Grenoble Alpes "
-"<https://www.univ-grenoble-alpes.fr/english/>`_, France"
+"**Ph.D.** in Theoretical Physics at `Université Grenoble Alpes <UGA_>`_, "
+"France"
 msgstr ""
 "**Ph.D.** en Physique Théorique à `l'Université Grenoble Alpes "
-"<https://www.univ-grenoble-alpes.fr/>`_, France"
+"<UGA_>`_, France"
 
 #: ../../source/CV.rst
 msgid "2016"
 msgstr ""
 
-#: ../../source/CV.rst:27
+#: ../../source/CV.rst:34
 msgid ""
-"**M.Sc.** in Physics at `École Normale Supérieure de Lyon <http://www"
-".ens-lyon.fr/en/>`_, France"
+"**M.Sc.** in Physics at `École Normale Supérieure de Lyon <master_>`_, "
+"France"
 msgstr ""
 "**Master recherche**, parcours Physique, concepts et applications à "
-"`l'École Normale Supérieure de Lyon <http://www.ens-lyon.fr/>`_"
+"`l'École Normale Supérieure de Lyon <master_>`_"
 
 #: ../../source/CV.rst
 msgid "2014"
 msgstr ""
 
-#: ../../source/CV.rst:29
-msgid ""
-"**B.Sc.** in Physics at `École Normale Supérieure de Lyon <http://www"
-".ens-lyon.fr/en/>`_, France"
+#: ../../source/CV.rst:36
+msgid "**B.Sc.** in Physics at `École Normale Supérieure de Lyon <l3_>`_, France"
 msgstr ""
-"**Licence**, Science de la Matière spécialité Physique à `l'École Normale"
-" Supérieure de Lyon <http://www.ens-lyon.fr/>`_"
+"**Licence**, Science de la Matière spécialité Physique à `l'École Normale "
+"Supérieure de Lyon <l3_/>`_"
 
-#: ../../source/CV.rst:33
+#: ../../source/CV.rst:40
 msgid "Awards and Grants"
 msgstr "Récompenses et bourses"
 
@@ -126,13 +154,13 @@ msgstr "Récompenses et bourses"
 msgid "2020"
 msgstr "2020"
 
-#: ../../source/CV.rst:34
+#: ../../source/CV.rst:41
 msgid "**Spinger Thesis Award**, recognizing outstanding Ph.D.research"
 msgstr ""
 "**Prix de thèse Springer**, récompensant une recherche de doctorat "
 "exceptionnelle"
 
-#: ../../source/CV.rst:36
+#: ../../source/CV.rst:43
 msgid ""
 "**Ph.D. grant** from the `CFM Foundation for Research <http://www"
 ".fondation-cfm.fr/>`_"
@@ -140,7 +168,7 @@ msgstr ""
 "**Bourse de thèse** de la `Fondation CFM pour la Recherche <http://www"
 ".fondation-cfm.fr/>`_"
 
-#: ../../source/CV.rst:47
+#: ../../source/CV.rst:54
 msgid "Skills"
 msgstr "Compétences"
 
@@ -148,7 +176,7 @@ msgstr "Compétences"
 msgid "Languages"
 msgstr "Langues"
 
-#: ../../source/CV.rst:48
+#: ../../source/CV.rst:55
 msgid ""
 "French (native), English (fluent), Italian (good understanding), Swedish "
 "(currently learning)"
@@ -160,34 +188,35 @@ msgstr ""
 msgid "Programming"
 msgstr "Programmation"
 
-#: ../../source/CV.rst:49
+#: ../../source/CV.rst:56
 msgid "Python, Git, C++, Matlab"
 msgstr "Python, Git, C++, Matlab"
 
-#: ../../source/CV.rst:53
+#: ../../source/CV.rst:60
 msgid "Social media"
 msgstr "Réseaux sociaux"
 
-#: ../../source/CV.rst:54
+#: ../../source/CV.rst:61
 msgid "|linkedin| https://www.linkedin.com/in/juliette-monsel/"
 msgstr ""
 
-#: ../../source/CV.rst:68
+#: ../../source/CV.rst:75
 msgid "LinkedIn"
 msgstr ""
 
-#: ../../source/CV.rst:55
+#: ../../source/CV.rst:62
 msgid "|RG| https://www.researchgate.net/profile/Juliette_Monsel"
 msgstr ""
 
-#: ../../source/CV.rst:72
-#, fuzzy
+#: ../../source/CV.rst:79
 msgid "ResearchGate"
-msgstr "Recherche"
+msgstr ""
 
 #~ msgid "|ORCID| http://orcid.org/0000-0002-4965-6794"
 #~ msgstr ""
 
 #~ msgid "|scholar| https://scholar.google.com/scholar?q=Juliette+Monsel"
 #~ msgstr ""
+
+
 

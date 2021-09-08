@@ -2,14 +2,13 @@
 # Copyright (C) 2020-2021, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# Juliette Monsel <monsel at chalmers dot se>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 16:35+0200\n"
+"POT-Creation-Date: 2021-09-08 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,9 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../source/Bicycles.rst:2
-#, fuzzy
-msgid "Hobby: Bicycle and mechanics"
+#: ../../source/Bicycles.rst:4
+msgid "Bicycle and mechanics"
 msgstr "Vélo et mécanique"
 
 #: ../../source/Bicycles.rst:8
@@ -93,7 +91,6 @@ msgid "Bike kitchens"
 msgstr "Ateliers vélo participatifs et solidaires"
 
 #: ../../source/Bicycles.rst:29
-#, fuzzy
 msgid ""
 "One thing I like about (old) bikes is that they are simple enough so that"
 " it is possible repair them oneself. I find it really satisfying to be "
@@ -110,7 +107,7 @@ msgstr ""
 "sont suffisamment simples pour pouvoir les réparer soi-même. Je trouve "
 "cela très satisafaisant d'être capable de diagnostiquer et réparer moi-"
 "même la plupart des problèmes que j'ai avec mes vélos. Les atelier vélo "
-"participatifs esolidaires (souvent appelés 'Bike kitchens' dans les pays "
+"participatifs et solidaires (souvent appelés 'Bike kitchens' dans les pays "
 "anglophones) sont de bons endroits où apprendre la mécanique cycle. Il "
 "s'agit d'ateliers d'auto-réparation qui donnent accès à des outils, des "
 "pièces détachées d'occasions et à l'aide des bénévoles. Il en existe avec"
@@ -156,7 +153,7 @@ msgid "Helping others"
 msgstr ""
 
 #: ../../source/Bicycles.rst:47
-msgid "Sharing my knowledge and empowering people"
+msgid "Sharing my knowledge and enpowering people"
 msgstr ""
 
 #: ../../source/Bicycles.rst:48
@@ -194,8 +191,8 @@ msgid ""
 "`List of publications about bicycle workshops "
 "<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 msgstr ""
-"Liste de publications à propos des ateliers vélo (en "
-"anglais)<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
+"`Liste de publications à propos des ateliers vélo (en "
+"anglais) <https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 
 #: ../../source/Bicycles.rst:60
 msgid "Travelling"
@@ -213,7 +210,6 @@ msgstr ""
 "continents) :"
 
 #: ../../source/Bicycles.rst:63
-#, fuzzy
 msgid "Châlons sur Sâone - Tours (6 days, ~ 600 km, summer 2019) with this bike:"
 msgstr "Châlons sur Sâone - Tours (6 jours, ~ 600 km, été 2019) avec ce vélo :"
 
@@ -249,4 +245,7 @@ msgstr ""
 #~ " fondamentale et théorique en mécanique "
 #~ "quantique, je fait aussi la mécanique"
 #~ " appliquée au vélo."
+
+#~ msgid "Sharing my knowledge and empowering people"
+#~ msgstr ""
 

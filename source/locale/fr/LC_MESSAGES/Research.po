@@ -2,14 +2,13 @@
 # Copyright (C) 2020-2021, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# Juliette Monsel <monsel at chalmers dot se>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-09 14:49+0200\n"
+"POT-Creation-Date: 2021-09-08 09:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +26,6 @@ msgid "Quantum thermodynamics"
 msgstr "Thermodynamique quantique"
 
 #: ../../source/Research.rst:10
-#, fuzzy
 msgid ""
 "Thermodynamics was developed in the 19th century to study steam engines "
 "using the cyclical transformations of a working substance to extract heat"
@@ -41,41 +39,39 @@ msgid ""
 "(most of the chapters can also be found on arXiv) for an review of the "
 "field."
 msgstr ""
-"La thermodynamique a été développée au XIXème siècle pour étudier les machines "
-"à vapeur exploitant les transformations cycliques d'un fluide calorifique pour "
-"extraire de la chaleur de bains thermiques et la convertir en travail, "
-"éventuellement stocké dans une batterie. Cette discipline appliquée a finalement "
-"permis d'élaborer des concepts fondamentaux tels que l'irréversibilité. La "
-"thermodynamique quantique vise à revisiter ces résultats lorsque les fluides calorifiques, "
-"bains et batteries deviennent des systèmes quantiques. Voir par exemple "
+"La thermodynamique a été développée au XIXème siècle pour étudier les "
+"machines à vapeur exploitant les transformations cycliques d'un fluide "
+"calorifique pour extraire de la chaleur de bains thermiques et la "
+"convertir en travail, éventuellement stocké dans une batterie. Cette "
+"discipline appliquée a finalement permis d'élaborer des concepts "
+"fondamentaux tels que l'irréversibilité. La thermodynamique quantique "
+"vise à revisiter ces résultats lorsque les fluides calorifiques, bains et"
+" batteries deviennent des systèmes quantiques. Voir par exemple "
 "`Thermodynamics in the quantum regime: fundamental aspects and new "
 "directions <https://link.springer.com/book/10.1007/978-3-319-99046-0>`_ "
-"(la plupart des chapitres sont aussi sur arXiv) pour un passage en revue du domaine."
-
-
-
-
+"(la plupart des chapitres sont aussi sur arXiv) pour un passage en revue "
+"du domaine."
 
 #: ../../source/Research.rst:17
-#, fuzzy
 msgid ""
 "My research mainly focus on the thermodynamics of quantum open systems, "
 "in regimes relevant for experimental implementations. My background is "
 "mostly quantum optics but I am currently also investigating electronic "
 "transport."
 msgstr ""
-"Ma recherche porte principalement sur la thermodynamique des systèmes quantiques ouverts, "
-"dans des régimes pertinents pour les systèmes expériementaux. J'ai surtout étudié des systèmes "
-"relevant de l'optique quantique, mais je m'intéresse aussi maintenant au transport électronique."
+"Ma recherche porte principalement sur la thermodynamique des systèmes "
+"quantiques ouverts, dans des régimes pertinents pour les systèmes "
+"expériementaux. J'ai surtout étudié des systèmes relevant de l'optique "
+"quantique, mais je m'intéresse aussi maintenant au transport "
+"électronique."
 
 #: ../../source/Research.rst:19
-#, fuzzy
 msgid ""
 "PhD dissertation: `Quantum Thermodynamics and Optomechanics <https://tel"
 ".archives-ouvertes.fr/tel-02517050>`_"
 msgstr ""
-"Thèse: `Quantum Thermodynamics and Optomechanics <https://tel"
-".archives-ouvertes.fr/tel-02517050>`_"
+"Thèse: `Quantum Thermodynamics and Optomechanics <https://tel.archives-"
+"ouvertes.fr/tel-02517050>`_"
 
 #: ../../source/Research.rst:22
 msgid "Quantum optics"
@@ -86,22 +82,25 @@ msgid "Cavity optomechanics"
 msgstr "Optomécanique en cavité"
 
 #: ../../source/Research.rst:29
+#, fuzzy
 msgid ""
 "The light field in an optical cavity interacts with a mechanical "
 "resonator via radiation pressure. In a typical setup, the cavity has one "
 "moving end-mirror which constitutes the mechanical degree of freedom. "
 "When the mechanical position varies, the cavity length changes which "
 "modifies its resonance frequency. On the other hand, when adding more "
-"photons in the cavity, the radiation pressure on th emirror increases, "
+"photons in the cavity, the radiation pressure on the mirror increases, "
 "which shifts the resonator's rest position. This optomechanical coupling "
 "gives a high degree of control on the dynamics of the mechanical "
 "resonator through the cavity, making it possible to use this platform for"
 " applications such as ground state cooling, sensing or quantum "
-"manipulation. It also makes it also of great interset for thermodynamics:"
-" work and entropy measurenments, heat engines proposals, ..."
+"manipulations of the mechanics. It also makes it of great interest for "
+"thermodynamics: work and entropy measurenments, heat engines proposals, "
+"..."
 msgstr ""
 
 #: ../../source/Research.rst:32
+#, fuzzy
 msgid ""
 "In collaboration with `Witlef Wieczorek's experimental group <https"
 "://wieczorek-lab.com>`_, we have studied the thermodynamic performance of"
@@ -120,6 +119,7 @@ msgid "Hybrid optomechanical systems"
 msgstr "Systèmes hybrides optomécaniques"
 
 #: ../../source/Research.rst:45
+#, fuzzy
 msgid ""
 "This is a different kind of optomechanical system where the optical part "
 "is a qubit instead of a cavity. The qubit’s transition frequency is "
@@ -146,6 +146,7 @@ msgid "One-dimensional atoms"
 msgstr "Atomes unidimensionnel"
 
 #: ../../source/Research.rst:63
+#, fuzzy
 msgid ""
 "A qubit is embeded in a one-dimenstional waveguide and the battery is the"
 " waveguide mode of same frequency as the qubit’s transition. Therefore, "
@@ -178,18 +179,20 @@ msgid ""
 "currents for slow periodic driving up to the first non-adiabatic "
 "correction."
 msgstr ""
-"Une boîte quantique est faiblement couplée à deux électrodes, c'est-à-dire deux "
-"réservoirs électroniques. Des électrons peuvent entrer et sortir de la "
-"boîte quantique par effet tunnel. Des paramètres de ce système (énergies, "
-"potentiel chimiques, couplages, températures, ...) peuvent être modulés. "
-"Nous étudions les courants de particules et d'énergie pour des modulation "
-"périodiques lentes, jusqu'à la première correction non-adiabatique." 
+"Une boîte quantique est faiblement couplée à deux électrodes, "
+"c'est-à-dire deux réservoirs électroniques. Des électrons peuvent entrer "
+"et sortir de la boîte quantique par effet tunnel. Des paramètres de ce "
+"système (énergies, potentiel chimiques, couplages, températures, ...) "
+"peuvent être modulés. Nous étudions les courants de particules et "
+"d'énergie pour des modulation périodiques lentes, jusqu'à la première "
+"correction non-adiabatique."
 
 #: ../../source/Research.rst:88
 msgid "Suspended carbon nanotubes"
 msgstr "Nanotubes de carbone suspendus"
 
 #: ../../source/Research.rst:93
+#, fuzzy
 msgid ""
 "These devices combine electronic transport and mechanical degrees of "
 "freedom which makes them a very promising platform for thermodynamics. "
@@ -198,6 +201,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/Research.rst:95
+#, fuzzy
 msgid ""
 "I am taking part in the FQXI project `Nanomechanics in the solid-state "
 "for quantum information thermodynamics "
@@ -209,4 +213,3 @@ msgid ""
 "*Ultrastrong coupling between electron tunnelling and mechanical motion* "
 "-- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"
 msgstr ""
-

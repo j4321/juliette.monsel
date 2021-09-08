@@ -2,9 +2,8 @@
 # Copyright (C) 2020-2021, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# Juliette Monsel <monsel at chalmers dot se>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
@@ -30,7 +29,9 @@ msgstr "Courriel: monsel<at>chalmers.se"
 msgid ""
 "`My Chalmers webpage "
 "<https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_"
-msgstr "Ma page Chalmers"
+msgstr ""
+"`Ma page Chalmers "
+"<https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_"
 
 #: ../../source/Contact.rst:9
 msgid "Address"

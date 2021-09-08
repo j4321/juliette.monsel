@@ -2,9 +2,8 @@
 # Copyright (C) 2020, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
@@ -59,24 +58,23 @@ msgstr "Livres"
 
 #: ../../source/publications-list.rst:14
 msgid "Preprints"
-msgstr ""
+msgstr "Pré-publications"
 
 #: ../../source/publications-list.rst:23
 msgid "Articles"
 msgstr "Articles"
 
 #: ../../source/publications-list.rst:26
-#, fuzzy
 msgid "2021"
-msgstr "2020"
+msgstr ""
 
 #: ../../source/publications-list.rst:36
 msgid "2020"
-msgstr "2020"
+msgstr ""
 
 #: ../../source/publications-list.rst:46
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
 #~ msgid ""
 #~ "|ORCID| http://orcid.org/0000-0002-4965-6794  | "

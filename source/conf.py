@@ -29,7 +29,8 @@ languages = ['en', 'fr']
 # ones.
 extensions = [
     'sphinxcontrib.bibtex',
-    'sphinxcontrib.openstreetmap'
+    'sphinxcontrib.openstreetmap',
+     "sphinx.ext.autosectionlabel"
 ]
 bibtex_bibfiles = ['conf.bib', 'publications.bib']
 # Add any paths that contain templates here, relative to this directory.

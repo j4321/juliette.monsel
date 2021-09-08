@@ -100,13 +100,13 @@ def generate_conf():
 
     headers = {
         'invited': "\nInvited talks" \
-                   "\n--------------------------",
+                   "\n-------------",
         'contributed': "\nContributed talks" \
                        "\n-----------------",
         'seminar': "\nInvited seminars" \
-                       "\n-----------------",
-        'poster': "\nPosters" \
-                  "\n-------"
+                   "\n----------------",
+        'poster': "\nContributed posters" \
+                  "\n-------------------"
     }
 
     publi = """

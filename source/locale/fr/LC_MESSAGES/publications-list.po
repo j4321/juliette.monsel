@@ -2,9 +2,8 @@
 # Copyright (C) 2020, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
@@ -31,15 +30,14 @@ msgid "Articles"
 msgstr "Articles"
 
 #: ../../source/publications-list.rst:26
-#, fuzzy
 msgid "2021"
-msgstr "2020"
+msgstr ""
 
 #: ../../source/publications-list.rst:36
 msgid "2020"
-msgstr "2020"
+msgstr ""
 
 #: ../../source/publications-list.rst:46
 msgid "2018"
-msgstr "2018"
+msgstr ""
 

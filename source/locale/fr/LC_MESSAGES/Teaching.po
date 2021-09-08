@@ -2,39 +2,42 @@
 # Copyright (C) 2020, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 18:54+0200\n"
+"POT-Creation-Date: 2021-09-08 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../source/Teaching.rst:2
 msgid "Teaching"
 msgstr "Enseignement"
 
-#: ../../source/Teaching.rst:5
+#: ../../source/Teaching.rst:6
+msgid "Teaching experience"
+msgstr "Expérience d'enseignement"
+
+#: ../../source/Teaching.rst:9
 msgid "Teaching assistant"
 msgstr "Chargée de TD"
 
 #: ../../source/Teaching.rst
 msgid "2017, 2018"
-msgstr "2017, 2018"
+msgstr ""
 
-#: ../../source/Teaching.rst:6
-msgid "Newtonian mechanics (1st year undergraduates, Université Grenoble Alpes)"
+#: ../../source/Teaching.rst:10
+msgid "Newtonian mechanics (first-year undergraduates, Université Grenoble Alpes)"
 msgstr "Mécanique du point (L1, Université Grenoble Alpes)"
 
-#: ../../source/Teaching.rst:8
+#: ../../source/Teaching.rst:12
 msgid ""
 "I supervised tutorials (~20-30 students) and lab work (~10-15 students). "
 "I contributed exercises to the exams and graded examinations and lab work"
@@ -44,32 +47,31 @@ msgstr ""
 "J'ai participé à l'élaboration des sujets d'examen et j'ai noté les "
 "examens et les rapports de TP."
 
-#: ../../source/Teaching.rst:11
+#: ../../source/Teaching.rst:15
 msgid "Program:"
 msgstr "Programme :"
 
-#: ../../source/Teaching.rst:13
+#: ../../source/Teaching.rst:17
 msgid "Collisions"
 msgstr "Collisions"
 
-#: ../../source/Teaching.rst:14
+#: ../../source/Teaching.rst:18
 msgid "Polar coordinates"
 msgstr "Coordonnées polaires"
 
-#: ../../source/Teaching.rst:15
+#: ../../source/Teaching.rst:19
 msgid "Harmonic oscillators"
 msgstr "Oscillateurs harmoniques"
 
-#: ../../source/Teaching.rst:16
+#: ../../source/Teaching.rst:20
 msgid "Angular momentum and torque"
 msgstr "Moment cinétique et moment d'une force"
 
-#: ../../source/Teaching.rst:20
+#: ../../source/Teaching.rst:24
 msgid "Portfolio"
 msgstr "Portfolio"
 
-#: ../../source/Teaching.rst:21
-#, fuzzy
+#: ../../source/Teaching.rst:25
 msgid ""
 "As part of the doctoral course on research and higher education, I have "
 "produced a `portfolio (in French) <http://juliette-"
@@ -81,3 +83,63 @@ msgstr ""
 " partie des compétences que j'ai dévelopées au cours de mon doctorat, en "
 "particulier celles concernant l'enseignement."
 
+#: ../../source/Teaching.rst:30
+msgid "Related volunteer experience"
+msgstr "Bénévolat en lien avec l'enseignement"
+
+#: ../../source/Teaching.rst:33
+msgid "Tutor for homework assitance"
+msgstr "Tuteur d'aide aux devoirs"
+
+#: ../../source/Teaching.rst
+msgid "2013 -- 2014"
+msgstr ""
+
+#: ../../source/Teaching.rst:34
+msgid "Trait d'Union program (Villeurbanne, France)"
+msgstr "Programme Trait d'Union (Lycée Frédéric Faÿs, Villeurbanne, France)"
+
+#: ../../source/Teaching.rst:36
+msgid ""
+"I supervised and helped students from a high school in a disadvangtaged "
+"area do their homework and study (2 hours/week, ~10-20 students)"
+msgstr ""
+"J'encadrais et aidais des lycéens scolarisés en zone d’éducation prioritaire à faire leurs devoirs et à réviser leurs cours."
+
+#: ../../source/Teaching.rst:40
+msgid "Bicycle mechanics instructor"
+msgstr "Instructrice de mécanique cycle"
+
+#: ../../source/Teaching.rst
+msgid "2020 -- current"
+msgstr "2020 -- aujourd'hui"
+
+#: ../../source/Teaching.rst:41
+msgid "`Cykelköket Göteborg <CK_>`_ (Gothenburg, Sweden)"
+msgstr "`Cykelköket Göteborg <CK_>`_ (Suède)"
+
+#: ../../source/Teaching.rst
+msgid "2018 -- 2020"
+msgstr ""
+
+#: ../../source/Teaching.rst:43
+msgid "`uN p’Tit véLo dAnS La Tête <ptitvelo_>`_ (Grenoble, France)"
+msgstr ""
+
+#: ../../source/Teaching.rst:46
+msgid ""
+"I have been volunteering since 2017 in DIY bicycle workshops that aim at "
+"promoting cycling, learning mechanics and reusing of unused bicycles. "
+"First, I learned bicycle mechanics by going every Wednesday at the "
+"\"volunteer evening\" at *uN p’Tit véLo dAnS La Tête*, where we took "
+"apart and repaired bikes for the workshop. Then, I also came at normal "
+"opening hours to share my knowledge and explain to people how to fix "
+"their bikes. I have been doing the same at *Cykelköket Göteborg* since I "
+"moved to Gothenburg. More details about my interest in bicycles: "
+":ref:`Bicycles`."
+msgstr ""
+"Je suis bénévole depuis 2017 dans des ateliers d'auto-réparation de vélos qui ont pour but de promouvoir les déplacements à vélo, l'apprentissage de la mécanique et le réemploi de vélos inutilisés. "
+"J'ai d'abord appris la mécanique cycle en allant tous les mercredis soirs à permanence bénévole du p’Tit véLo, où nous démontions et réparions des veĺos pour l'association. Je suis ensuite venue aux "
+"permanences normales pour partager mes connaissances et apprendre aux adhérents comment réparer leurs vélos. Je continue à faire la même chose à Cyckelköket Göteborg epuis mon déménagement en Suède. "
+"Plus de détails à propos de mon intéret pour le vélo : "
+":ref:`Bicycles`."

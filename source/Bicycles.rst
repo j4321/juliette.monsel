@@ -1,7 +1,7 @@
-Hobby: Bicycle and mechanics
-============================
+.. _Bicycles:
 
-.. ~Though I do fundamental theoretical research in quantum mechanics, I also practise applied bicycle mechanics as a hobby. 
+Bicycle and mechanics
+=====================
 
 
 .. rubric:: Cycling in the city
@@ -35,7 +35,7 @@ but they have the common goals of promoting bike riding, reusing and recycling o
 
 I have been a volunteer in two of them:
 
- -  `uN p’Tit véLo dAnS La Tête <http://www.ptitvelo.net>`_ in Grenoble
+ - `uN p’Tit véLo dAnS La Tête <http://www.ptitvelo.net>`_ in Grenoble
  - `Cykelköket Göteborg <https://www.facebook.com/cykelkoket.gbg>`_ in Gotheburg
 
 and this is where I learned almost everything I know about bicycle mechanics. 
@@ -44,7 +44,7 @@ What I like about bike kitchens:
  
   - Learning more about bicycle mechanics
   - Helping others
-  - Sharing my knowledge and empowering people
+  - Sharing my knowledge and enpowering people
   - Meeting and exchanging with people from various cultures and social backgrounds
   - The conviviality with the other volunteers, e.g. shared meals, evening hangouts, ...
 
