@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-08 11:00+0200\n"
+"POT-Creation-Date: 2021-10-08 11:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../../source/Bicycles.rst:13
 msgid "My favorite way to unwind after work."
-msgstr "Ma façon facvorite de me défouler après le travail."
+msgstr "Ma façon favorite de me défouler après le travail."
 
 #: ../../source/Bicycles.rst:14
 msgid "I can look after and repair my bike myself."
@@ -61,13 +61,14 @@ msgid "Economical -- no extra insurance, no gas, ..."
 msgstr "Économique -- pas d'assurance supplémentaire, pas de pleins d'essence, ..."
 
 #: ../../source/Bicycles.rst:18
+
 msgid ""
 "And when it comes to inconveniences like rain, quite common where I "
-"currently live (Gothenburg, Sweden) or snow, I have become an adept of "
+"currently live (Gothenburg, Sweden), or snow, I have become an adept of "
 "the Scandinavian saying"
 msgstr ""
 "Et vis-à-vis des inconvénients météorologiques comme la pluie, assez "
-"fréquente où j'habite en ce moment (Göteborg, Suède) ou la neige, j'ai "
+"fréquente où j'habite en ce moment (Göteborg, Suède), ou la neige, j'ai "
 "adopté le dicton scandinave"
 
 #: ../../source/Bicycles.rst:20
@@ -92,29 +93,28 @@ msgstr "Ateliers vélo participatifs et solidaires"
 
 #: ../../source/Bicycles.rst:29
 msgid ""
-"One thing I like about (old) bikes is that they are simple enough so that"
-" it is possible repair them oneself. I find it really satisfying to be "
-"able to diagnose and fix myself most issues I have with my bikes. A great"
-" place to learn bicycle mechanics is a *Bike Kitchen*, that is a Do-It-"
-"Yourself bicyle workshop where one has access to tools, second-hand spare"
-" parts and help from volunteers. Bike kitchens come with a large variety "
-"of structures and operating models (exclusively volunteer-run or with few"
-" employees, membership mandatory or not to access the workshop, ... ) but"
-" they have the common goals of promoting bike riding, reusing and "
-"recycling old bikes and teaching bicycle mechanics."
+"One thing I like about (non-electrical) bikes is the possibility to "
+"repair them oneself. I find it really satisfying to be able to diagnose "
+"and fix myself most issues I have with my bikes. A great place to learn "
+"bicycle mechanics is a *Bike Kitchen*, that is a Do-It-Yourself bicyle "
+"workshop where one has access to tools, second-hand spare parts and help "
+"from volunteers. Bike kitchens come with a large variety of structures "
+"and operating models (exclusively volunteer-run or with few employees, "
+"membership mandatory or not to access the workshop, ... ) but they have "
+"the common goals of promoting bike riding, reusing and recycling old "
+"bikes and teaching bicycle mechanics."
 msgstr ""
-"Une des raisons pour lesquelles j'apprécie les (vieux) vélos est qu'ils "
-"sont suffisamment simples pour pouvoir les réparer soi-même. Je trouve "
-"cela très satisafaisant d'être capable de diagnostiquer et réparer moi-"
-"même la plupart des problèmes que j'ai avec mes vélos. Les atelier vélo "
-"participatifs et solidaires (souvent appelés 'Bike kitchens' dans les pays "
-"anglophones) sont de bons endroits où apprendre la mécanique cycle. Il "
-"s'agit d'ateliers d'auto-réparation qui donnent accès à des outils, des "
-"pièces détachées d'occasions et à l'aide des bénévoles. Il en existe avec"
-" des structures et modes d'organisation variés (avec ou sans salariés, "
-"adhésion obligatoire ou non pour accéder à l'atelier, ...) mais ils ont "
-"pour but commun de promouvoir le vélo à travers le rémploi de vieux vélos"
-" et l'apprentissage de la mécanique cycle."
+"Une des raisons pour lesquelles j'apprécie les vélos (non-électriques) est "
+"de pouvoir les réparer soi-même. Je trouve cela très satisafaisant d'être "
+"capable de diagnostiquer et réparer moi-même la plupart des problèmes "
+"que j'ai avec mes vélos. Les atelier vélo participatifs et solidaires "
+"(souvent appelés 'Bike kitchens' dans les pays anglophones) sont de bons "
+"endroits où apprendre la mécanique cycle. Il s'agit d'ateliers d'auto-réparation "
+"qui donnent accès à des outils, des pièces détachées d'occasions et à "
+"l'aide des bénévoles. Il en existe avec des structures et modes d'organisation "
+"variés (avec ou sans salariés, adhésion obligatoire ou non pour accéder à l'atelier, ...) mais"
+" ils ont pour but commun de promouvoir le vélo à travers le rémploi de "
+"vieux vélos et l'apprentissage de la mécanique cycle."
 
 #: ../../source/Bicycles.rst:36
 msgid "I have been a volunteer in two of them:"
@@ -145,21 +145,21 @@ msgid "What I like about bike kitchens:"
 msgstr ""
 
 #: ../../source/Bicycles.rst:45
-msgid "Learning more about bicycle mechanics"
+msgid "Learning more about bicycle mechanics,"
 msgstr ""
 
 #: ../../source/Bicycles.rst:46
-msgid "Helping others"
+msgid "Helping others,"
 msgstr ""
 
 #: ../../source/Bicycles.rst:47
-msgid "Sharing my knowledge and enpowering people"
+msgid "Sharing my knowledge and enpowering people,"
 msgstr ""
 
 #: ../../source/Bicycles.rst:48
 msgid ""
 "Meeting and exchanging with people from various cultures and social "
-"backgrounds"
+"backgrounds,"
 msgstr ""
 
 #: ../../source/Bicycles.rst:49
@@ -191,8 +191,8 @@ msgid ""
 "`List of publications about bicycle workshops "
 "<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 msgstr ""
-"`Liste de publications à propos des ateliers vélo (en "
-"anglais) <https://bikeworkshopsresearch.wordpress.com/publications/>`_"
+"`Liste de publications à propos des ateliers vélo (en anglais) "
+"<https://bikeworkshopsresearch.wordpress.com/publications/>`_"
 
 #: ../../source/Bicycles.rst:60
 msgid "Travelling"
@@ -247,5 +247,19 @@ msgstr ""
 #~ " appliquée au vélo."
 
 #~ msgid "Sharing my knowledge and empowering people"
+#~ msgstr ""
+
+#~ msgid "Learning more about bicycle mechanics"
+#~ msgstr ""
+
+#~ msgid "Helping others"
+#~ msgstr ""
+
+#~ msgid "Sharing my knowledge and enpowering people"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Meeting and exchanging with people from"
+#~ " various cultures and social backgrounds"
 #~ msgstr ""
 

@@ -31,7 +31,7 @@ The light field in an optical cavity interacts with a mechanical resonator via r
 
 In collaboration with `Witlef Wieczorek's experimental group <https://wieczorek-lab.com>`_, we have studied the thermodynamic performance of optomechanical cooling.
 
-- *Optomechanical cooling with coherent and squeezed light: The thermodynamic cost of opening the heat valve* -- `Phys. Rev. A 103, 063519 (2021) <https://doi.org/10.1103/PhysRevA.103.063519>`_
+- *Optomechanical cooling with coherent and squeezed light: The thermodynamic cost of opening the heat valve* -- `Phys. Rev. A 103, 063519 (2021) <https://doi.org/10.1103/PhysRevA.103.063519>`_  -- `Video of my talk at the TIQuR workshop <https://www.youtube.com/watch?v=5BT9kkFDPCQ>`_
    
 .. ~   J. Monsel, N. Dashti, S. K. Manjeshwar, J. Eriksson, H. Ernbrink, E. Olsson, E. Torneus, W. Wieczorek, J. Splettstoesser
 
@@ -50,7 +50,7 @@ The fluctuations of the mechanical energy are equal to the fluctuations of work,
 of entropy production. As a result, hybrid optomechanical systems are promising for experimentally testing fluctuation
 theorems in open quantum systems.
 
-- *An Autonomous Quantum Machine to Measure the Thermodynamic Arrow of Time* -- `npj Quantum Inf. 4, 1 (2018) <https://doi.org/10.1038/s41534-018-0109-8>`_
+- *An Autonomous Quantum Machine to Measure the Thermodynamic Arrow of Time* -- `npj Quantum Inf. 4, 1 (2018) <https://doi.org/10.1038/s41534-018-0109-8>`_  -- `Video of my talk at the II Workshop on Quantum Information and Thermodynamics <https://www.youtube.com/watch?v=jhzOAz8H2UU>`_
   
 .. ~- *Evaporative cooling and amplification in hybrid optomechanical systems* -- in preparation
      
@@ -65,7 +65,7 @@ the qubit’s transition. Therefore, this is a resonant battery, unlike in the o
 especially promising to study the impact of coherences on work exchanges.
 
 
-- *The Energetic Cost of Work Extraction* -- `Phys. Rev. Lett. 124, 130601 (2020) <https://doi.org/10.1103/PhysRevLett.124.130601>`_
+- *The Energetic Cost of Work Extraction* -- `Phys. Rev. Lett. 124, 130601 (2020) <https://doi.org/10.1103/PhysRevLett.124.130601>`_ -- `Video of my talk at the QTD2020 conference <https://www.youtube.com/watch?v=AItlKhvJBt0>`_
 
 
 Electronic systems

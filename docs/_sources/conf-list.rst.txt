@@ -2,7 +2,7 @@
 
 
 Invited talks
---------------------------
+-------------
 .. rubric:: 2019
 
 .. container:: publi
@@ -64,7 +64,7 @@ Contributed talks
         :style: mystyle
 
 Invited seminars
------------------
+----------------
 .. rubric:: 2021
 
 .. container:: publi
@@ -94,8 +94,8 @@ Invited seminars
         :filter: (not cited) and (year == "2018") and (keywords == "seminar")
         :style: mystyle
 
-Posters
--------
+Contributed posters
+-------------------
 .. rubric:: 2020
 
 .. container:: publi

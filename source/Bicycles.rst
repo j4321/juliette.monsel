@@ -15,7 +15,7 @@ I have come to think it is the best one when living in a city, here are a few re
     - Environment friendly.
     - Economical -- no extra insurance, no gas, ...
     
-And when it comes to inconveniences like rain, quite common where I currently live (Gothenburg, Sweden) or snow, I have become an adept of the Scandinavian saying
+And when it comes to inconveniences like rain, quite common where I currently live (Gothenburg, Sweden), or snow, I have become an adept of the Scandinavian saying
 
     Det finns inget dåligt väder, bara dåliga kläder.
     
@@ -26,7 +26,7 @@ However, in the case of cycling, it needs to be extended beyond clothing to incl
 
 .. rubric:: Bike kitchens
 
-One thing I like about (old) bikes is that they are simple enough so that it is possible repair them oneself. 
+One thing I like about (non-electrical) bikes is the possibility to repair them oneself. 
 I find it really satisfying to be able to diagnose and fix myself most issues I have with my bikes. 
 A great place to learn bicycle mechanics is a *Bike Kitchen*, that is a Do-It-Yourself bicyle workshop where one has access to tools, second-hand spare parts and help from volunteers. 
 Bike kitchens come with a large variety of structures and operating models (exclusively volunteer-run or with few employees, membership mandatory or not to access the workshop, ... ) 
@@ -42,10 +42,10 @@ and this is where I learned almost everything I know about bicycle mechanics.
 
 What I like about bike kitchens:
  
-  - Learning more about bicycle mechanics
-  - Helping others
-  - Sharing my knowledge and enpowering people
-  - Meeting and exchanging with people from various cultures and social backgrounds
+  - Learning more about bicycle mechanics,
+  - Helping others,
+  - Sharing my knowledge and enpowering people,
+  - Meeting and exchanging with people from various cultures and social backgrounds,
   - The conviviality with the other volunteers, e.g. shared meals, evening hangouts, ...
 
 

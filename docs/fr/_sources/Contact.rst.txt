@@ -22,3 +22,4 @@ Contact
    :renderer: leafletjs
 
    "MC2 - Chalmers, Kemivägen 9", location: 57.6912759, 11.9754732
+   
