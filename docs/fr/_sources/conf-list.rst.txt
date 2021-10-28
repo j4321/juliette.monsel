@@ -96,6 +96,16 @@ Invited seminars
 
 Contributed posters
 -------------------
+.. rubric:: 2021
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2021") and (keywords == "poster")
+        :style: mystyle
+
+
 .. rubric:: 2020
 
 .. container:: publi

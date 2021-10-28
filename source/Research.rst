@@ -12,7 +12,7 @@ working substance to extract heat from thermal baths and convert it into work, p
 science eventually led to the development of fundamental concepts such as irreversibility. Quantum thermodynamics
 aims at revisiting these results when the working substances, baths and batteries become quantum systems. See for instance 
 the book `Thermodynamics in the quantum regime: fundamental aspects and new directions <https://link.springer.com/book/10.1007/978-3-319-99046-0>`_ 
-(most of the chapters can also be found on arXiv) for an review of the field.
+(most of the chapters can also be found on arXiv) for a review of the field.
 
 My research mainly focus on the thermodynamics of quantum open systems, in regimes relevant for experimental implementations. My background is mostly quantum optics but I am currently also investigating electronic transport.
 
