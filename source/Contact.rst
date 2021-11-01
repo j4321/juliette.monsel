@@ -13,7 +13,7 @@ Contact
     | SE-412 96 Gothenburg
     | Sweden
     |
-    | office: C434 at MC2, Kemivägen 9
+    | office: B527 at MC2, Kemivägen 9
 
 
 .. openstreetmap:: MC2, Chalmers
