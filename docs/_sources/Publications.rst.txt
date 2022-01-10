@@ -7,9 +7,13 @@ Publications
 .. ~|Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp| | |nbsp|  
 .. ~|scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
 
+
+.. ~|ORCID| `ORCID <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
+.. ~|ResearcherID| `ResearcherID <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp|  
+
 |arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ |nbsp|  
-|ORCID| `ORCID <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
-|ResearcherID| `ResearcherID <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp|  
+|ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| 
+|ResearcherID| `AAH-5591-2020 <http://www.researcherid.com/rid/AAH-5591-2020>`_  |nbsp| 
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
 |scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
 
