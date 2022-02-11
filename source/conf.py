@@ -233,17 +233,14 @@ class MyStyle(PlainStyle):
 
     def get_conference_template(self, e):
         template = toplevel [
-            sentence [self.format_names('author')],
-            self.format_title(e, 'title'),
             sentence [
+                self.format_title(e, 'title', as_sentence=False),
                 optional[ self.format_editor(e, as_sentence=False) ],
                 tag('strong') [field('booktitle')],
                 # ~self.format_btitle(e, 'booktitle', as_sentence=False),
                 self.format_volume_and_series(e, as_sentence=False),
                 self.format_chapter_and_pages(e),
-                optional_field('note') 
-            ],
-            sentence [
+                optional_field('note'),
                 optional_field('publisher'),
                 optional_field('location'),
                 self.format_edition(e),
