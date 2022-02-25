@@ -46,6 +46,21 @@ My research interests are:
 News
 ----
 
+- *New preprint* -- February 24, 2022
+
+.. admonition::  Geometric energy transport and refrigeration with driven quantum dots
+    :class: preprint
+    
+    *Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine Splettstoesser*
+    
+    .. image:: assets/Monsel2022Feb.svg
+        :align: right
+
+    We study geometric energy transport in a slowly driven single-level quantum dot weakly coupled to electronic contacts and with strong onsite interaction, which can be either repulsive or attractive. Exploiting a recently discovered fermionic duality for the evolution operator of the master equation, we provide compact and insightful analytic expressions of energy pumping curvatures for any pair of driving parameters. This enables us to systematically identify and explain the pumping mechanisms for different driving schemes, thereby also comparing energy and charge pumping. We determine the concrete impact of many-body interactions and show how particle-hole symmetry and fermionic duality manifest, both individually and in combination, as system-parameter symmetries of the energy pumping curvatures. Building on this transport analysis, we study the driven dot acting as a heat pump or refrigerator, where we find that the sign of the onsite interaction plays a crucial role in the performance of these thermal machines. 
+    
+    `arXiv:2202.12221 <https://doi.org/10.48550/arXiv.2202.12221>`_
+
+
 - *New article* -- June 25, 2021
 
 .. admonition::  Optomechanical cooling with coherent and squeezed light: the thermodynamic cost of opening the heat valve
@@ -65,22 +80,22 @@ News
     
 
 
-- *New preprint* -- March 28, 2021
+.. ~- *New preprint* -- March 28, 2021
 
-.. admonition::  Ultrastrong coupling between electron tunneling and mechanical motion
-    :class: preprint
+.. ~.. admonition::  Ultrastrong coupling between electron tunneling and mechanical motion
+.. ~    :class: preprint
     
-    *Florian Vigneau, Juliette Monsel, Jorge Tabanera, Léa Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares*
+.. ~    *Florian Vigneau, Juliette Monsel, Jorge Tabanera, Léa Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares*
     
-    .. image:: assets/Vigneau2021Mar.svg
-        :align: right
+.. ~    .. image:: assets/Vigneau2021Mar.svg
+.. ~        :align: right
 
-    We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. 
-    We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
+.. ~    We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. 
+.. ~    We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
 
-    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
+.. ~    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
     
-    `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
+.. ~    `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
 
 
         
