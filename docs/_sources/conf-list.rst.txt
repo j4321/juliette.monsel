@@ -65,6 +65,16 @@ Contributed talks
 
 Invited seminars
 ----------------
+.. rubric:: 2022
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2022") and (keywords == "seminar")
+        :style: mystyle
+
+
 .. rubric:: 2021
 
 .. container:: publi
@@ -96,6 +106,16 @@ Invited seminars
 
 Contributed posters
 -------------------
+.. rubric:: 2022
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2022") and (keywords == "poster")
+        :style: mystyle
+
+
 .. rubric:: 2021
 
 .. container:: publi
