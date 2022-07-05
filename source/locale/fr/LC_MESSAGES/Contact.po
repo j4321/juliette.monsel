@@ -52,7 +52,6 @@ msgid "Sweden"
 msgstr ""
 
 #: ../../source/Contact.rst
-#, fuzzy
 msgid "office: B527 at MC2, Kemivägen 9"
 msgstr "bureau: B527 at MC2, Kemivägen 9"
 
