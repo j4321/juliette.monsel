@@ -46,7 +46,7 @@ My research interests are:
 News
 ----
 
-- *New preprint* -- February 24, 2022
+- *New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!
 
 .. admonition::  Geometric energy transport and refrigeration with driven quantum dots
     :class: preprint
@@ -58,7 +58,7 @@ News
 
     We study geometric energy transport in a slowly driven single-level quantum dot weakly coupled to electronic contacts and with strong onsite interaction, which can be either repulsive or attractive. Exploiting a recently discovered fermionic duality for the evolution operator of the master equation, we provide compact and insightful analytic expressions of energy pumping curvatures for any pair of driving parameters. This enables us to systematically identify and explain the pumping mechanisms for different driving schemes, thereby also comparing energy and charge pumping. We determine the concrete impact of many-body interactions and show how particle-hole symmetry and fermionic duality manifest, both individually and in combination, as system-parameter symmetries of the energy pumping curvatures. Building on this transport analysis, we study the driven dot acting as a heat pump or refrigerator, where we find that the sign of the onsite interaction plays a crucial role in the performance of these thermal machines. 
     
-    `arXiv:2202.12221 <https://doi.org/10.48550/arXiv.2202.12221>`_
+    `Phys. Rev. B 106, 035405  <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_
 
 
 - *New article* -- June 25, 2021
@@ -76,7 +76,7 @@ News
     
     This work arises from a collaboration between `Janine Splettstoesser's theoretical group <https://sites.google.com/site/splettchalmers>`_ and `Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ to investigate thermodynamics with optomechanical setups.
     
-    `Phys. Rev. A 103, 063519 (2021) <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_
+    `Phys. Rev. A 103, 063519 <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_
     
 
 

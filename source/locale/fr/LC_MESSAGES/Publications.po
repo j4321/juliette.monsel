@@ -8,27 +8,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 16:35+0200\n"
+"POT-Creation-Date: 2022-07-05 17:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../source/Publications.rst:2
 msgid "Publications"
 msgstr "Publications"
 
-#: ../../source/Publications.rst:10
+#: ../../source/Publications.rst:14
 msgid ""
 "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ |nbsp| |ORCID| "
-"`ORCID <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| |ResearcherID| "
-"`ResearcherID <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp| "
-"|Scopus| `Scopus "
-"<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|"
-" |scholar| `Google Scholar "
+"`0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
+"|ResearcherID| `AAH-5591-2020 "
+"<http://www.researcherid.com/rid/AAH-5591-2020>`_  |nbsp| |Scopus| "
+"`Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_"
+"  |nbsp| |scholar| `Google Scholar "
 "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
 msgstr ""
 
@@ -53,28 +53,32 @@ msgid "Google Scholar"
 msgstr ""
 
 #: ../../source/publications-list.rst:5
-msgid "Books"
-msgstr "Livres"
-
-#: ../../source/publications-list.rst:14
 msgid "Preprints"
 msgstr "Pré-publications"
 
-#: ../../source/publications-list.rst:23
+#: ../../source/publications-list.rst:14
 msgid "Articles"
 msgstr "Articles"
 
-#: ../../source/publications-list.rst:26
+#: ../../source/publications-list.rst:17
+msgid "2022"
+msgstr ""
+
+#: ../../source/publications-list.rst:27
 msgid "2021"
 msgstr ""
 
-#: ../../source/publications-list.rst:36
+#: ../../source/publications-list.rst:37
 msgid "2020"
 msgstr ""
 
-#: ../../source/publications-list.rst:46
+#: ../../source/publications-list.rst:47
 msgid "2018"
 msgstr ""
+
+#: ../../source/publications-list.rst:56
+msgid "Books"
+msgstr "Livres"
 
 #~ msgid ""
 #~ "|ORCID| http://orcid.org/0000-0002-4965-6794  | "
@@ -88,6 +92,18 @@ msgstr ""
 #~ "|nbsp|  | |nbsp|  |ORCID| `0000-0002-4965-6794"
 #~ " <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| | "
 #~ "|nbsp|  |scholar| `Google Scholar "
+#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ "
+#~ "|nbsp| |ORCID| `ORCID "
+#~ "<http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
+#~ "|ResearcherID| `ResearcherID "
+#~ "<http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp| "
+#~ "|Scopus| `Scopus "
+#~ "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
+#~ "|nbsp| |scholar| `Google Scholar "
 #~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
 #~ msgstr ""
 

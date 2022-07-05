@@ -3,6 +3,16 @@
 
 Invited talks
 -------------
+.. rubric:: 2022
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2022") and (keywords == "invited")
+        :style: mystyle
+
+
 .. rubric:: 2019
 
 .. container:: publi
