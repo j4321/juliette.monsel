@@ -80,8 +80,7 @@ Electronic systems
 A quantum dot is weakly coupled to two leads, that is two electron reservoirs. Electrons can tunnel in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction.
     
     
-.. ~- *Geometric energy transport in time-dependently driven quantum dots* -- in preparation
-
+- *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
 
 .. rubric::  Suspended carbon nanotubes
 
