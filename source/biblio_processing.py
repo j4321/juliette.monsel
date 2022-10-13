@@ -2,6 +2,7 @@
 Custom pybtex style to display my publication list and conferences
 """
 import re
+import json
 
 from pybtex.style.formatting.alpha import Style as PlainStyle
 from pybtex.style.sorting import BaseSortingStyle
@@ -417,8 +418,95 @@ class MyStyle(PlainStyle):
             return formatted_title
 
 
-# def generate_news():
-#     bib_data = parse_file("publications.bib")
-#     style = PlainStyle()
-#     for key, entry in bib_data.entries.items():
-#         entry_type = "preprint" if entry.type == "misc" else entry.type
+class NewsStyle(PlainStyle):
+    def format_field(self, field, entry):
+        context = {
+            'entry': entry,
+            'style': self,
+            'bib_data': None,
+        }
+        get_template = getattr(self, 'get_{}_template'.format(field))
+        return str(get_template(entry).format_data(context))
+
+    def get_authors_template(self, e):
+        formatted_names = names("author", sep=', ', sep2 = ' and ', last_sep=', ')
+        return formatted_names
+
+    def get_title_template(self, e):
+        return self.format_title(e, "title", False)
+
+    def get_date_template(self, e):
+        return words [optional_field('month'), field('year')]
+
+    def get_link_template(self, e):
+        return first_of [
+            optional [ self.format_url(e) ],
+            optional [ self.format_eprint(e) ],
+            optional [ self.format_pubmed(e) ],
+            optional [ self.format_doi(e) ]
+        ]
+
+    def get_reference_template(self, e):
+        if e.type == "misc":
+            return join [
+                'arXiv:',
+                field('eprint', raw=True)
+            ]
+        else: # article
+            volume_and_pages = first_of [
+                # volume and pages, with optional issue number
+                optional [
+                    join [
+                        field('volume'),
+                        optional['(', field('number'), ')'],
+                        ', ', pages
+                    ],
+                ],
+                # pages only
+                words ['pages', pages],
+            ]
+            return words [
+                field('journal'),
+                optional[ volume_and_pages ]
+            ]
+
+    def format_url(self, e):
+        # based on urlbst format.url
+        return field('url', raw=True),
+
+    def format_pubmed(self, e):
+        # based on urlbst format.pubmed
+        return join [
+            'https://www.ncbi.nlm.nih.gov/pubmed/',
+            field('pubmed', raw=True)
+        ]
+
+    def format_doi(self, e):
+        # based on urlbst format.doi
+        return join [
+            'https://doi.org/',
+            field('doi', raw=True)
+        ]
+
+    def format_eprint(self, e):
+        # based on urlbst format.eprint
+        return join [
+            'https://arxiv.org/abs/',
+            field('eprint', raw=True)
+        ]
+
+def bibtex_to_json(key):
+    """Print json data corresponding to entry KEY in piublications.bib"""
+    bib_data = parse_file("publications.bib")
+    style = NewsStyle()
+    entry = bib_data.entries[key]
+    data = entry.fields
+    json_data = {}
+    json_data["header"] = "New preprint" if entry.type == "misc" else "New article"
+    json_data["date"] = style.format_field("date", entry)
+    json_data["title"] = style.format_field("title", entry)
+    json_data["authors"] = style.format_field("authors", entry)
+    json_data["summary"] = data.get("abstract", "")
+    json_data["links"] = [{"reference": style.format_field("reference", entry), "link": style.format_field("link", entry)}]
+    json_data[""note":"] = data.get("note", "")
+    return print(json.dumps({key: json_data}, indent=4))
