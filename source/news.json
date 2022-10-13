@@ -1,0 +1,51 @@
+{
+    "Tesser2022Oct": {
+        "header": "New preprint",
+        "date": "October 12, 2022",
+        "title": "Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies",
+        "authors": "Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, Janine Splettstoesser",
+        "summary": "Nonequilibrium situations where selected currents are suppressed are of interest in fields like thermoelectrics and spintronics, raising the question of how the related noises behave. We study such zero-current charge, spin, and heat noises in a two-terminal mesoscopic conductor. In the presence of voltage, spin and temperature biases, the nonequilibrium (shot) noises of charge, spin, and heat can be arbitrarily large, even if their average currents vanish. However, as soon as a temperature bias is present, additional equilibrium (thermal-like) noise necessarily occurs. We show that this equilibrium noise sets an upper bound on the zero-current charge and spin shot noises, even if additional voltage or spin biases are present. We demonstrate that these bounds can be overcome for heat transport by breaking the spin and electron-hole symmetries, respectively. By contrast, we show that the bound on the charge noise for strictly two-terminal conductors even extends into the finite-frequency regime.",
+        "links": [{
+            "reference": "arXiv:2210.06051",
+            "URL": "https://arxiv.org/abs/2210.06051"
+        }]
+    },
+    "Monsel2022Feb": {
+        "header": "New article",
+        "date": "July 5, 2022",
+        "title": "Geometric energy transport and refrigeration with driven quantum dots",
+        "authors": "Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine Splettstoesser",
+        "summary": "We study geometric energy transport in a slowly driven single-level quantum dot weakly coupled to electronic contacts and with strong onsite interaction, which can be either repulsive or attractive. Exploiting a recently discovered fermionic duality for the evolution operator of the master equation, we provide compact and insightful analytic expressions of energy pumping curvatures for any pair of driving parameters. This enables us to systematically identify and explain the pumping mechanisms for different driving schemes, thereby also comparing energy and charge pumping. We determine the concrete impact of many-body interactions and show how particle-hole symmetry and fermionic duality manifest, both individually and in combination, as system-parameter symmetries of the energy pumping curvatures. Building on this transport analysis, we study the driven dot acting as a heat pump or refrigerator, where we find that the sign of the onsite interaction plays a crucial role in the performance of these thermal machines.",
+        "links": [{
+            "reference": "Phys. Rev. B 106, 035405",
+            "URL": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405"
+        }],
+        "note": "**Editors' suggestion** in Phys. Rev. B!"
+    },
+    "Monsel2021Mar": {
+        "header": "New article",
+        "date": "June 25, 2021",
+        "title": "Optomechanical cooling with coherent and squeezed light: the thermodynamic cost of opening the heat valve",
+        "authors": "Juliette Monsel, Nastaran Dashti, Sushanth Kini Manjeshwar, Jakob Eriksson, Henric Ernbrink, Ebba Olsson, Emelie Torneus, Witlef Wieczorek, Janine Splettstoesser",
+        "summary": "Ground-state cooling of mechanical motion by coupling to a driven optical cavity has been demonstrated in various optomechanical systems. In our work, we provide a so far missing thermodynamic performance analysis of optomechanical sideband cooling. We examine various performance quantifiers to get a full picture of the thermodynamic process and use them to benchmark different experimental platforms. Importantly, in addition to the standard optomechanical setup fed by coherent light, we investigate two recent alternative setups: replacing the coherent laser drive by squeezed light or using a cavity with a frequency-dependent (Fano) mirror.\n\nThis work arises from a collaboration between `Janine Splettstoesser's theoretical group <https://sites.google.com/site/splettchalmers>`_ and `Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ to investigate thermodynamics with optomechanical setups.",
+        "links": [{
+            "reference": "Phys. Rev. A 103, 063519",
+            "URL": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519"
+        }]
+    },
+    "Vigneau2021Mar": {
+        "header": "Accepted article",
+        "date": "September 16, 2022",
+        "title": "Ultrastrong coupling between electron tunneling and mechanical motion",
+        "authors": "Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares",
+        "summary": "We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.\n\nThis work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.",
+        "links": [{
+            "reference": "Phys. Rev. Research",
+            "URL": "https://journals.aps.org/prresearch/accepted/d9070Y5bRed15b8e50e816b4ec1eb5ba97a1d7f60"
+        }, {
+            "reference": "arXiv:2103.15219",
+            "URL": "https://arxiv.org/abs/2103.15219"
+        }]
+    }
+}
+  

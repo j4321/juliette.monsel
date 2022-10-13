@@ -46,60 +46,8 @@ My research interests are:
 News
 ----
 
-- *New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!
-
-.. admonition::  Geometric energy transport and refrigeration with driven quantum dots
-    :class: preprint
-    
-    *Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine Splettstoesser*
-    
-    .. image:: assets/Monsel2022Feb.svg
-        :align: right
-
-    We study geometric energy transport in a slowly driven single-level quantum dot weakly coupled to electronic contacts and with strong onsite interaction, which can be either repulsive or attractive. Exploiting a recently discovered fermionic duality for the evolution operator of the master equation, we provide compact and insightful analytic expressions of energy pumping curvatures for any pair of driving parameters. This enables us to systematically identify and explain the pumping mechanisms for different driving schemes, thereby also comparing energy and charge pumping. We determine the concrete impact of many-body interactions and show how particle-hole symmetry and fermionic duality manifest, both individually and in combination, as system-parameter symmetries of the energy pumping curvatures. Building on this transport analysis, we study the driven dot acting as a heat pump or refrigerator, where we find that the sign of the onsite interaction plays a crucial role in the performance of these thermal machines. 
-    
-    `Phys. Rev. B 106, 035405  <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_
-
-
-- *New article* -- June 25, 2021
-
-.. admonition::  Optomechanical cooling with coherent and squeezed light: the thermodynamic cost of opening the heat valve
-    :class: preprint
-    
-    *Juliette Monsel, Nastaran Dashti, Sushanth Kini Manjeshwar, Jakob Eriksson, Henric Ernbrink, Ebba Olsson, Emelie Torneus, Witlef Wieczorek, Janine Splettstoesser*
-    
-    .. image:: assets/Monsel2021Mar.svg
-        :align: right
+.. include:: news.rst
         
-    Ground-state cooling of mechanical motion by coupling to a driven optical cavity has been demonstrated in various optomechanical systems. In our work, we provide a so far missing thermodynamic performance analysis of optomechanical sideband cooling. We examine various performance quantifiers to get a full picture of the thermodynamic process and use them to benchmark different experimental platforms.
-    Importantly, in addition to the standard optomechanical setup fed by coherent light, we investigate two recent alternative setups: replacing the coherent laser drive by squeezed light or using a cavity with a frequency-dependent (Fano) mirror. 
-    
-    This work arises from a collaboration between `Janine Splettstoesser's theoretical group <https://sites.google.com/site/splettchalmers>`_ and `Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ to investigate thermodynamics with optomechanical setups.
-    
-    `Phys. Rev. A 103, 063519 <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_
-    
-
-
-.. ~- *New preprint* -- March 28, 2021
-
-.. ~.. admonition::  Ultrastrong coupling between electron tunneling and mechanical motion
-.. ~    :class: preprint
-    
-.. ~    *Florian Vigneau, Juliette Monsel, Jorge Tabanera, Léa Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. Parrondo, Alexia Auffèves, and Natalia Ares*
-    
-.. ~    .. image:: assets/Vigneau2021Mar.svg
-.. ~        :align: right
-
-.. ~    We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. 
-.. ~    We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
-
-.. ~    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
-    
-.. ~    `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
-
-
-        
-
 
 .. toctree::
     :maxdepth: 3

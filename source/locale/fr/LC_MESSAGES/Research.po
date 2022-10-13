@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-28 13:40+0200\n"
+"POT-Creation-Date: 2022-10-13 09:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../source/Research.rst:2
 msgid "Research"
@@ -193,11 +193,20 @@ msgstr ""
 "d'énergie pour des modulation périodiques lentes, jusqu'à la première "
 "correction non-adiabatique."
 
-#: ../../source/Research.rst:88
+#: ../../source/Research.rst:83
+msgid ""
+"*Geometric energy transport and refrigeration with driven quantum dots* "
+"-- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion "
+"<https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the "
+"QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-"
+"content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_"
+msgstr ""
+
+#: ../../source/Research.rst:87
 msgid "Suspended carbon nanotubes"
 msgstr "Nanotubes de carbone suspendus"
 
-#: ../../source/Research.rst:93
+#: ../../source/Research.rst:92
 #, fuzzy
 msgid ""
 "These devices combine electronic transport and mechanical degrees of "
@@ -206,7 +215,7 @@ msgid ""
 "devices similar to hybrid optomechanical systems."
 msgstr ""
 
-#: ../../source/Research.rst:95
+#: ../../source/Research.rst:94
 #, fuzzy
 msgid ""
 "I am taking part in the FQXI project `Nanomechanics in the solid-state "
@@ -214,7 +223,7 @@ msgid ""
 "<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
 msgstr ""
 
-#: ../../source/Research.rst:97
+#: ../../source/Research.rst:96
 msgid ""
 "*Ultrastrong coupling between electron tunnelling and mechanical motion* "
 "-- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"

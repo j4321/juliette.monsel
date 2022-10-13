@@ -9,7 +9,7 @@ Preprints
         :list: bullet
         :filter: (not cited) and (type == "misc")
         :style: mystyle
-    
+
 Articles
 --------
 
