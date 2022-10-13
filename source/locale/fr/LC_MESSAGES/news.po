@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-13 11:36+0200\n"
+"POT-Creation-Date: 2022-10-13 13:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,20 +57,58 @@ msgid "`arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_"
 msgstr ""
 
 #: ../../source/news.rst:19
-msgid "*New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!"
+msgid "*Accepted article* -- September 16, 2022"
 msgstr ""
 
 #: ../../source/news.rst:21
-msgid "Geometric energy transport and refrigeration with driven quantum dots"
+msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
 msgstr ""
 
 #: ../../source/news.rst:24
+msgid ""
+"*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
+" Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
+"Parrondo, Alexia Auffèves, and Natalia Ares*"
+msgstr ""
+
+#: ../../source/news.rst:29
+msgid ""
+"We have measured and modelled the coupling strength between single-"
+"electron tunneling and nanomechanical motion in a fully-suspended carbon "
+"nanotube device. We have found it to be well within the ultrastrong "
+"coupling regime, thus opening exciting perspectives for both fundamental "
+"research and quantum technologies."
+msgstr ""
+
+#: ../../source/news.rst:31
+msgid ""
+"This work is part of the FQXI project `Nanomechanics in the solid-state "
+"for quantum information thermodynamics "
+"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+msgstr ""
+
+#: ../../source/news.rst:33
+msgid ""
+"`Phys. Rev. Research "
+"<https://journals.aps.org/prresearch/accepted/d9070Y5bRed15b8e50e816b4ec1eb5ba97a1d7f60>`_"
+" -- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"
+msgstr ""
+
+#: ../../source/news.rst:36
+msgid "*New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!"
+msgstr ""
+
+#: ../../source/news.rst:38
+msgid "Geometric energy transport and refrigeration with driven quantum dots"
+msgstr ""
+
+#: ../../source/news.rst:41
 msgid ""
 "*Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine "
 "Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:29
+#: ../../source/news.rst:46
 msgid ""
 "We study geometric energy transport in a slowly driven single-level "
 "quantum dot weakly coupled to electronic contacts and with strong onsite "
@@ -90,53 +127,60 @@ msgid ""
 "performance of these thermal machines."
 msgstr ""
 
-#: ../../source/news.rst:31
+#: ../../source/news.rst:48
 msgid ""
 "`Phys. Rev. B 106, 035405 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_"
 msgstr ""
 
-#: ../../source/news.rst:34
-msgid "*New article* -- June 25, 2021"
-msgstr ""
+#~ msgid "*New article* -- June 25, 2021"
+#~ msgstr ""
 
-#: ../../source/news.rst:36
-msgid ""
-"Optomechanical cooling with coherent and squeezed light: the "
-"thermodynamic cost of opening the heat valve"
-msgstr ""
+#~ msgid ""
+#~ "Optomechanical cooling with coherent and "
+#~ "squeezed light: the thermodynamic cost "
+#~ "of opening the heat valve"
+#~ msgstr ""
 
-#: ../../source/news.rst:39
-msgid ""
-"*Juliette Monsel, Nastaran Dashti, Sushanth Kini Manjeshwar, Jakob "
-"Eriksson, Henric Ernbrink, Ebba Olsson, Emelie Torneus, Witlef Wieczorek,"
-" Janine Splettstoesser*"
-msgstr ""
+#~ msgid ""
+#~ "*Juliette Monsel, Nastaran Dashti, Sushanth"
+#~ " Kini Manjeshwar, Jakob Eriksson, Henric"
+#~ " Ernbrink, Ebba Olsson, Emelie Torneus, "
+#~ "Witlef Wieczorek, Janine Splettstoesser*"
+#~ msgstr ""
 
-#: ../../source/news.rst:44
-msgid ""
-"Ground-state cooling of mechanical motion by coupling to a driven optical"
-" cavity has been demonstrated in various optomechanical systems. In our "
-"work, we provide a so far missing thermodynamic performance analysis of "
-"optomechanical sideband cooling. We examine various performance "
-"quantifiers to get a full picture of the thermodynamic process and use "
-"them to benchmark different experimental platforms. Importantly, in "
-"addition to the standard optomechanical setup fed by coherent light, we "
-"investigate two recent alternative setups: replacing the coherent laser "
-"drive by squeezed light or using a cavity with a frequency-dependent "
-"(Fano) mirror."
-msgstr ""
+#~ msgid ""
+#~ "Ground-state cooling of mechanical "
+#~ "motion by coupling to a driven "
+#~ "optical cavity has been demonstrated in"
+#~ " various optomechanical systems. In our "
+#~ "work, we provide a so far missing"
+#~ " thermodynamic performance analysis of "
+#~ "optomechanical sideband cooling. We examine"
+#~ " various performance quantifiers to get "
+#~ "a full picture of the thermodynamic "
+#~ "process and use them to benchmark "
+#~ "different experimental platforms. Importantly, "
+#~ "in addition to the standard "
+#~ "optomechanical setup fed by coherent "
+#~ "light, we investigate two recent "
+#~ "alternative setups: replacing the coherent "
+#~ "laser drive by squeezed light or "
+#~ "using a cavity with a frequency-"
+#~ "dependent (Fano) mirror."
+#~ msgstr ""
 
-#: ../../source/news.rst:46
-msgid ""
-"This work arises from a collaboration between `Janine Splettstoesser's "
-"theoretical group <https://sites.google.com/site/splettchalmers>`_ and "
-"`Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ to "
-"investigate thermodynamics with optomechanical setups."
-msgstr ""
+#~ msgid ""
+#~ "This work arises from a collaboration"
+#~ " between `Janine Splettstoesser's theoretical "
+#~ "group <https://sites.google.com/site/splettchalmers>`_ and"
+#~ " `Witlef Wieczorek's experimental group "
+#~ "<https://wieczorek-lab.com/>`_ to investigate "
+#~ "thermodynamics with optomechanical setups."
+#~ msgstr ""
 
-#: ../../source/news.rst:48
-msgid ""
-"`Phys. Rev. A 103, 063519 "
-"<https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_"
-msgstr ""
+#~ msgid ""
+#~ "`Phys. Rev. A 103, 063519 "
+#~ "<https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_"
+#~ msgstr ""
+
