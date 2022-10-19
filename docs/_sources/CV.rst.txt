@@ -29,30 +29,26 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. rubric:: Education
 
 
-:2019: **Ph.D.** in Theoretical Physics at `Université Grenoble Alpes <UGA_>`_, France
+:2019: **Ph.D.** in Theoretical Physics at `Université Grenoble Alpes <UGA_>`_, France.
 
-:2016: **M.Sc.** in Physics at `École Normale Supérieure de Lyon <master_>`_, France
+:2016: **M.Sc.** in Physics at `École Normale Supérieure de Lyon <master_>`_, France.
 
-:2014: **B.Sc.** in Physics at `École Normale Supérieure de Lyon <l3_>`_, France
+:2014: **B.Sc.** in Physics at `École Normale Supérieure de Lyon <l3_>`_, France.
 
 
 .. rubric:: Awards and Grants
 
-:2020: **Spinger Thesis Award**, recognizing outstanding Ph.D.research
+:Submitted: **EIC Pathfinder Challenge**: `Alternative approaches to Quantum Information Processing, Communication, and Sensing <https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en>`_, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.
 
-:2016: **Ph.D. grant** from the `CFM Foundation for Research <http://www.fondation-cfm.fr/>`_
+:Submitted: **Travel grant** from Chalmers Foundation (`Chalmersska forskningsfonden <https://www.chalmers.se/en/foundation/scholarshipsandgrants/Pages/CFFeng.aspx>`_) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference.
 
-.. ~ .. rubric:: Grants
+:2020: **Spinger Thesis Award**, recognizing outstanding Ph.D.research.
 
-.. ~ .. rubric:: Service to the community
-
-.. ~ :Reviewer: New Journal of Physics (2020), Communications Physics (2020)
-
-.. ~ :Fête de la Science: Speaker and guide (2016 – 2019) at the “Fête de la Science”, a yearly national French event during which scientific institutions promote science through animations and laboratory tours.
+:2016: **Ph.D. grant** from the `CFM Foundation for Research <http://www.fondation-cfm.fr/>`_.
 
 .. rubric:: Skills
 
-:Languages: French (native), English (fluent), Italian (good understanding), Swedish (currently learning)
+:Languages: French (native), English (fluent), Italian (good understanding -- B2), Swedish (currently learning -- B1)
 :Programming: Python, Git, C++, Matlab
 
 .. rubric:: Social media

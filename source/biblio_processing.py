@@ -136,22 +136,24 @@ class MyStyle(PlainStyle):
             # pages only
             words ['pages', pages],
         ]
+        url = self.format_link(e)
+        journal = sentence [
+             field('journal'),
+             optional[ volume_and_pages ]
+        ]
         template = toplevel [
             self.format_names('author'),
             self.format_title(e, 'title'),
-            sentence [
-                tag('em') [field('journal')],
-                optional[ volume_and_pages ]
-            ],
+           href [ url, journal ],
             sentence [ optional_field('note') ],
-            self.format_web_refs(e),
+            # self.format_web_refs(e),
         ]
         return template
 
     def get_book_template(self, e):
         template = toplevel [
             self.format_author_or_editor(e),
-            self.format_btitle(e, 'title'),
+            href [self.format_link(e), self.format_btitle(e, 'title')],
             self.format_volume_and_series(e),
             sentence [
                 field('publisher'),
@@ -161,7 +163,7 @@ class MyStyle(PlainStyle):
             ],
             optional[ sentence [ self.format_isbn(e) ] ],
             sentence [ optional_field('note') ],
-            self.format_web_refs(e),
+            # self.format_web_refs(e),
             optional[ sentence [ self.format_phd(e) ] ],
         ]
         return template
@@ -173,6 +175,22 @@ class MyStyle(PlainStyle):
             field('url', raw=True)
         ]
 
+    def format_link(self, e):
+        return first_of [
+            optional_field("url", raw=True),
+            optional  [
+                join [
+                    'https://doi.org/',
+                    field('doi', raw=True)
+                ]
+            ],
+            optional [
+                join [
+                    'https://arxiv.org/abs/',
+                    field('eprint', raw=True)
+                ],
+            ]
+        ]
 
     def get_booklet_template(self, e):
         template = toplevel [
@@ -508,5 +526,5 @@ def bibtex_to_json(key):
     json_data["authors"] = style.format_field("authors", entry)
     json_data["summary"] = data.get("abstract", "")
     json_data["links"] = [{"reference": style.format_field("reference", entry), "link": style.format_field("link", entry)}]
-    json_data[""note":"] = data.get("note", "")
+    json_data["note"] = data.get("note", "")
     return print(json.dumps({key: json_data}, indent=4))

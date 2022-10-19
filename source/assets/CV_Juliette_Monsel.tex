@@ -6,12 +6,11 @@
 % available at http://www.latex-project.org/lppl/.
 
 
-\documentclass[12pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\documentclass[12pt,a4paper,sans]{moderncv}       
 
 % moderncv themes
-\moderncvstyle{perso}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-%\moderncvstyle{perso}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{darkblue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{perso}                            
+\moderncvcolor{darkblue}                         
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
@@ -19,15 +18,14 @@
 \usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
-%\usepackage{multibib}
-%\newcites{article,book}{{Articles},{Books}}
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
 % adjust the page margins
 \usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
 
 \setlength{\hintscolumnwidth}{3.2cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+\setlength{\beforesectionvspace}{3ex}               % space above section title
+\setlength{\beforesubsectionvspace}{2ex}            % space above subsection title
+
 \renewcommand\colorhref[3][black]{\href{#2}{\textit{\small\color{#1}#3}}}
 
 %%%%%%%%%%%%%%%%%%%%% publi and conf with biblatex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -199,62 +197,38 @@ maxnames=100]{biblatex}
 %\newcommand*\researcheridsocialsymbol{{\faIcon{parking}}~} % <========= \aiGoogleScholarSquare
 %\newcommand*\researchgatesocialsymbol{{\aiResearchGate}~}   % <========= \aiResearchGateSquare
 
-
 % personal data
 \name{Juliette}{Monsel}
-%\title{Researcher in theoretical physics} 
 \title{Researcher in theoretical physics}                               % optional, remove / comment the line if not wanted
 \address{Gothenburg, Sweden}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
-%\address{19 rue Revol}{38000 Grenoble}{France}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
-%\phone[mobile]{+33 6 01 71 18 92}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
-%\phone[fixed]{+2~(345)~678~901}
-%\phone[fax]{+3~(456)~789~012}
+%\phone[mobile]{}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 \email{monsel@chalmers.se}                               % optional, remove / comment the line if not wanted
 %\email{juliette.monsel@gmx.fr}                               % optional, remove / comment the line if not wanted
 \homepage{j4321.github.io/juliette.monsel}                         % optional, remove / comment the line if not wanted
 %\social[linkedin]{www.linkedin.com/in/juliette-monsel}                        % optional, remove / comment the line if not wanted
 \social[orcid]{0000-0002-4965-6794}                        % optional, remove / comment the line if not wanted
 \social[researcherid]{AAH-5591-2020} 
-
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
-%\social[github]{j4321}                              % optional, remove / comment the line if not wanted
-\extrainfo{Nationality: French}                 % optional, remove / comment the line if not wanted
+%\social[github]{j4321}                             % optional, remove / comment the line if not wanted
+\extrainfo{Nationality: French}                     % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
-\quote{\vskip-5mm Research interests: stochastic thermodynamics, quantum open systems, quantum optics, optomechanics and electronic transport.}                                 % optional, remove / comment the line if not wanted
+\quote{\vskip-5mm Research interests: stochastic thermodynamics, quantum open systems, quantum optics, optomechanics and electronic transport.}                                 
 
-% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
-%\makeatletter
-%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
-%\makeatother
-%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
 
-% bibliography with mutiple entries
-%\newcites{book,misc}{{Books},{Others}}
-%----------------------------------------------------------------------------------
-%            content
-%----------------------------------------------------------------------------------
-%\renewcommand*{\cvdoubleitem}[5][.25em]{%
-% \cvitem[#1]{#2}{%
-%   \begin{minipage}[t]{\doubleitemmaincolumnwidth+0.25\hintscolumnwidth}#3\end{minipage}%
-%   \hspace*{\separatorcolumnwidth}%
-%   \begin{minipage}[t]{0.5\hintscolumnwidth}\raggedleft\hintstyle{#4}\end{minipage}%
-%   \hspace*{\separatorcolumnwidth}%
-%   \begin{minipage}[t]{\doubleitemmaincolumnwidth+0.25\hintscolumnwidth}#5\end{minipage}}}
 
+%-----       resume       ---------------------------------------------------------
 \begin{document}
 \renewcommand{\labelitemi}{$\bullet$}
-%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
-%-----       resume       ---------------------------------------------------------
+
 \makecvtitle
-%\vspace{-0.25cm}
-%\vspace{0.5cm}
+
 \vspace{-0.55cm}
 \section{Education}
-\cventry[0.5em]{2020}{Qualification}{National Council of Universities (CNU)}{France}{}{Certificate allowing me to apply to ``Maître de Conférence'' positions, permanent Assistant Professor positions with an important teaching component, at French universities.}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
+\cventry[0.5em]{2020}{Qualification}{National Council of Universities (CNU)}{France}{}{Certificate allowing me to apply to ``Maître de Conférence'' positions, permanent Assistant Professor positions with an important teaching component, at French universities.}
 
-\cventry[0.3em]{2019}{Ph.D.}{Université Grenoble Alpes}{France}{}{Theoretical Physics.}%{{Dissertation:} Quantum thermodynamics and optomechanics.\\{Supervisor:} Alexia Auffèves}
+\cventry[0.3em]{2019}{Ph.D.}{Université Grenoble Alpes}{France}{}{Theoretical Physics.}
     
-\cventry[0.3em]{2016}{M.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}  % arguments 3 to 6 can be left empty
+\cventry[0.3em]{2016}{M.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}  
 \cventry[0.3em]{2014}{B.Sc.}{École Normale Supérieure de Lyon}{France}{}{Major: Physics, Mention: highest honors}
 \cventry[0.3em]{2011 -- 2013}{Classe Préparatoire}{Lycée La Martinière Monplaisir}{Lyon, France}{}{Two-year intensive course preparing for the competitive entrance examinations to French leading institutions of higher education. Track: Mathematics-Physics.}
 %\cventry{July 2011}{Baccalauréat -- High school diploma}{Lycée du Val de Saône}{Trévoux, France}{}{Scientific course, Mention: highest honors, GPA: 18.2/20 -- A$^+$}
@@ -304,7 +278,7 @@ maxnames=100]{biblatex}
 %%\item Successfully generated a radially polarized beam with the spatial light modulator
 %%\end{itemize}
 }
-%\newpage
+
 \section{Teaching experience}
 \cventry{2017, 2018\\(64 hours/year)}{Teaching Assistant}{Université Grenoble Alpes}{France}{}{Newtonian mechanics for first year undergraduates.
 \begin{itemize}
@@ -321,8 +295,8 @@ maxnames=100]{biblatex}
     %    \end{itemize}
 }
 \subsection{Student supervision}
-\cvitem[0.5em]{Apr. 2022 -- current}{Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.}
-\cvitem[0.5em]{Oct. 2021 -- current}{Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.}
+\cvitem[0.5em]{Apr. -- Jul. 2022}{Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.}
+\cvitem[0.5em]{Oct. 2021 -- Jul. 2022}{Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.}
 \cvitem[0.5em]{2020 -- current}{Official assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.}
 \cvitem[0.5em]{2016}{Informal co-supervisor of a first-year master student during his two-month internship at the Institut Néel, Grenoble, France.}
 
@@ -330,15 +304,15 @@ maxnames=100]{biblatex}
 \cventry[0.5em]{2017}{How to develop as a teacher}{Doctoral school of Physics}{Grenoble, France}{}{Two-day training program on communication and group animation techniques for teaching.}
 \cventry[0.5em]{2016 -- 2019}{Research and Higher Education (RES) label}{Doctoral school of Physics}{Grenoble, France}{}{Teaching oriented Ph.D. program leading to the production of a portfolio documenting the development of my teaching and research skills (in French): \url{http://juliette-monsel.byethost15.com}.}
 \cventry[0.5em]{2016}{Introduction to the profession of teacher-researcher}{Doctoral school of Physics}{Autrans, France}{}{Three-day workshop on topics related to teaching at the university.}
-%\vspace{0.2cm}
+
 \section{Awards and Grants}
-%~\cvitem{Submitted}{HORIZON Research and Innovation Actions: Basic Science for Quantum Technologies, as part of a European consortium.}
-\cvitem{2020}{Spinger Thesis Award, recognizing outstanding Ph.D. research.}
-\cvitem{2016}{Ph.D. grant from the CFM Foundation for Research.}
-%\vspace{0.2cm}
+\cvitem{Submitted}{\textbf{EIC Pathfinder Challenge}: \colorhref{https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en}{Alternative approaches to Quantum Information
+        Processing, Communication, and Sensing}, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.}
+\cvitem{Submitted}{\textbf{Travel grant} from Chalmers Foundation (\colorhref{https://www.chalmers.se/en/foundation/scholarshipsandgrants/Pages/CFFeng.aspx}{Chalmersska forskningsfonden}) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference.}
+\cvitem{2020}{\textbf{Spinger Thesis Award}, recognizing outstanding Ph.D. research.}
+\cvitem{2016}{\textbf{Ph.D. grant} from the \colorhref{http://www.fondation-cfm.fr/}{CFM Foundation for Research}.}
 
 
-%\vspace{0.2cm}
 \nocite{*}
 \section{Publications}
 \subsection{Preprints}
@@ -351,39 +325,31 @@ maxnames=100]{biblatex}
 \printbibliography[title={Books}, keyword={book}]
 \renewcommand*{\bibyear}{}
 
-%\nocitebook{book1,book2}
-%\bibliographystylebook{plain}
-%
-%\bibliography{publications_academic}                   % 'publications\documentclass[options]{class}' is the name of a BibTeX file
-%\bibliographystyle{moderncv}
 
-%\vspace{0.2cm}
 \section{Conferences and seminars} 
-%TODO: Add details and month
 \subsection{Invited talks}
 \printbibliography[title={Invited talks}, keyword={invited}]
 \renewcommand*{\bibyear}{}
-\vspace{0.1cm}
+%\vspace{0.1cm}
 \subsection{Contributed talks}
 \printbibliography[title={Contributed talks}, keyword={contributed}]
 \renewcommand*{\bibyear}{}
-\vspace{0.1cm}
+%\vspace{0.1cm}
 \subsection{Invited seminars}
 \printbibliography[title={Invited seminars}, keyword={seminar}]
 \renewcommand*{\bibyear}{}
-\vspace{0.1cm}
+%\vspace{0.1cm}
 \subsection{Contributed posters}
 \printbibliography[title={Contributed posters}, keyword={poster}]
 \renewcommand*{\bibyear}{}
 
 
-%\section{Supervision experience}
-%... PhD co-supervisor ...
-
 \section{Service to the community}
-\cvitem[0.5em]{Reviewer}{Phys. Rev. A (2021), J. Stat. Mech. Theory Exp. (2021), Phys. Rev. E (2021), J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
+\cvitem[0.5em]{Reviewer}{Phys. Rev. A (2021, 2022), J. Stat. Mech. Theory Exp. (2021), Phys. Rev. E (2021, 2022), J. Phys. A Math. (2021), New J. Phys. (2020), Commun. Phys. (2020)}
 \cvitem[0.5em]{Scientific outreach}{Speaker and guide (2016 -- 2019) at the ``Fête de la Science'', a yearly national French event during which scientific institutions promote science through animations and laboratory tours aimed at high school students and the general public.}
 
+
+\newpage
 \section{Volunteer experience}
 \cventry[0.5em]{2020 -- current}{Cykelköket}{}{Gothenburg, Sweden}{}{The ``Bike kitchen'' is an open Do-It-Yourself bicycle workshop.
     \begin{itemize}
@@ -405,67 +371,21 @@ maxnames=100]{biblatex}
     %    \end{itemize}
 %}
 
-\vspace{0.2cm}
 \section{Skills}
 \subsection{Languages}
-%\cvitemwithcomment[0.4em]{English}{fluent}{CLES 2 certificate of B2 level}
-%\cvitem[0.4em]{English}{fluent}
-%\cvitem[0.4em]{French}{native speaker}
-%\cvitem[0.4em]{Italian}{good oral and written comprehension}
-%%\cvitemwithcomment[0.4em]{Swedish}{currently learning}{following B1 course at Chalmers}
-%\cvitem[0.4em]{Swedish}{currently learning}
-\cvdoubleitem[0.4em]{English}{fluent}{Italian}{good comprehension}
-\cvdoubleitem[0.4em]{French}{native speaker}{Swedish}{currently learning}
-%\cvitem{Languages}{\textbf{French}: native\quad \textbf{English}: fluent\quad \textbf{Italian}: average}
-%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX\quad \textbf{Softwares}: Matlab, Spyder\quad \textbf{OS}: Windows, Linux}
-\vspace{0.2cm}
+\cvdoubleitem[0.4em]{English}{fluent}{Italian}{good comprehension (B2)}
+\cvdoubleitem[0.4em]{French}{native speaker}{Swedish}{currently learning (B1)}
+
 \subsection{Computer}
 \cvitem[0.4em]{Programming}{Python, Git, Matlab, C++}
 \cvitem[0.4em]{Operating systems}{Linux, Windows, MacOS}
 \cvitem[0.4em]{Text processing}{\LaTeX, LibreOffice}
-%\cvitem{Computer}{\textbf{Programming}: Python, \LaTeX, Git\quad \textbf{Softwares}: Matlab, Spyder}
-%\vspace{0.2cm}
-\section{Interests}
-%~\cvitem[0.5em]{Handiwork}{bicycle mechanics, crochet, sewing}
-%\cvitem[0.5em]{Reading}{novels, mostly mysteries, in French (Fred Vargas) and in English (Michael Connelly, Peter Robinson)}
-%\cvitem[0.5em]{Sports}{hiking, cycling}
-%\cvitem[0.5em]{Programming}{\colorhref{https://github.com/j4321/}{open-source software} development, answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}}
 
+\section{Interests}
 \cvitem[0.4em]{Bicycle}{My main mean of transportation since 2017, volunteer mechanics and board member in Do-It-Yourself bicycle workshops.}
 \cvitem[0.4em]{Programming}{\colorhref{https://github.com/j4321/}{Open-source software} development with Python, answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}.}
 \cvitem[0.4em]{Reading}{Novels, mostly mysteries, in English (Michael Connelly, Peter Robinson) and in French (Fred Vargas).}
-%\section{References}
-%%\begin{minipage}[t]{0.5\maincolumnwidth+0.45\hintscolumnwidth}
-%%    \textbf{Alexia Auffèves (Ph.D. supervisor)}\\
-%%    Institut Néel, CNRS - Université Grenoble Alpes\\
-%%    25 rue des Martyrs BP 166\\
-%%    38042 Grenoble cedex 9, France\\
-%%    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr
-%%\end{minipage}
-%%\begin{minipage}[t]{0.5\maincolumnwidth+0.65\hintscolumnwidth}
-%%    \textbf{François Gieres (master teacher)}\\
-%%    Institut de Physique des 2 Infinis, Université Claude Bernard\\
-%%    4, rue Enrico Fermi\\
-%%    69622 Villeurbanne Cedex, France\\
-%%    +33 4 72 43 26 81 -- f.gieres@ipnl.in2p3.fr
-%%\end{minipage}
-%%%%
-%%%%    
-%\cventry{}{Janine Splettstoesser}{Postdoctoral advisor}{}{}{
-%%    Chalmers University of Technology, SE-412 96 Gothenburg, Sweden.\\
-%    +46 31 772 3111 -- janines@chalmers.se\\[0.2cm]
-%    Chalmers University of Technology\\
-%    SE-412 96 Gothenburg\\
-%    Sweden
-%}
-%\cventry{}{Alexia Auffèves}{Ph.D. supervisor}{}{}{
-%%    Univ. Grenoble Alpes, CNRS, Grenoble INP, Institut Néel, 38000 Grenoble, France.
-%    +33 4 76 88 79 27 -- alexia.auffeves@neel.cnrs.fr\\[0.2cm]
-%    Institut Néel, CNRS - Université Grenoble Alpes\\
-%    25 rue des Martyrs BP 166\\
-%    38042 Grenoble cedex 9\\
-%    France
-%}
+
 
 \end{document}
 
