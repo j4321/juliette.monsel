@@ -5,7 +5,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. rubric:: Research 
 
-|nbsp| |arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ |nbsp|  
+|nbsp| |arxiv| `arXiv <https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ |nbsp|  
 |ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
 |ResearcherID| `AAH-5591-2020 <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp|  
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
@@ -85,7 +85,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. |arxiv| image:: assets/arxiv.svg
     :width: 20
     :alt: arXiv
-    :target: https://arxiv.org/a/monsel_j_1.html
+    :target: https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J
    
     
 .. |ResearcherID| image:: assets/RID.svg

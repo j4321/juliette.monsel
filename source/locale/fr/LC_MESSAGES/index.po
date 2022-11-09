@@ -1,21 +1,21 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2021, Juliette Monsel
+# MY RESEARCH WEBSITE.
+# Copyright (C) 2020-2022, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# Juliette Monsel <monsel at chalmers dot se>, 2021.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-13 13:29+0200\n"
+"POT-Creation-Date: 2022-11-09 10:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../source/index.rst:52
 msgid "My research webpage:"
@@ -85,22 +85,65 @@ msgid "News"
 msgstr "Récent"
 
 #: ../../source/news.rst:4
+msgid "*New preprint* -- November 8, 2022"
+msgstr "*Nouveau preprint* -- 8 novembre 2022"
+
+#: ../../source/news.rst:6
+msgid "Stability of long-sustained oscillations induced by electron tunneling"
+msgstr ""
+
+#: ../../source/news.rst:9
+msgid ""
+"*Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra "
+"Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. "
+"Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares*"
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid ""
+"Self-oscillations are the result of an efficient mechanism generating "
+"periodic motion from a constant power source. In quantum devices, these "
+"oscillations may arise due to the interaction between single electron "
+"dynamics and mechanical motion. Due to the complexity of this mechanism, "
+"these self-oscillations may irrupt, vanish, or exhibit a bistable "
+"behavior causing hysteresis cycles. We observe these hysteresis cycles "
+"and characterize the stability of different regimes in single and double "
+"quantum dot configurations. In particular cases, we find these "
+"oscillations stable for over 20 seconds, many orders of magnitude above "
+"electronic and mechanical characteristic timescales, revealing the "
+"robustness of the mechanism at play. The experimental results are "
+"reproduced by our theoretical model that provides a complete "
+"understanding of bistability in nanoelectromechanical devices."
+msgstr ""
+
+#: ../../source/news.rst:16 ../../source/news.rst:48
+msgid ""
+"This work is part of the FQXI project `Nanomechanics in the solid-state "
+"for quantum information thermodynamics "
+"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+msgstr ""
+
+#: ../../source/news.rst:18
+msgid "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
+msgstr ""
+
+#: ../../source/news.rst:21
 msgid "*New preprint* -- October 12, 2022"
 msgstr "*Nouveau preprint* -- 12 octobre 2022"
 
-#: ../../source/news.rst:6
+#: ../../source/news.rst:23
 msgid ""
 "Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies"
 msgstr ""
 
-#: ../../source/news.rst:9
+#: ../../source/news.rst:26
 msgid ""
 "*Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, "
 "Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:14
+#: ../../source/news.rst:31
 msgid ""
 "Nonequilibrium situations where selected currents are suppressed are of "
 "interest in fields like thermoelectrics and spintronics, raising the "
@@ -119,26 +162,26 @@ msgid ""
 "regime."
 msgstr ""
 
-#: ../../source/news.rst:16
+#: ../../source/news.rst:33
 msgid "`arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_"
 msgstr ""
 
-#: ../../source/news.rst:19
+#: ../../source/news.rst:36
 msgid "*Accepted article* -- September 16, 2022"
 msgstr "*Article accepté* -- 16 septembre 2022"
 
-#: ../../source/news.rst:21
+#: ../../source/news.rst:38
 msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
 msgstr ""
 
-#: ../../source/news.rst:24
+#: ../../source/news.rst:41
 msgid ""
 "*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
 " Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
 "Parrondo, Alexia Auffèves, and Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:29
+#: ../../source/news.rst:46
 msgid ""
 "We have measured and modelled the coupling strength between single-"
 "electron tunneling and nanomechanical motion in a fully-suspended carbon "
@@ -147,37 +190,30 @@ msgid ""
 "research and quantum technologies."
 msgstr ""
 
-#: ../../source/news.rst:31
-msgid ""
-"This work is part of the FQXI project `Nanomechanics in the solid-state "
-"for quantum information thermodynamics "
-"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
-msgstr ""
-
-#: ../../source/news.rst:33
+#: ../../source/news.rst:50
 msgid ""
 "`Phys. Rev. Research "
 "<https://journals.aps.org/prresearch/accepted/d9070Y5bRed15b8e50e816b4ec1eb5ba97a1d7f60>`_"
 " -- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"
 msgstr ""
 
-#: ../../source/news.rst:36
+#: ../../source/news.rst:53
 msgid "*New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!"
 msgstr ""
 "*Nouvel article* -- 5 juillet 2022 -- **Suggestion des éditeurs** dans "
 "Phys. Rev. B !"
 
-#: ../../source/news.rst:38
+#: ../../source/news.rst:55
 msgid "Geometric energy transport and refrigeration with driven quantum dots"
 msgstr ""
 
-#: ../../source/news.rst:41
+#: ../../source/news.rst:58
 msgid ""
 "*Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine "
 "Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:46
+#: ../../source/news.rst:63
 msgid ""
 "We study geometric energy transport in a slowly driven single-level "
 "quantum dot weakly coupled to electronic contacts and with strong onsite "
@@ -196,7 +232,7 @@ msgid ""
 "performance of these thermal machines."
 msgstr ""
 
-#: ../../source/news.rst:48
+#: ../../source/news.rst:65
 msgid ""
 "`Phys. Rev. B 106, 035405 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_"
