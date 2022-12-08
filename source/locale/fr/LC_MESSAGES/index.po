@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 10:17+0100\n"
+"POT-Creation-Date: 2022-12-08 09:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,21 +85,58 @@ msgid "News"
 msgstr "Récent"
 
 #: ../../source/news.rst:4
-msgid "*New preprint* -- November 8, 2022"
-msgstr "*Nouveau preprint* -- 8 novembre 2022"
+msgid "*New article* -- December 7, 2022"
+msgstr "*Nouvel article* -- 7 décembre 2022"
 
 #: ../../source/news.rst:6
-msgid "Stability of long-sustained oscillations induced by electron tunneling"
+msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
 msgstr ""
 
 #: ../../source/news.rst:9
+msgid ""
+"*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
+" Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
+"Parrondo, Alexia Auffèves, and Natalia Ares*"
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid ""
+"We have measured and modelled the coupling strength between single-"
+"electron tunneling and nanomechanical motion in a fully-suspended carbon "
+"nanotube device. We have found it to be well within the ultrastrong "
+"coupling regime, thus opening exciting perspectives for both fundamental "
+"research and quantum technologies."
+msgstr ""
+
+#: ../../source/news.rst:16 ../../source/news.rst:33
+msgid ""
+"This work is part of the FQXI project `Nanomechanics in the solid-state "
+"for quantum information thermodynamics "
+"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+msgstr ""
+
+#: ../../source/news.rst:18
+msgid ""
+"`Phys. Rev. Research 4, 043168 "
+"<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_"
+msgstr ""
+
+#: ../../source/news.rst:21
+msgid "*New preprint* -- November 8, 2022"
+msgstr "*Nouveau preprint* -- 8 novembre 2022"
+
+#: ../../source/news.rst:23
+msgid "Stability of long-sustained oscillations induced by electron tunneling"
+msgstr ""
+
+#: ../../source/news.rst:26
 msgid ""
 "*Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra "
 "Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. "
 "Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:14
+#: ../../source/news.rst:31
 msgid ""
 "Self-oscillations are the result of an efficient mechanism generating "
 "periodic motion from a constant power source. In quantum devices, these "
@@ -116,34 +153,27 @@ msgid ""
 "understanding of bistability in nanoelectromechanical devices."
 msgstr ""
 
-#: ../../source/news.rst:16 ../../source/news.rst:48
-msgid ""
-"This work is part of the FQXI project `Nanomechanics in the solid-state "
-"for quantum information thermodynamics "
-"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
-msgstr ""
-
-#: ../../source/news.rst:18
+#: ../../source/news.rst:35
 msgid "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
 msgstr ""
 
-#: ../../source/news.rst:21
+#: ../../source/news.rst:38
 msgid "*New preprint* -- October 12, 2022"
 msgstr "*Nouveau preprint* -- 12 octobre 2022"
 
-#: ../../source/news.rst:23
+#: ../../source/news.rst:40
 msgid ""
 "Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies"
 msgstr ""
 
-#: ../../source/news.rst:26
+#: ../../source/news.rst:43
 msgid ""
 "*Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, "
 "Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:31
+#: ../../source/news.rst:48
 msgid ""
 "Nonequilibrium situations where selected currents are suppressed are of "
 "interest in fields like thermoelectrics and spintronics, raising the "
@@ -162,39 +192,8 @@ msgid ""
 "regime."
 msgstr ""
 
-#: ../../source/news.rst:33
-msgid "`arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_"
-msgstr ""
-
-#: ../../source/news.rst:36
-msgid "*Accepted article* -- September 16, 2022"
-msgstr "*Article accepté* -- 16 septembre 2022"
-
-#: ../../source/news.rst:38
-msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
-msgstr ""
-
-#: ../../source/news.rst:41
-msgid ""
-"*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
-" Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
-"Parrondo, Alexia Auffèves, and Natalia Ares*"
-msgstr ""
-
-#: ../../source/news.rst:46
-msgid ""
-"We have measured and modelled the coupling strength between single-"
-"electron tunneling and nanomechanical motion in a fully-suspended carbon "
-"nanotube device. We have found it to be well within the ultrastrong "
-"coupling regime, thus opening exciting perspectives for both fundamental "
-"research and quantum technologies."
-msgstr ""
-
 #: ../../source/news.rst:50
-msgid ""
-"`Phys. Rev. Research "
-"<https://journals.aps.org/prresearch/accepted/d9070Y5bRed15b8e50e816b4ec1eb5ba97a1d7f60>`_"
-" -- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_"
+msgid "`arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_"
 msgstr ""
 
 #: ../../source/news.rst:53
@@ -331,5 +330,12 @@ msgstr ""
 #~ msgid ""
 #~ "`Phys. Rev. A 103, 063519 "
 #~ "<https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063519>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Phys. Rev. Research "
+#~ "<https://journals.aps.org/prresearch/accepted/d9070Y5bRed15b8e50e816b4ec1eb5ba97a1d7f60>`_"
+#~ " -- `arXiv:2103.15219 "
+#~ "<https://arxiv.org/abs/2103.15219>`_"
 #~ msgstr ""
 
