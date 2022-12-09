@@ -7,7 +7,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 |nbsp| |arxiv| `arXiv <https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ |nbsp|  
 |ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
-|ResearcherID| `AAH-5591-2020 <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp|  
+|ResearcherID| `AAH-5591-2020 <https://www.webofscience.com/wos/author/record/1964531>`_ |nbsp|  
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
 |scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
 
@@ -91,7 +91,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. |ResearcherID| image:: assets/RID.svg
     :width: 20
     :alt: ResearcherID
-    :target: http://www.researcherid.com/rid/AAH-5591-2020
+    :target: https://www.webofscience.com/wos/author/record/1964531
     
 .. |Scopus| image:: assets/SC.svg
     :width: 20

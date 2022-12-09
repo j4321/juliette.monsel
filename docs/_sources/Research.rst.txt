@@ -105,6 +105,8 @@ These devices combine electronic transport and mechanical degrees of freedom whi
 
 I am taking part in the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
 
-- *Ultrastrong coupling between electron tunnelling and mechanical motion* -- `arXiv:2103.15219 <https://arxiv.org/abs/2103.15219>`_
+- *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
+
+- *Stability of long-sustained oscillations induced by electron tunneling* --  `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_
 
 
