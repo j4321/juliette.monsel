@@ -24,6 +24,16 @@ Invited talks
 
 Contributed talks
 -----------------
+.. rubric:: 2023
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2023") and (keywords == "contributed")
+        :style: mystyle
+
+
 .. rubric:: 2021
 
 .. container:: publi

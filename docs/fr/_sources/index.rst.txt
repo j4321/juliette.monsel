@@ -34,7 +34,7 @@ the `Springer Theses series <https://www.springer.com/gp/book/9783030549701>`_ i
 My research interests are:
 
 - quantum thermodynamics
-- quantum open systems
+- open quantum systems
 - optomechanics
 - quantum optics
 - electronic transport
