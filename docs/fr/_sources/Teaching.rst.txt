@@ -25,6 +25,16 @@ Teaching experience
 As part of the doctoral course on research and higher education, I have produced a `portfolio (in French) <http://juliette-monsel.byethost15.com>`_.
 It documents some of the skills that I acquired during my doctorate and mostly focuses on my teaching.
   
+  
+.. rubric:: Student supervision
+
+:Apr. -- Jul. 2022: Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.
+
+:Oct. 2021 -- Jul. 2022: Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.
+
+:Oct. 2020 -- current: Assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.
+
+:2016: Co-supervisor of a first-year master student during his two-month internship at the Institut Néel, Grenoble, France.
 
 Related volunteer experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +48,7 @@ Related volunteer experience
 
 .. rubric:: Bicycle mechanics instructor
 
-:2020 -- current: `Cykelköket Göteborg <CK_>`_ (Gothenburg, Sweden)
+:2020 -- current: `Cykelköket <CK_>`_ (Gothenburg, Sweden)
 
 :2018 -- 2020: `uN p’Tit véLo dAnS La Tête <ptitvelo_>`_ (Grenoble, France)
 
@@ -46,6 +56,8 @@ Related volunteer experience
 I have been volunteering since 2017 in DIY bicycle workshops that aim at promoting cycling, learning mechanics and reusing of unused bicycles.
 First, I learned bicycle mechanics by going every Wednesday at the "volunteer evening" at *uN p’Tit véLo dAnS La Tête*, where we took apart and repaired bikes for the workshop. Then, I also came at normal opening hours to share my knowledge and explain to people how to fix their bikes. I have been doing the same at *Cykelköket Göteborg* since I moved to Gothenburg.
 More details about my interest in bicycles: :ref:`Bicycles`.
+
+
 
 .. _CK: https://www.facebook.com/cykelkoket.gbg
 
