@@ -170,7 +170,6 @@ msgid "2020 -- current"
 msgstr "2020 -- aujourd'hui"
 
 #: ../../source/Teaching.rst:51
-#, fuzzy
 msgid "`Cykelköket <CK_>`_ (Gothenburg, Sweden)"
 msgstr "`Cykelköket <CK_>`_ (Göteborg, Suède)"
 

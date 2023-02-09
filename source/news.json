@@ -11,17 +11,14 @@
         }]
     },
     "Tesser2022Oct": {
-        "header": "Accepted article",
-        "date": "January 30, 2023",
+        "header": "New article",
+        "date": "February 9, 2023",
         "title": "Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies",
         "authors": "Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, Janine Splettstoesser",
         "summary": "Nonequilibrium situations where selected currents are suppressed are of interest in fields like thermoelectrics and spintronics, raising the question of how the related noises behave. We study such zero-current charge, spin, and heat noises in a two-terminal mesoscopic conductor. In the presence of voltage, spin and temperature biases, the nonequilibrium (shot) noises of charge, spin, and heat can be arbitrarily large, even if their average currents vanish. However, as soon as a temperature bias is present, additional equilibrium (thermal-like) noise necessarily occurs. We show that this equilibrium noise sets an upper bound on the zero-current charge and spin shot noises, even if additional voltage or spin biases are present. We demonstrate that these bounds can be overcome for heat transport by breaking the spin and electron-hole symmetries, respectively. By contrast, we show that the bound on the charge noise for strictly two-terminal conductors even extends into the finite-frequency regime.",
         "links": [{
-            "reference": "Phys. Rev. B",
-            "URL": "https://journals.aps.org/prb/accepted/4a076O6bK951f04e53c73749285fc70a677a4f474"
-        }, {
-            "reference": "arXiv:2210.06051",
-            "URL": "https://arxiv.org/abs/2210.06051"
+            "reference": "Phys. Rev. B 107, 075409",
+            "URL": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409"
         }]
     },
     "Monsel2022Feb": {
