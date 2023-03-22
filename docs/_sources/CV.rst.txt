@@ -38,7 +38,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. rubric:: Awards and Grants
 
-:Submitted: **EIC Pathfinder Challenge**: `Alternative approaches to Quantum Information Processing, Communication, and Sensing <https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en>`_, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.
+.. ~:Submitted: **EIC Pathfinder Challenge**: `Alternative approaches to Quantum Information Processing, Communication, and Sensing <https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en>`_, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.
 
 :2022: **Travel grant** from Chalmers Foundation (`Chalmersska forskningsfonden <https://www.chalmers.se/en/foundation/scholarshipsandgrants/Pages/CFFeng.aspx>`_) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference in July 2023.
 
