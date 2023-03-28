@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-09 17:22+0100\n"
+"POT-Creation-Date: 2023-03-28 08:48+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,22 +85,66 @@ msgid "News"
 msgstr "Récent"
 
 #: ../../source/news.rst:4
+msgid "*New preprint* -- March 28, 2023"
+msgstr "*Nouveau preprint* -- 28 mars 2023"
+
+#: ../../source/news.rst:6
+msgid ""
+"Non-geometric pumping effects on the performance of interacting quantum-"
+"dot heat engines"
+msgstr ""
+
+#: ../../source/news.rst:9
+msgid "*Juliette Monsel, Jens Schulenborg, Janine Splettstoesser*"
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid ""
+"Periodically driven quantum dots can act as counterparts of cyclic "
+"thermal machines at the nanoscale. In the slow-driving regime of "
+"geometric pumping, such machines have been shown to operate in analogy to"
+" a Carnot cycle. For larger driving frequencies, which are required in "
+"order to increase the cooling power, the efficiency of the operation "
+"decreases. Up to which frequency a close-to-optimal performance is still "
+"possible depends on the magnitude and sign of on-site electron-electron "
+"interaction. Extending our previous detailed study on cyclic quantum-dot "
+"refrigerators [`Phys. Rev. B 106, 035405 (2022) "
+"<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_], "
+"we here find that the optimal cooling power remains constant up to weak "
+"interaction strength compared to the cold-bath temperature. By contrast, "
+"the work cost depends on the interaction via the dot's charge relaxation "
+"rate, as the latter sets the typical driving frequency for the onset of "
+"non-geometric pumping contributions."
+msgstr ""
+
+#: ../../source/news.rst:16
+msgid ""
+"This work will be part of the special volume of the `Frontier of Quantum "
+"and Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ "
+"in the European Physical Journal Special Topics."
+msgstr ""
+
+#: ../../source/news.rst:18
+msgid "`arXiv:2303.15420 <https://arxiv.org/abs/2303.15420>`_"
+msgstr ""
+
+#: ../../source/news.rst:21
 msgid "*New article* -- February 9, 2023"
 msgstr "*Nouvel article* -- 9 février 2023"
 
-#: ../../source/news.rst:6
+#: ../../source/news.rst:23
 msgid ""
 "Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies"
 msgstr ""
 
-#: ../../source/news.rst:9
+#: ../../source/news.rst:26
 msgid ""
 "*Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, "
 "Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:14
+#: ../../source/news.rst:31
 msgid ""
 "Nonequilibrium situations where selected currents are suppressed are of "
 "interest in fields like thermoelectrics and spintronics, raising the "
@@ -119,28 +163,28 @@ msgid ""
 "regime."
 msgstr ""
 
-#: ../../source/news.rst:16
+#: ../../source/news.rst:33
 msgid ""
 "`Phys. Rev. B 107, 075409 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_"
 msgstr ""
 
-#: ../../source/news.rst:19
+#: ../../source/news.rst:36
 msgid "*New article* -- December 7, 2022"
 msgstr "*Nouvel article* -- 7 décembre 2022"
 
-#: ../../source/news.rst:21
+#: ../../source/news.rst:38
 msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
 msgstr ""
 
-#: ../../source/news.rst:24
+#: ../../source/news.rst:41
 msgid ""
 "*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
 " Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
 "Parrondo, Alexia Auffèves, and Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:29
+#: ../../source/news.rst:46
 msgid ""
 "We have measured and modelled the coupling strength between single-"
 "electron tunneling and nanomechanical motion in a fully-suspended carbon "
@@ -149,35 +193,35 @@ msgid ""
 "research and quantum technologies."
 msgstr ""
 
-#: ../../source/news.rst:31 ../../source/news.rst:48
+#: ../../source/news.rst:48 ../../source/news.rst:65
 msgid ""
 "This work is part of the FQXI project `Nanomechanics in the solid-state "
 "for quantum information thermodynamics "
 "<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
 msgstr ""
 
-#: ../../source/news.rst:33
+#: ../../source/news.rst:50
 msgid ""
 "`Phys. Rev. Research 4, 043168 "
 "<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_"
 msgstr ""
 
-#: ../../source/news.rst:36
+#: ../../source/news.rst:53
 msgid "*New preprint* -- November 8, 2022"
 msgstr "*Nouveau preprint* -- 8 novembre 2022"
 
-#: ../../source/news.rst:38
+#: ../../source/news.rst:55
 msgid "Stability of long-sustained oscillations induced by electron tunneling"
 msgstr ""
 
-#: ../../source/news.rst:41
+#: ../../source/news.rst:58
 msgid ""
 "*Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra "
 "Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. "
 "Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:46
+#: ../../source/news.rst:63
 msgid ""
 "Self-oscillations are the result of an efficient mechanism generating "
 "periodic motion from a constant power source. In quantum devices, these "
@@ -194,27 +238,27 @@ msgid ""
 "understanding of bistability in nanoelectromechanical devices."
 msgstr ""
 
-#: ../../source/news.rst:50
+#: ../../source/news.rst:67
 msgid "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
 msgstr ""
 
-#: ../../source/news.rst:53
+#: ../../source/news.rst:70
 msgid "*New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!"
 msgstr ""
 "*Nouvel article* -- 5 juillet 2022 -- **Suggestion des éditeurs** dans "
 "Phys. Rev. B !"
 
-#: ../../source/news.rst:55
+#: ../../source/news.rst:72
 msgid "Geometric energy transport and refrigeration with driven quantum dots"
 msgstr ""
 
-#: ../../source/news.rst:58
+#: ../../source/news.rst:75
 msgid ""
 "*Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine "
 "Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:63
+#: ../../source/news.rst:80
 msgid ""
 "We study geometric energy transport in a slowly driven single-level "
 "quantum dot weakly coupled to electronic contacts and with strong onsite "
@@ -233,7 +277,7 @@ msgid ""
 "performance of these thermal machines."
 msgstr ""
 
-#: ../../source/news.rst:65
+#: ../../source/news.rst:82
 msgid ""
 "`Phys. Rev. B 106, 035405 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_"
