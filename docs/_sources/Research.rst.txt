@@ -77,7 +77,7 @@ Electronic systems
 .. image:: assets/conductor.svg
     :width: 450
     
-We study transport in mesoscopic conductors connected to two terminal or more with a scattering approach. We are particularly interested in properties of the current fluctuations in nonequilibrium situations where the average current is zero (for spin, charge, heat, ...) .
+We study transport in mesoscopic conductors connected to two terminal or more with a scattering approach. We are particularly interested in properties of the current fluctuations in nonequilibrium situations where the average current is zero (for spin, charge, heat, ...).
 
 - *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_  
 
@@ -87,10 +87,15 @@ We study transport in mesoscopic conductors connected to two terminal or more wi
 .. image:: assets/transport.svg
     :width: 450
     
-A quantum dot is weakly coupled to two baths, namely is two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality. 
-    
+A quantum dot is weakly coupled to two baths, namely is two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality,
     
 - *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
+
+and beyond the first correction, for a more traditional four-stroke refrigeration cycle,
+
+- *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `arXiv:2303.15420 <https://arxiv.org/abs/2303.15420>`_ 
+
+
 
 We also use fermionic duality at the jump operator level to explore the stochastic thermodynamics of such kind of systems.
 
