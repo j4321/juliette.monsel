@@ -4,7 +4,7 @@ Contact
 |
 
 -  Email: monsel<at>chalmers.se
-- `My Chalmers webpage <https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_
+- `My Chalmers webpage <https://www.chalmers.se/en/persons/monsel>`_
 
 - Address
 

@@ -9,7 +9,7 @@ Teaching experience
 
 :2017, 2018: Newtonian mechanics for first-year undergraduates (Université Grenoble Alpes, France) 
     
-    I supervised tutorials (~20-30 students, 1.5 hours, twice a week) and lab work (~10-15 students, 3 hours, once a week). I contributed exercises to the exams and graded examinations and lab work reports.
+    I supervised tutorials (~20-30 students, 1.5 hours, twice a week) and lab work (~10-15 students, 3.5 hours, once a week). I contributed exercises to the exams and graded examinations and lab work reports.
 
     
     Program:

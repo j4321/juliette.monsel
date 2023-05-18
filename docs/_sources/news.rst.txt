@@ -45,7 +45,7 @@
 
     We have measured and modelled the coupling strength between single-electron tunneling and nanomechanical motion in a fully-suspended carbon nanotube device. We have found it to be well within the ultrastrong coupling regime, thus opening exciting perspectives for both fundamental research and quantum technologies.
     
-    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
+    This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics.
 
     `Phys. Rev. Research 4, 043168 <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
     
@@ -62,7 +62,7 @@
 
     Self-oscillations are the result of an efficient mechanism generating periodic motion from a constant power source. In quantum devices, these oscillations may arise due to the interaction between single electron dynamics and mechanical motion. Due to the complexity of this mechanism, these self-oscillations may irrupt, vanish, or exhibit a bistable behavior causing hysteresis cycles. We observe these hysteresis cycles and characterize the stability of different regimes in single and double quantum dot configurations. In particular cases, we find these oscillations stable for over 20 seconds, many orders of magnitude above electronic and mechanical characteristic timescales, revealing the robustness of the mechanism at play. The experimental results are reproduced by our theoretical model that provides a complete understanding of bistability in nanoelectromechanical devices.
     
-    This work is part of the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
+    This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics.
 
     `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_
     

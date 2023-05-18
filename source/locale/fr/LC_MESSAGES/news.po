@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-28 08:48+0200\n"
+"POT-Creation-Date: 2023-05-18 18:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../../source/news.rst:4
 msgid "*New preprint* -- March 28, 2023"
@@ -128,9 +128,9 @@ msgstr ""
 
 #: ../../source/news.rst:48 ../../source/news.rst:65
 msgid ""
-"This work is part of the FQXI project `Nanomechanics in the solid-state "
-"for quantum information thermodynamics "
-"<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+"This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-"
+"grants/>`_ project Nanomechanics in the solid-state for quantum "
+"information thermodynamics."
 msgstr ""
 
 #: ../../source/news.rst:50
@@ -289,5 +289,13 @@ msgstr ""
 #~ "<https://journals.aps.org/prb/accepted/4a076O6bK951f04e53c73749285fc70a677a4f474>`_"
 #~ " -- `arXiv:2210.06051 "
 #~ "<https://arxiv.org/abs/2210.06051>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This work is part of the FQXI "
+#~ "project `Nanomechanics in the solid-"
+#~ "state for quantum information thermodynamics"
+#~ " "
+#~ "<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
 #~ msgstr ""
 

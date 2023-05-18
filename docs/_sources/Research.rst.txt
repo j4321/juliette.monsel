@@ -79,7 +79,7 @@ Electronic systems
     
 We study transport in mesoscopic conductors connected to two terminal or more with a scattering approach. We are particularly interested in properties of the current fluctuations in nonequilibrium situations where the average current is zero (for spin, charge, heat, ...).
 
-- *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `arXiv:2210.06051 <https://arxiv.org/abs/2210.06051>`_  
+- *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B 107, 075409 <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_  
 
 
 .. rubric::  Driven quantum dots
@@ -108,7 +108,7 @@ We also use fermionic duality at the jump operator level to explore the stochast
 
 These devices combine electronic transport and mechanical degrees of freedom which makes them a very promising platform for thermodynamics. Charge or spin qubits can be created inside the nanotube, making these devices similar to hybrid optomechanical systems. 
 
-I am taking part in the FQXI project `Nanomechanics in the solid-state for quantum information thermodynamics <https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_.
+I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics led by ´Natalia Ares <https://www.natalia-ares.com/>`_ (Oxford University, UK).
 
 - *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
 

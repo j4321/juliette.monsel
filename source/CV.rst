@@ -40,7 +40,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. ~:Submitted: **EIC Pathfinder Challenge**: `Alternative approaches to Quantum Information Processing, Communication, and Sensing <https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en>`_, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.
 
-:2022: **Travel grant** from Chalmers Foundation (`Chalmersska forskningsfonden <https://www.chalmers.se/en/foundation/scholarshipsandgrants/Pages/CFFeng.aspx>`_) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference in July 2023.
+:2022: **Travel grant** from Chalmers Foundation (Chalmersska forskningsfonden) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference in July 2023.
 
 :2020: **Spinger Thesis Award**, recognizing outstanding Ph.D.research.
 
@@ -102,13 +102,13 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. |scholar| image:: assets/scholar.png
     :width: 20
     :alt: Google Scholar
-    :target: https://scholar.google.com/scholar?q=Juliette+Monsel
+    :target: https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=en&oi=ao
     
 .. |nbsp|   unicode:: U+00A0 .. NO-BREAK SPACE
 
 .. _neel: https://neel.cnrs.fr/en  
 
-.. _MC2: https://www.chalmers.se/en/departments/mc2/Pages/default.aspx
+.. _MC2: https://www.chalmers.se/en/departments/mc2/
 
 .. _UGA: https://www.univ-grenoble-alpes.fr/english/
 

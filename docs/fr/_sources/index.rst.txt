@@ -22,10 +22,10 @@ Juliette Monsel
     :align: right
 
 I am a postdoctoral researcher in `Janine Splettstoesser's group <https://sites.google.com/site/splettchalmers>`_ 
-in the Departement of Microtechnology and Nanoscience at `Chalmers University of Technology <http://www.chalmers.se/en/Pages/default.aspx>`_, in Gothenburg, Sweden. 
+in the Departement of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
 
 
-I did my Ph.D. under the supervision of `Alexia Auffèves <https://scholar.google.com/citations?user=7-5zUEsAAAAJ&hl=en>`_
+I did my Ph.D. under the supervision of `Alexia Auffèves <https://quantum-energy-team.cnrs.fr/>`_
 at the `Institut Néel <https://neel.cnrs.fr/>`_ (CNRS, Université Grenoble Alpes) in Grenoble, France. 
 My thesis dissertation, entitled *Quantum Thermodynamics and Optomechanics*, was awarded a Springer Thesis Award and published in 
 the `Springer Theses series <https://www.springer.com/gp/book/9783030549701>`_ in 2020.

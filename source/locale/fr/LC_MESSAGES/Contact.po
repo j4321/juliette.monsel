@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 17:32+0200\n"
+"POT-Creation-Date: 2023-05-18 18:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../../source/Contact.rst:2
 msgid "Contact"
@@ -26,10 +26,8 @@ msgid "Email: monsel<at>chalmers.se"
 msgstr "Courriel: monsel<at>chalmers.se"
 
 #: ../../source/Contact.rst:7
-msgid ""
-"`My Chalmers webpage "
-"<https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_"
-msgstr "`Ma page Chalmers <https://www.chalmers.se/en/staff/Pages/monsel.aspx>`_"
+msgid "`My Chalmers webpage <https://www.chalmers.se/en/persons/monsel>`_"
+msgstr "`Ma page Chalmers <https://www.chalmers.se/en/persons/monsel>`_"
 
 #: ../../source/Contact.rst:9
 msgid "Address"
