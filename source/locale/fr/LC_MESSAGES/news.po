@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-18 18:37+0200\n"
+"POT-Creation-Date: 2023-05-24 15:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,20 +18,58 @@ msgstr ""
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/news.rst:4
-msgid "*New preprint* -- March 28, 2023"
+msgid "*New preprint* -- May 23, 2023"
 msgstr ""
 
 #: ../../source/news.rst:6
+msgid ""
+"Integrated microcavity optomechanics with a suspended photonic crystal "
+"mirror above a distributed Bragg reflector"
+msgstr ""
+
+#: ../../source/news.rst:9
+msgid ""
+"*Sushanth Kini Manjeshwar, Anastasiia Ciers, Juliette Monsel, Hannes "
+"Pfeifer, Cindy Peralle, Shu Min Wang, Philippe Tassin, Witlef Wieczorek*"
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid ""
+"Increasing the interaction between light and mechanical resonators is an "
+"ongoing endeavor in the field of cavity optomechanics. Optical "
+"microcavities allow for boosting the interaction strength through their "
+"strong spatial confinement of the optical field. In this work, we follow "
+"this approach by realizing a sub-wavelength-long, free-space "
+"optomechanical microcavity on-chip fabricated from an (Al,Ga)As "
+"heterostructure. A suspended GaAs photonic crystal mirror is acting as a "
+"highly reflective mechanical resonator, which together with a distributed"
+" Bragg reflector forms an optomechanical microcavity. We demonstrate "
+"precise control over the microcavity resonance by change of the photonic "
+"crystal parameters. The interplay between the microcavity mode and a "
+"guided resonance of the photonic crystal modifies the cavity response and"
+" results in a stronger dynamical backaction on the mechanical resonator "
+"compared to conventional optomechanical dynamics."
+msgstr ""
+
+#: ../../source/news.rst:16
+msgid "`arXiv:2305.13511 <https://arxiv.org/abs/2305.13511>`_"
+msgstr ""
+
+#: ../../source/news.rst:19
+msgid "*New preprint* -- March 28, 2023"
+msgstr ""
+
+#: ../../source/news.rst:21
 msgid ""
 "Non-geometric pumping effects on the performance of interacting quantum-"
 "dot heat engines"
 msgstr ""
 
-#: ../../source/news.rst:9
+#: ../../source/news.rst:24
 msgid "*Juliette Monsel, Jens Schulenborg, Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:14
+#: ../../source/news.rst:29
 msgid ""
 "Periodically driven quantum dots can act as counterparts of cyclic "
 "thermal machines at the nanoscale. In the slow-driving regime of "
@@ -50,34 +88,34 @@ msgid ""
 "non-geometric pumping contributions."
 msgstr ""
 
-#: ../../source/news.rst:16
+#: ../../source/news.rst:31
 msgid ""
 "This work will be part of the special volume of the `Frontier of Quantum "
 "and Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ "
 "in the European Physical Journal Special Topics."
 msgstr ""
 
-#: ../../source/news.rst:18
+#: ../../source/news.rst:33
 msgid "`arXiv:2303.15420 <https://arxiv.org/abs/2303.15420>`_"
 msgstr ""
 
-#: ../../source/news.rst:21
+#: ../../source/news.rst:36
 msgid "*New article* -- February 9, 2023"
 msgstr ""
 
-#: ../../source/news.rst:23
+#: ../../source/news.rst:38
 msgid ""
 "Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies"
 msgstr ""
 
-#: ../../source/news.rst:26
+#: ../../source/news.rst:41
 msgid ""
 "*Ludovico Tesser, Matteo Acciai, Christian Spånslätt, Juliette Monsel, "
 "Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:31
+#: ../../source/news.rst:46
 msgid ""
 "Nonequilibrium situations where selected currents are suppressed are of "
 "interest in fields like thermoelectrics and spintronics, raising the "
@@ -96,28 +134,28 @@ msgid ""
 "regime."
 msgstr ""
 
-#: ../../source/news.rst:33
+#: ../../source/news.rst:48
 msgid ""
 "`Phys. Rev. B 107, 075409 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_"
 msgstr ""
 
-#: ../../source/news.rst:36
+#: ../../source/news.rst:51
 msgid "*New article* -- December 7, 2022"
 msgstr ""
 
-#: ../../source/news.rst:38
+#: ../../source/news.rst:53
 msgid "Ultrastrong coupling between electron tunneling and mechanical motion"
 msgstr ""
 
-#: ../../source/news.rst:41
+#: ../../source/news.rst:56
 msgid ""
 "*Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Léa"
 " Bresque, Federico Fedele, Andrew Briggs, Janet Anders, Juan M. R. "
 "Parrondo, Alexia Auffèves, and Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:46
+#: ../../source/news.rst:61
 msgid ""
 "We have measured and modelled the coupling strength between single-"
 "electron tunneling and nanomechanical motion in a fully-suspended carbon "
@@ -126,35 +164,35 @@ msgid ""
 "research and quantum technologies."
 msgstr ""
 
-#: ../../source/news.rst:48 ../../source/news.rst:65
+#: ../../source/news.rst:63 ../../source/news.rst:80
 msgid ""
 "This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-"
 "grants/>`_ project Nanomechanics in the solid-state for quantum "
 "information thermodynamics."
 msgstr ""
 
-#: ../../source/news.rst:50
+#: ../../source/news.rst:65
 msgid ""
 "`Phys. Rev. Research 4, 043168 "
 "<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_"
 msgstr ""
 
-#: ../../source/news.rst:53
+#: ../../source/news.rst:68
 msgid "*New preprint* -- November 8, 2022"
 msgstr ""
 
-#: ../../source/news.rst:55
+#: ../../source/news.rst:70
 msgid "Stability of long-sustained oscillations induced by electron tunneling"
 msgstr ""
 
-#: ../../source/news.rst:58
+#: ../../source/news.rst:73
 msgid ""
 "*Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra "
 "Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. "
 "Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:63
+#: ../../source/news.rst:78
 msgid ""
 "Self-oscillations are the result of an efficient mechanism generating "
 "periodic motion from a constant power source. In quantum devices, these "
@@ -171,25 +209,25 @@ msgid ""
 "understanding of bistability in nanoelectromechanical devices."
 msgstr ""
 
-#: ../../source/news.rst:67
+#: ../../source/news.rst:82
 msgid "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
 msgstr ""
 
-#: ../../source/news.rst:70
+#: ../../source/news.rst:85
 msgid "*New article* -- July 5, 2022 -- **Editors' suggestion** in Phys. Rev. B!"
 msgstr ""
 
-#: ../../source/news.rst:72
+#: ../../source/news.rst:87
 msgid "Geometric energy transport and refrigeration with driven quantum dots"
 msgstr ""
 
-#: ../../source/news.rst:75
+#: ../../source/news.rst:90
 msgid ""
 "*Juliette Monsel, Jens Schulenborg, Thibault Baquet, Janine "
 "Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:80
+#: ../../source/news.rst:95
 msgid ""
 "We study geometric energy transport in a slowly driven single-level "
 "quantum dot weakly coupled to electronic contacts and with strong onsite "
@@ -208,7 +246,7 @@ msgid ""
 "performance of these thermal machines."
 msgstr ""
 
-#: ../../source/news.rst:82
+#: ../../source/news.rst:97
 msgid ""
 "`Phys. Rev. B 106, 035405 "
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_"
