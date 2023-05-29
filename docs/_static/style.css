@@ -118,6 +118,29 @@ div.preprint admonition p.last {
 }
 */
 
+img {
+    vertical-align: top;
+}
+
+figure {
+    margin-top: 10px; 
+    margin-bottom: 0;
+    padding: 0;
+    text-align: right;
+}
+
+figcaption p {
+    margin-top: 0; 
+    margin-bottom: 0;
+    padding: 0
+}
+
+.caption-text {
+    font-style: italic;
+    font-size: 60%;
+    line-height: 0px;
+    color: #7F7F7F;
+}
 
 div.preprint.admonition p.admonition-title:after {
     content: "";

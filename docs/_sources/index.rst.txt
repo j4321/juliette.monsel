@@ -21,6 +21,8 @@ Juliette Monsel
     :figwidth: 200
     :align: right
 
+  
+
 I am a postdoctoral researcher in `Janine Splettstoesser's group <https://sites.google.com/site/splettchalmers>`_ 
 in the Departement of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
 
@@ -30,7 +32,13 @@ at the `Institut Néel <https://neel.cnrs.fr/>`_ (CNRS, Université Grenoble Alp
 My thesis dissertation, entitled *Quantum Thermodynamics and Optomechanics*, was awarded a Springer Thesis Award and published in 
 the `Springer Theses series <https://www.springer.com/gp/book/9783030549701>`_ in 2020.
 
+..  figure:: assets/wordcloud.svg
+    :figwidth: 400
+    :align: right
+    
+    Image generated with `WordCloud <https://github.com/amueller/word_cloud>`_ from my arXiv abstracts.
 
+ 
 My research interests are:
 
 - quantum thermodynamics

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-24 15:30+0200\n"
+"POT-Creation-Date: 2023-05-29 17:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: ../../source/index.rst:52
+#: ../../source/index.rst:60
 msgid "My research webpage:"
 msgstr "Ma page personnelle"
 
@@ -25,7 +25,7 @@ msgstr "Ma page personnelle"
 msgid "Juliette Monsel"
 msgstr "Juliette Monsel"
 
-#: ../../source/index.rst:24
+#: ../../source/index.rst:26
 msgid ""
 "I am a postdoctoral researcher in `Janine Splettstoesser's group "
 "<https://sites.google.com/site/splettchalmers>`_ in the Departement of "
@@ -37,7 +37,7 @@ msgstr ""
 "Département de Microtechnologie et Nanoscience à `Chalmers University of "
 "Technology <https://www.chalmers.se/en/>`_, à Göteborg, Suède."
 
-#: ../../source/index.rst:28
+#: ../../source/index.rst:30
 msgid ""
 "I did my Ph.D. under the supervision of `Alexia Auffèves <https"
 "://quantum-energy-team.cnrs.fr/>`_ at the `Institut Néel "
@@ -54,31 +54,39 @@ msgstr ""
 "un prix de thèse Springer et a été publiée dans la série `Springer Theses"
 " <https://www.springer.com/gp/book/9783030549701>`_ en 2020."
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:39
+msgid ""
+"Image generated with `WordCloud "
+"<https://github.com/amueller/word_cloud>`_ from my arXiv abstracts."
+msgstr ""
+"Image générée avec `WordCloud "
+"<https://github.com/amueller/word_cloud>`_ à partir de mes résumés arXiv."
+
+#: ../../source/index.rst:42
 msgid "My research interests are:"
 msgstr "Les sujets de recherches qui m'intéressent sont :"
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:44
 msgid "quantum thermodynamics"
 msgstr "la thermodynamique quantique"
 
-#: ../../source/index.rst:37
+#: ../../source/index.rst:45
 msgid "open quantum systems"
 msgstr "les systèmes quantiques ouverts"
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:46
 msgid "optomechanics"
 msgstr "l'optomécanique"
 
-#: ../../source/index.rst:39
+#: ../../source/index.rst:47
 msgid "quantum optics"
 msgstr "l'optique quantique"
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "electronic transport"
 msgstr "le transport électronique"
 
-#: ../../source/index.rst:47
+#: ../../source/index.rst:55
 msgid "News"
 msgstr "Récent"
 

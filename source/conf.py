@@ -94,3 +94,7 @@ from rst_from_bib import generate_conf, generate_publi, generate_news
 generate_conf()
 generate_publi()
 generate_news()
+
+# --- wordcloud picture
+from generate_wordcloud import generate_wordcloud
+generate_wordcloud()
