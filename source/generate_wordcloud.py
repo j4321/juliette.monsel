@@ -63,6 +63,5 @@ def generate_wordcloud(**kw):
     wc_kw.update(kw)
     wordcloud = WordCloud(**wc_kw)
     wordcloud.generate(abstracts)
-    wordcloud.to_file("assets/wordcloud.png")
     with open("assets/wordcloud.svg", "w") as file:
         file.write(wordcloud.to_svg())
