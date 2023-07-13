@@ -26,14 +26,16 @@ Quantum optics
 .. image:: assets/cavity.svg
     :width: 420
 
-The light field in an optical cavity interacts with a mechanical resonator via radiation pressure. In a typical setup, the cavity has one moving end-mirror which constitutes the mechanical degree of freedom. When the mechanical position varies, the cavity length changes which modifies its resonance frequency. On the other hand, when adding more photons in the cavity, the radiation pressure on the mirror increases, which shifts the resonator's rest position. This optomechanical coupling gives a high degree of control on the dynamics of the mechanical resonator through the cavity, making it possible to use this platform for applications such as ground state cooling, sensing or quantum manipulations of the mechanics. It also makes it of great interest for thermodynamics: work and entropy measurenments, heat engines proposals, ...
+The light field in an optical cavity interacts with a mechanical resonator via radiation pressure. In a typical setup, the cavity has one moving end-mirror which constitutes the mechanical degree of freedom. When the mechanical position varies, the cavity length changes which modifies its resonance frequency. On the other hand, when adding more photons in the cavity, the radiation pressure on the mirror increases, which shifts the resonator's rest position. This optomechanical coupling gives a high degree of control on the dynamics of the mechanical resonator through the cavity, making it possible to use this platform for applications such as ground state cooling, sensing or quantum manipulations of the mechanics. It also makes it of great interest for thermodynamics: work and entropy measurements, heat engines proposals, ...
 
 
-In collaboration with `Witlef Wieczorek's experimental group <https://wieczorek-lab.com>`_, we have studied the thermodynamic performance of optomechanical cooling.
+In collaboration with `Witlef Wieczorek's experimental group <https://wieczorek-lab.com>`_, we have studied the thermodynamic performance of optomechanical cooling,
 
 - *Optomechanical cooling with coherent and squeezed light: The thermodynamic cost of opening the heat valve* -- `Phys. Rev. A 103, 063519 (2021) <https://doi.org/10.1103/PhysRevA.103.063519>`_  -- `Video of my talk at the TIQuR workshop <https://www.youtube.com/watch?v=5BT9kkFDPCQ>`_
    
-.. ~   J. Monsel, N. Dashti, S. K. Manjeshwar, J. Eriksson, H. Ernbrink, E. Olsson, E. Torneus, W. Wieczorek, J. Splettstoesser
+and modeled all the optomechanical effects taking place in a microcavity with a suspended photonic crystal mirror.
+
+- *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* --  `arXiv:2305.13511 <https://arxiv.org/abs/2305.13511>`_
 
 
 
@@ -91,7 +93,7 @@ A quantum dot is weakly coupled to two baths, namely is two electron reservoirs 
     
 - *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
 
-and beyond the first correction, for a more traditional four-stroke refrigeration cycle,
+and beyond the first correction, for a more traditional four-stroke refrigeration cycle.
 
 - *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `arXiv:2303.15420 <https://arxiv.org/abs/2303.15420>`_ 
 
@@ -108,7 +110,7 @@ We also use fermionic duality at the jump operator level to explore the stochast
 
 These devices combine electronic transport and mechanical degrees of freedom which makes them a very promising platform for thermodynamics. Charge or spin qubits can be created inside the nanotube, making these devices similar to hybrid optomechanical systems. 
 
-I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics led by ´Natalia Ares <https://www.natalia-ares.com/>`_ (Oxford University, UK).
+I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics led by `Natalia Ares <https://www.natalia-ares.com/>`_ (Oxford University, UK).
 
 - *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
 
