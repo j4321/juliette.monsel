@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-18 18:37+0200\n"
+"POT-Creation-Date: 2023-07-31 13:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,7 +82,6 @@ msgid "Cavity optomechanics"
 msgstr "Optomécanique en cavité"
 
 #: ../../source/Research.rst:29
-#, fuzzy
 msgid ""
 "The light field in an optical cavity interacts with a mechanical "
 "resonator via radiation pressure. In a typical setup, the cavity has one "
@@ -95,16 +94,15 @@ msgid ""
 "resonator through the cavity, making it possible to use this platform for"
 " applications such as ground state cooling, sensing or quantum "
 "manipulations of the mechanics. It also makes it of great interest for "
-"thermodynamics: work and entropy measurenments, heat engines proposals, "
+"thermodynamics: work and entropy measurements, heat engines proposals, "
 "..."
 msgstr ""
 
 #: ../../source/Research.rst:32
-#, fuzzy
 msgid ""
 "In collaboration with `Witlef Wieczorek's experimental group <https"
 "://wieczorek-lab.com>`_, we have studied the thermodynamic performance of"
-" optomechanical cooling."
+" optomechanical cooling,"
 msgstr ""
 
 #: ../../source/Research.rst:34
@@ -116,11 +114,24 @@ msgid ""
 "<https://www.youtube.com/watch?v=5BT9kkFDPCQ>`_"
 msgstr ""
 
-#: ../../source/Research.rst:41
+#: ../../source/Research.rst:36
+msgid ""
+"and modeled all the optomechanical effects taking place in a microcavity "
+"with a suspended photonic crystal mirror."
+msgstr ""
+
+#: ../../source/Research.rst:38
+msgid ""
+"*Integrated microcavity optomechanics with a suspended photonic crystal "
+"mirror above a distributed Bragg reflector* --  `arXiv:2305.13511 "
+"<https://arxiv.org/abs/2305.13511>`_"
+msgstr ""
+
+#: ../../source/Research.rst:43
 msgid "Hybrid optomechanical systems"
 msgstr "Systèmes hybrides optomécaniques"
 
-#: ../../source/Research.rst:45
+#: ../../source/Research.rst:47
 #, fuzzy
 msgid ""
 "This is a different kind of optomechanical system where the optical part "
@@ -136,7 +147,7 @@ msgid ""
 "fluctuation theorems in open quantum systems."
 msgstr ""
 
-#: ../../source/Research.rst:53
+#: ../../source/Research.rst:55
 msgid ""
 "*An Autonomous Quantum Machine to Measure the Thermodynamic Arrow of "
 "Time* -- `npj Quantum Inf. 4, 1 (2018) "
@@ -145,11 +156,11 @@ msgid ""
 "<https://www.youtube.com/watch?v=jhzOAz8H2UU>`_"
 msgstr ""
 
-#: ../../source/Research.rst:59
+#: ../../source/Research.rst:61
 msgid "One-dimensional atoms"
 msgstr "Atomes unidimensionnel"
 
-#: ../../source/Research.rst:63
+#: ../../source/Research.rst:65
 #, fuzzy
 msgid ""
 "A qubit is embeded in a one-dimenstional waveguide and the battery is the"
@@ -159,7 +170,7 @@ msgid ""
 "coherences on work exchanges."
 msgstr ""
 
-#: ../../source/Research.rst:68
+#: ../../source/Research.rst:70
 msgid ""
 "*The Energetic Cost of Work Extraction* -- `Phys. Rev. Lett. 124, 130601 "
 "(2020) <https://doi.org/10.1103/PhysRevLett.124.130601>`_ -- `Video of my"
@@ -167,15 +178,15 @@ msgid ""
 "<https://www.youtube.com/watch?v=AItlKhvJBt0>`_"
 msgstr ""
 
-#: ../../source/Research.rst:72
+#: ../../source/Research.rst:74
 msgid "Electronic systems"
 msgstr "Systèmes électroniques"
 
-#: ../../source/Research.rst:76
+#: ../../source/Research.rst:78
 msgid "Mesoscopic conductors"
 msgstr ""
 
-#: ../../source/Research.rst:80
+#: ../../source/Research.rst:82
 msgid ""
 "We study transport in mesoscopic conductors connected to two terminal or "
 "more with a scattering approach. We are particularly interested in "
@@ -183,7 +194,7 @@ msgid ""
 " the average current is zero (for spin, charge, heat, ...)."
 msgstr ""
 
-#: ../../source/Research.rst:82
+#: ../../source/Research.rst:84
 msgid ""
 "*Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B "
@@ -191,11 +202,11 @@ msgid ""
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_"
 msgstr ""
 
-#: ../../source/Research.rst:86
+#: ../../source/Research.rst:88
 msgid "Driven quantum dots"
 msgstr "Boîtes quantiques"
 
-#: ../../source/Research.rst:90
+#: ../../source/Research.rst:92
 #, fuzzy
 msgid ""
 "A quantum dot is weakly coupled to two baths, namely is two electron "
@@ -215,7 +226,7 @@ msgstr ""
 "d'énergie pour des modulation périodiques lentes, jusqu'à la première "
 "correction non-adiabatique."
 
-#: ../../source/Research.rst:92
+#: ../../source/Research.rst:94
 msgid ""
 "*Geometric energy transport and refrigeration with driven quantum dots* "
 "-- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion "
@@ -224,30 +235,30 @@ msgid ""
 "content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_"
 msgstr ""
 
-#: ../../source/Research.rst:94
+#: ../../source/Research.rst:96
 msgid ""
 "and beyond the first correction, for a more traditional four-stroke "
-"refrigeration cycle,"
+"refrigeration cycle."
 msgstr ""
 
-#: ../../source/Research.rst:96
+#: ../../source/Research.rst:98
 msgid ""
 "*Non-geometric pumping effects on the performance of interacting quantum-"
 "dot heat engines* -- `arXiv:2303.15420 "
 "<https://arxiv.org/abs/2303.15420>`_"
 msgstr ""
 
-#: ../../source/Research.rst:100
+#: ../../source/Research.rst:102
 msgid ""
 "We also use fermionic duality at the jump operator level to explore the "
 "stochastic thermodynamics of such kind of systems."
 msgstr ""
 
-#: ../../source/Research.rst:104
+#: ../../source/Research.rst:106
 msgid "Suspended carbon nanotubes"
 msgstr "Nanotubes de carbone suspendus"
 
-#: ../../source/Research.rst:109
+#: ../../source/Research.rst:111
 #, fuzzy
 msgid ""
 "These devices combine electronic transport and mechanical degrees of "
@@ -256,22 +267,22 @@ msgid ""
 "devices similar to hybrid optomechanical systems."
 msgstr ""
 
-#: ../../source/Research.rst:111
+#: ../../source/Research.rst:113
 msgid ""
 "I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-"
 "grants/>`_ project Nanomechanics in the solid-state for quantum "
-"information thermodynamics led by ´Natalia Ares <https://www.natalia-"
+"information thermodynamics led by `Natalia Ares <https://www.natalia-"
 "ares.com/>`_ (Oxford University, UK)."
 msgstr ""
 
-#: ../../source/Research.rst:113
+#: ../../source/Research.rst:115
 msgid ""
 "*Ultrastrong coupling between electron tunnelling and mechanical motion* "
 "--  `Phys. Rev. Research 4, 043168  (2022) "
 "<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_"
 msgstr ""
 
-#: ../../source/Research.rst:115
+#: ../../source/Research.rst:117
 msgid ""
 "*Stability of long-sustained oscillations induced by electron tunneling* "
 "--  `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
@@ -329,5 +340,53 @@ msgstr ""
 #~ "state for quantum information thermodynamics"
 #~ " "
 #~ "<https://fqxi.org/grants/large/awardees/view/__details/2019-IAF/ares>`_."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The light field in an optical "
+#~ "cavity interacts with a mechanical "
+#~ "resonator via radiation pressure. In a"
+#~ " typical setup, the cavity has one"
+#~ " moving end-mirror which constitutes "
+#~ "the mechanical degree of freedom. When"
+#~ " the mechanical position varies, the "
+#~ "cavity length changes which modifies its"
+#~ " resonance frequency. On the other "
+#~ "hand, when adding more photons in "
+#~ "the cavity, the radiation pressure on"
+#~ " the mirror increases, which shifts "
+#~ "the resonator's rest position. This "
+#~ "optomechanical coupling gives a high "
+#~ "degree of control on the dynamics "
+#~ "of the mechanical resonator through the"
+#~ " cavity, making it possible to use"
+#~ " this platform for applications such "
+#~ "as ground state cooling, sensing or "
+#~ "quantum manipulations of the mechanics. "
+#~ "It also makes it of great interest"
+#~ " for thermodynamics: work and entropy "
+#~ "measurenments, heat engines proposals, ..."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In collaboration with `Witlef Wieczorek's "
+#~ "experimental group <https://wieczorek-lab.com>`_,"
+#~ " we have studied the thermodynamic "
+#~ "performance of optomechanical cooling."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "and beyond the first correction, for "
+#~ "a more traditional four-stroke "
+#~ "refrigeration cycle,"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "I am taking part in the `FQxI-"
+#~ "funded <https://fqxi.org/programs/zenith-grants/>`_ "
+#~ "project Nanomechanics in the solid-state"
+#~ " for quantum information thermodynamics led"
+#~ " by ´Natalia Ares <https://www.natalia-"
+#~ "ares.com/>`_ (Oxford University, UK)."
 #~ msgstr ""
 

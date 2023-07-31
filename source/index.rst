@@ -24,7 +24,7 @@ Juliette Monsel
   
 
 I am a postdoctoral researcher in `Janine Splettstoesser's group <https://sites.google.com/site/splettchalmers>`_ 
-in the Departement of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
+in the Department of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
 
 
 I did my Ph.D. under the supervision of `Alexia Auffèves <https://quantum-energy-team.cnrs.fr/>`_
