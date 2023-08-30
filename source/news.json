@@ -1,17 +1,13 @@
 {
     "Manjeshwar2023May": {
-        "header": "Accepted in Optics Express",
-        "date": "July 28, 2023",
+        "header": "New article",
+        "date": "August 30, 2023",
         "title": "Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector",
         "authors": "Sushanth Kini Manjeshwar, Anastasiia Ciers, Juliette Monsel, Hannes Pfeifer, Cindy Peralle, Shu Min Wang, Philippe Tassin, Witlef Wieczorek",
         "summary": "Increasing the interaction between light and mechanical resonators is an ongoing endeavor in the field of cavity optomechanics. Optical microcavities allow for boosting the interaction strength through their strong spatial confinement of the optical field. In this work, we follow this approach by realizing a sub-wavelength-long, free-space optomechanical microcavity on-chip fabricated from an (Al,Ga)As heterostructure. A suspended GaAs photonic crystal mirror is acting as a highly reflective mechanical resonator, which together with a distributed Bragg reflector forms an optomechanical microcavity. We demonstrate precise control over the microcavity resonance by change of the photonic crystal parameters. The interplay between the microcavity mode and a guided resonance of the photonic crystal modifies the cavity response and results in a stronger dynamical backaction on the mechanical resonator compared to conventional optomechanical dynamics.",
         "links": [
             {
-                "reference": "arXiv:2305.13511",
-                "URL": "https://arxiv.org/abs/2305.13511"
-            },
-            {
-                "reference": "https://doi.org/10.1364/OE.496447",
+                "reference": "Opt. Express 31, 30212",
                 "URL": "https://doi.org/10.1364/OE.496447"
             }
         ]

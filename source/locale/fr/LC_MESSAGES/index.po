@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-31 13:51+0200\n"
+"POT-Creation-Date: 2023-08-30 08:48+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr "Juliette Monsel"
 #: ../../source/index.rst:26
 msgid ""
 "I am a postdoctoral researcher in `Janine Splettstoesser's group "
-"<https://sites.google.com/site/splettchalmers>`_ in the Departement of "
+"<https://sites.google.com/site/splettchalmers>`_ in the Department of "
 "Microtechnology and Nanoscience at `Chalmers University of Technology "
 "<https://www.chalmers.se/en/>`_, in Gothenburg, Sweden."
 msgstr ""
@@ -91,8 +91,8 @@ msgid "News"
 msgstr "Récent"
 
 #: ../../source/news.rst:4
-msgid "*Accepted in Optics Express* -- July 28, 2023"
-msgstr "*Accepté dans Optics Express* -- 28 juillet 2023"
+msgid "*New article* -- August 30, 2023"
+msgstr "*Nouvel article* -- 30 août 2023"
 
 #: ../../source/news.rst:6
 msgid ""
@@ -125,7 +125,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/news.rst:16
-msgid "`arXiv:2305.13511 <https://arxiv.org/abs/2305.13511>`_"
+msgid "`Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_"
 msgstr ""
 
 #: ../../source/news.rst:19
@@ -459,5 +459,11 @@ msgstr ""
 #~ msgid ""
 #~ "`Phys. Rev. B 106, 035405 "
 #~ "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_"
+#~ msgstr ""
+
+#~ msgid "*Accepted in Optics Express* -- July 28, 2023"
+#~ msgstr "*Accepté dans Optics Express* -- 28 juillet 2023"
+
+#~ msgid "`arXiv:2305.13511 <https://arxiv.org/abs/2305.13511>`_"
 #~ msgstr ""
 

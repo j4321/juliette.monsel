@@ -1,21 +1,11 @@
 Publications
 ============
 
-.. ~|arxiv| `arXiv <https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ |nbsp|  | |nbsp|  
-.. ~|ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| | |nbsp|  
-.. ~|ResearcherID| `AAH-5591-2020 <https://www.webofscience.com/wos/author/record/1964531>`_  |nbsp| | |nbsp|  
-.. ~|Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp| | |nbsp|  
-.. ~|scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
-
-
-.. ~|ORCID| `ORCID <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
-.. ~|ResearcherID| `ResearcherID <http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp|  
-
 |arxiv| `arXiv <https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ |nbsp|  
 |ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| 
 |ResearcherID| `AAH-5591-2020 <https://www.webofscience.com/wos/author/record/1964531>`_  |nbsp| 
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
-|scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
+|scholar| `Google Scholar <https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=sv&oi=ao>`_ 
 
 .. include:: publications-list.rst
 
@@ -45,6 +35,6 @@ Publications
 .. |scholar| image:: assets/scholar.png
     :width: 20
     :alt: Google Scholar
-    :target: https://scholar.google.com/scholar?q=Juliette+Monsel
+    :target: https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=sv&oi=ao
     
 .. |nbsp|   unicode:: U+00A0 .. NO-BREAK SPACE
