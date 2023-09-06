@@ -1,4 +1,15 @@
 {
+    "Monsel2023Mar": {
+        "header": "New article",
+        "date": "September 6, 2023",
+        "title": "Non-geometric pumping effects on the performance of interacting quantum-dot heat engines",
+        "authors": "Juliette Monsel, Jens Schulenborg, Janine Splettstoesser",
+        "summary": "Periodically driven quantum dots can act as counterparts of cyclic thermal machines at the nanoscale. In the slow-driving regime of geometric pumping, such machines have been shown to operate in analogy to a Carnot cycle. For larger driving frequencies, which are required in order to increase the cooling power, the efficiency of the operation decreases. Up to which frequency a close-to-optimal performance is still possible depends on the magnitude and sign of on-site electron-electron interaction. Extending our previous detailed study on cyclic quantum-dot refrigerators [`Phys. Rev. B 106, 035405 (2022) <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_], we here find that the optimal cooling power remains constant up to weak interaction strength compared to the cold-bath temperature. By contrast, the work cost depends on the interaction via the dot's charge relaxation rate, as the latter sets the typical driving frequency for the onset of non-geometric pumping contributions.\n\nThis work will be part of the special volume of the `Frontier of Quantum and Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ in the European Physical Journal Special Topics.",
+        "links": [{
+            "reference": "Eur. Phys. J. Spec. Top. (2023)",
+            "URL": "https://doi.org/10.1140/epjs/s11734-023-00969-4"
+        }]
+    },
     "Manjeshwar2023May": {
         "header": "New article",
         "date": "August 30, 2023",
@@ -11,17 +22,6 @@
                 "URL": "https://doi.org/10.1364/OE.496447"
             }
         ]
-    },
-    "Monsel2023Mar": {
-        "header": "New preprint",
-        "date": "March 28, 2023",
-        "title": "Non-geometric pumping effects on the performance of interacting quantum-dot heat engines",
-        "authors": "Juliette Monsel, Jens Schulenborg, Janine Splettstoesser",
-        "summary": "Periodically driven quantum dots can act as counterparts of cyclic thermal machines at the nanoscale. In the slow-driving regime of geometric pumping, such machines have been shown to operate in analogy to a Carnot cycle. For larger driving frequencies, which are required in order to increase the cooling power, the efficiency of the operation decreases. Up to which frequency a close-to-optimal performance is still possible depends on the magnitude and sign of on-site electron-electron interaction. Extending our previous detailed study on cyclic quantum-dot refrigerators [`Phys. Rev. B 106, 035405 (2022) <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_], we here find that the optimal cooling power remains constant up to weak interaction strength compared to the cold-bath temperature. By contrast, the work cost depends on the interaction via the dot's charge relaxation rate, as the latter sets the typical driving frequency for the onset of non-geometric pumping contributions.\n\nThis work will be part of the special volume of the `Frontier of Quantum and Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ in the European Physical Journal Special Topics.",
-        "links": [{
-            "reference": "arXiv:2303.15420",
-            "URL": "https://arxiv.org/abs/2303.15420"
-        }]
     },
     "Tabanera-Bravo2022Nov": {
         "header": "New preprint",
