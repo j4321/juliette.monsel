@@ -14,7 +14,7 @@ aims at revisiting these results when the working substances, baths and batterie
 the book `Thermodynamics in the quantum regime: fundamental aspects and new directions <https://link.springer.com/book/10.1007/978-3-319-99046-0>`_ 
 (most of the chapters can also be found on arXiv) for a review of the field.
 
-My research mainly focus on the thermodynamics of quantum open systems, in regimes relevant for experimental implementations. My background is mostly quantum optics but I am currently also investigating electronic transport.
+My research mainly focus on the thermodynamics of quantum open systems, in regimes relevant for experimental implementations, both in quantum optics and quantum transport.
 
 - PhD dissertation: `Quantum Thermodynamics and Optomechanics <https://tel.archives-ouvertes.fr/tel-02517050>`_
 
@@ -35,7 +35,8 @@ In collaboration with `Witlef Wieczorek's experimental group <https://wieczorek-
    
 and modeled all the optomechanical effects taking place in a microcavity with a suspended photonic crystal mirror.
 
-- *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* --  `arXiv:2305.13511 <https://arxiv.org/abs/2305.13511>`_
+- *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* -- `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_
+- *Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror* -- `arXiv:2311.15311 <https://arxiv.org/abs/2311.15311>`_
 
 
 

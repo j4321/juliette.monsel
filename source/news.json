@@ -1,5 +1,20 @@
 {
+    "Monsel2024Jan": {
+        "kind": "text",
+        "header": "New position",
+        "date": "January 4, 2024",
+        "title": "\\ ",
+        "summary": "I became a Research Specialist in the Applied Quantum Physics Laboratory, in the Deptartment of Microtechnology and Nanoscience at Chalmers."
+    },
+    "Manjeshwar2023Dec": {
+        "kind": "text",
+        "header": "Highlight",
+        "date": "December 22, 2023",
+        "title": "\\ ",
+        "summary": "Our article *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_ was included in `Spotlight on Optics <https://opg.optica.org/spotlight/summary.cfm?id=537002>`_."
+    },
     "Monsel2023Nov": {
+        "kind": "article",
         "header": "New preprint",
         "date": "November 26, 2023",
         "title": "Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror",
@@ -11,6 +26,7 @@
         }]
     },
     "Monsel2023Mar": {
+        "kind": "article",
         "header": "New article",
         "date": "September 6, 2023",
         "title": "Non-geometric pumping effects on the performance of interacting quantum-dot heat engines",
@@ -22,6 +38,7 @@
         }]
     },
     "Manjeshwar2023May": {
+        "kind": "article",
         "header": "New article",
         "date": "August 30, 2023",
         "title": "Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector",
@@ -35,6 +52,7 @@
         ]
     },
     "Tabanera-Bravo2022Nov": {
+        "kind": "article",
         "header": "New preprint",
         "date": "November 8, 2022",
         "title": "Stability of long-sustained oscillations induced by electron tunneling",
@@ -46,6 +64,7 @@
         }]
     },
     "Tesser2022Oct": {
+        "kind": "article",
         "header": "New article",
         "date": "February 9, 2023",
         "title": "Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies",
@@ -57,6 +76,7 @@
         }]
     },
     "Monsel2022Feb": {
+        "kind": "article",
         "header": "New article",
         "date": "July 5, 2022",
         "title": "Geometric energy transport and refrigeration with driven quantum dots",
@@ -69,6 +89,7 @@
         "note": "**Editors' suggestion** in Phys. Rev. B!"
     },
     "Monsel2021Mar": {
+        "kind": "article",
         "header": "New article",
         "date": "June 25, 2021",
         "title": "Optomechanical cooling with coherent and squeezed light: the thermodynamic cost of opening the heat valve",
@@ -80,6 +101,7 @@
         }]
     },
     "Vigneau2021Mar": {
+        "kind": "article",
         "header":  "New article",
         "date": "December 7, 2022",
         "title": "Ultrastrong coupling between electron tunneling and mechanical motion",

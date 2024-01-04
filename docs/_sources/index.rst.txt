@@ -6,31 +6,18 @@
 Juliette Monsel
 ===============
 
-.. ~.. container:: twocol
-
-.. ~    .. container:: leftside
-        
-.. ~        .. image:: assets/Juliette.jpg
-.. ~            :width: 200
-
-.. ~    .. container:: rightside
-        
-.. ~        |
 
 ..  figure:: assets/Juliette.jpg
     :figwidth: 200
     :align: right
 
   
-
-I am a postdoctoral researcher in `Janine Splettstoesser's group <https://sites.google.com/site/splettchalmers>`_ 
-in the Department of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
-
+I am a researcher in the Applied Quantum Physics Laboratory, in the Department of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
 
 I did my Ph.D. under the supervision of `Alexia Auffèves <https://quantum-energy-team.cnrs.fr/>`_
 at the `Institut Néel <https://neel.cnrs.fr/>`_ (CNRS, Université Grenoble Alpes) in Grenoble, France. 
 My thesis dissertation, entitled *Quantum Thermodynamics and Optomechanics*, was awarded a Springer Thesis Award and published in 
-the `Springer Theses series <https://www.springer.com/gp/book/9783030549701>`_ in 2020.
+the `Springer Theses series <https://www.springer.com/gp/book/9783030549701>`_ in 2020. Since 2020, I have been working with `Janine Splettstoesser <https://sites.google.com/site/splettchalmers>`_ at Chalmers, first as a postdoctoral researcher and, since 2024, as a permanent researcher. I am also collaborating closely with `Witlef Wieczorek's experimental group <https://wieczorek-lab.com/>`_ at Chalmers on cavity optomechanics.
 
 ..  figure:: assets/wordcloud.svg
     :figwidth: 400
@@ -68,6 +55,5 @@ News
     Conferences
     Teaching
     Contact
-.. ~    Bicycles
 
 

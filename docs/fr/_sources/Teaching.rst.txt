@@ -7,6 +7,12 @@ Teaching experience
 
 .. rubric:: Teaching assistant
 
+:Feb. 2024: `Winter school on ultrafast thermodynamics <https://www.chalmers.se/en/current/calendar/f-winter-school-on-ultrafast-thermodynamics/>`_ (Chalmers University of Technology)
+
+    Tutorial session for the lecture "Nanoscale thermodynamics - the role of fluctuations".
+.. ~    where students gained hands-on experience and put into practice the notions and concepts about fluctuations in nanoscale systems.
+
+
 :2017, 2018: Newtonian mechanics for first-year undergraduates (Université Grenoble Alpes, France) 
     
     I supervised tutorials (~20-30 students, 1.5 hours, twice a week) and lab work (~10-15 students, 3.5 hours, once a week). I contributed exercises to the exams and graded examinations and lab work reports.
@@ -28,11 +34,11 @@ It documents some of the skills that I acquired during my doctorate and mostly f
   
 .. rubric:: Student supervision
 
+:Oct. 2020 -- current: Assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.
+
 :Apr. -- Jul. 2022: Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.
 
 :Oct. 2021 -- Jul. 2022: Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.
-
-:Oct. 2020 -- current: Assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.
 
 :2016: Co-supervisor of a first-year master student during his two-month internship at the Institut Néel, Grenoble, France.
 
@@ -53,13 +59,13 @@ Related volunteer experience
 :2018 -- 2020: `uN p’Tit véLo dAnS La Tête <ptitvelo_>`_ (Grenoble, France)
 
 
-I have been volunteering since 2017 in DIY bicycle workshops that aim at promoting cycling, learning mechanics and reusing of unused bicycles.
+I have been volunteering since 2017 in nonprofit DIY bicycle workshops that aim at promoting cycling, learning mechanics and reusing of unused bicycles.
 First, I learned bicycle mechanics by going every Wednesday at the "volunteer evening" at *uN p’Tit véLo dAnS La Tête*, where we took apart and repaired bikes for the workshop. Then, I also came at normal opening hours to share my knowledge and explain to people how to fix their bikes. I have been doing the same at *Cykelköket Göteborg* since I moved to Gothenburg.
 More details about my interest in bicycles: :ref:`Bicycles`.
 
 
 
-.. _CK: https://www.facebook.com/cykelkoket.gbg
+.. _CK: https://www.cykelkoket.org/
 
 .. _ptitvelo: http://www.ptitvelo.net/
 

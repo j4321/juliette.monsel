@@ -1,14 +1,14 @@
 # MY RESEARCH WEBSITE.
-# Copyright (C) 2020-2022, Juliette Monsel
+# Copyright (C) 2020-2024, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# Juliette Monsel <monsel at chalmers dot se>, 2020-2022.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-06 16:53+0200\n"
+"POT-Creation-Date: 2024-01-04 11:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid ""
 "|Scopus| `Scopus "
 "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|"
 " |scholar| `Google Scholar "
-"<https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=sv&oi=ao>`_"
+"<https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=en&oi=ao>`_"
 msgstr ""
 
 #: ../../source/Publications.rst
@@ -85,69 +85,3 @@ msgstr ""
 #: ../../source/publications-list.rst:66
 msgid "Books"
 msgstr "Livres"
-
-#~ msgid ""
-#~ "|ORCID| http://orcid.org/0000-0002-4965-6794  | "
-#~ "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ "
-#~ "| |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ "
-#~ "|nbsp|  | |nbsp|  |ORCID| `0000-0002-4965-6794"
-#~ " <http://orcid.org/0000-0002-4965-6794>`_  |nbsp| | "
-#~ "|nbsp|  |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ "
-#~ "|nbsp| |ORCID| `ORCID "
-#~ "<http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
-#~ "|ResearcherID| `ResearcherID "
-#~ "<http://www.researcherid.com/rid/AAH-5591-2020>`_ |nbsp| "
-#~ "|Scopus| `Scopus "
-#~ "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
-#~ "|nbsp| |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|arxiv| `arXiv <https://arxiv.org/a/monsel_j_1.html>`_ "
-#~ "|nbsp| |ORCID| `0000-0002-4965-6794 "
-#~ "<http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
-#~ "|ResearcherID| `AAH-5591-2020 "
-#~ "<http://www.researcherid.com/rid/AAH-5591-2020>`_  |nbsp| "
-#~ "|Scopus| `Scopus "
-#~ "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
-#~ "|nbsp| |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|arxiv| `arXiv "
-#~ "<https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ "
-#~ "|nbsp| |ORCID| `0000-0002-4965-6794 "
-#~ "<http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
-#~ "|ResearcherID| `AAH-5591-2020 "
-#~ "<http://www.researcherid.com/rid/AAH-5591-2020>`_  |nbsp| "
-#~ "|Scopus| `Scopus "
-#~ "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
-#~ "|nbsp| |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|arxiv| `arXiv "
-#~ "<https://arxiv.org/search/?searchtype=author&query=Monsel%2C+J>`_ "
-#~ "|nbsp| |ORCID| `0000-0002-4965-6794 "
-#~ "<http://orcid.org/0000-0002-4965-6794>`_  |nbsp| "
-#~ "|ResearcherID| `AAH-5591-2020 "
-#~ "<https://www.webofscience.com/wos/author/record/1964531>`_  "
-#~ "|nbsp| |Scopus| `Scopus "
-#~ "<https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  "
-#~ "|nbsp| |scholar| `Google Scholar "
-#~ "<https://scholar.google.com/scholar?q=Juliette+Monsel>`_"
-#~ msgstr ""
-

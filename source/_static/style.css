@@ -88,6 +88,21 @@ blockquote p {
 }
 */
 
+div.news.admonition {
+    margin: 5px 0px 20px 30px;
+    font-size: 85%;
+    padding: 0px 20px 15px 20px;
+    background-color: {{ theme_admonition_bg }};
+    border: 1px solid {{ theme_admonition_border }};
+}
+
+div.news.admonition p.admonition-title {
+    display: none;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+
 div.preprint.admonition {
     margin: 5px 0px 20px 30px;
     font-size: 85%;
@@ -111,6 +126,7 @@ div.preprint.admonition p.admonition-title {
     padding: 0;
     line-height: 1;
 }
+
 
 /*
 div.preprint admonition p.last {

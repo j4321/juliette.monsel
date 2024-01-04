@@ -1,14 +1,14 @@
 # MY RESEARCH WEBSITE.
-# Copyright (C) 2020-2022, Juliette Monsel
+# Copyright (C) 2020-2024, Juliette Monsel
 # This file is distributed under the same license as the Juliette Monsel
 # package.
-# Juliette Monsel <monsel at chalmers dot se>, 2020-2022.
+# Juliette Monsel <monsel at chalmers dot se>, 2020-2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-18 18:37+0200\n"
+"POT-Creation-Date: 2024-01-04 11:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,16 +30,38 @@ msgid "Teaching assistant"
 msgstr "Chargée de TD"
 
 #: ../../source/Teaching.rst
+msgid "Feb. 2024"
+msgstr "Fév. 2024"
+
+#: ../../source/Teaching.rst:10
+msgid ""
+"`Winter school on ultrafast thermodynamics "
+"<https://www.chalmers.se/en/current/calendar/f-winter-school-on-"
+"ultrafast-thermodynamics/>`_ (Chalmers University of Technology)"
+msgstr ""
+"`École d'hiver school sur la thermodynamique ultra-rapide "
+"<https://www.chalmers.se/en/current/calendar/f-winter-school-on-"
+"ultrafast-thermodynamics/>`_ (Chalmers University of Technology)"
+
+#: ../../source/Teaching.rst:12
+msgid ""
+"Tutorial session for the lecture \"Nanoscale thermodynamics - the role of"
+" fluctuations\"."
+msgstr ""
+"Session d'exercices en lien avec le cours \"Nanoscale thermodynamics - the role of"
+" fluctuations\"."
+
+#: ../../source/Teaching.rst
 msgid "2017, 2018"
 msgstr ""
 
-#: ../../source/Teaching.rst:10
+#: ../../source/Teaching.rst:16
 msgid ""
 "Newtonian mechanics for first-year undergraduates (Université Grenoble "
 "Alpes, France)"
 msgstr "Mécanique du point (L1, Université Grenoble Alpes)"
 
-#: ../../source/Teaching.rst:12
+#: ../../source/Teaching.rst:18
 msgid ""
 "I supervised tutorials (~20-30 students, 1.5 hours, twice a week) and lab"
 " work (~10-15 students, 3.5 hours, once a week). I contributed exercises "
@@ -50,31 +72,31 @@ msgstr ""
 "l'élaboration des sujets d'examen et j'ai noté les examens et les "
 "rapports de TP."
 
-#: ../../source/Teaching.rst:15
+#: ../../source/Teaching.rst:21
 msgid "Program:"
 msgstr "Programme :"
 
-#: ../../source/Teaching.rst:17
+#: ../../source/Teaching.rst:23
 msgid "Collisions"
 msgstr "Collisions"
 
-#: ../../source/Teaching.rst:18
+#: ../../source/Teaching.rst:24
 msgid "Polar coordinates"
 msgstr "Coordonnées polaires"
 
-#: ../../source/Teaching.rst:19
+#: ../../source/Teaching.rst:25
 msgid "Harmonic oscillators"
 msgstr "Oscillateurs harmoniques"
 
-#: ../../source/Teaching.rst:20
+#: ../../source/Teaching.rst:26
 msgid "Angular momentum and torque"
 msgstr "Moment cinétique et moment d'une force"
 
-#: ../../source/Teaching.rst:24
+#: ../../source/Teaching.rst:30
 msgid "Portfolio"
 msgstr "Portfolio"
 
-#: ../../source/Teaching.rst:25
+#: ../../source/Teaching.rst:31
 msgid ""
 "As part of the doctoral course on research and higher education, I have "
 "produced a `portfolio (in French) <http://juliette-"
@@ -86,15 +108,25 @@ msgstr ""
 " partie des compétences que j'ai dévelopées au cours de mon doctorat, en "
 "particulier celles concernant l'enseignement."
 
-#: ../../source/Teaching.rst:30
+#: ../../source/Teaching.rst:36
 msgid "Student supervision"
 msgstr "Encadrement d'étudiants"
+
+#: ../../source/Teaching.rst
+msgid "Oct. 2020 -- current"
+msgstr "oct. 2020 -- aujourd'hui"
+
+#: ../../source/Teaching.rst:37
+msgid ""
+"Assistant supervisor of a Ph.D. student at MC2, Chalmers University of "
+"Technology."
+msgstr "Co-encadrante (assistant supervisor) d'un doctorant à Chalmers."
 
 #: ../../source/Teaching.rst
 msgid "Apr. -- Jul. 2022"
 msgstr "avr. -- juil. 2022"
 
-#: ../../source/Teaching.rst:31
+#: ../../source/Teaching.rst:39
 msgid ""
 "Co-supervisor of a master student from École Normale Supérieure de Lyon "
 "(France) at MC2, Chalmers University of Technology for a four-month "
@@ -107,7 +139,7 @@ msgstr ""
 msgid "Oct. 2021 -- Jul. 2022"
 msgstr "oct. 2021 -- jui. 2022"
 
-#: ../../source/Teaching.rst:33
+#: ../../source/Teaching.rst:41
 msgid ""
 "Co-supervisor of a master student from University of Regensburg (Germany)"
 " at MC2, Chalmers University of Technology."
@@ -116,20 +148,10 @@ msgstr ""
 "(Allemagne) pour un stage long à Chalmers."
 
 #: ../../source/Teaching.rst
-msgid "Oct. 2020 -- current"
-msgstr "oct. 2020 -- aujourd'hui"
-
-#: ../../source/Teaching.rst:35
-msgid ""
-"Assistant supervisor of a Ph.D. student at MC2, Chalmers University of "
-"Technology."
-msgstr "Assistante-directrice de thèse d'un doctorant à Chalmers."
-
-#: ../../source/Teaching.rst
 msgid "2016"
 msgstr ""
 
-#: ../../source/Teaching.rst:37
+#: ../../source/Teaching.rst:43
 msgid ""
 "Co-supervisor of a first-year master student during his two-month "
 "internship at the Institut Néel, Grenoble, France."
@@ -137,11 +159,11 @@ msgstr ""
 "Co-encadrante d'un étudiant de M1 de l'Université Grenoble Alpes pour un "
 "stage de deux mois à l'Institut Néel à Grenoble."
 
-#: ../../source/Teaching.rst:40
+#: ../../source/Teaching.rst:46
 msgid "Related volunteer experience"
 msgstr "Bénévolat en lien avec l'enseignement"
 
-#: ../../source/Teaching.rst:43
+#: ../../source/Teaching.rst:49
 msgid "Tutor for homework assitance"
 msgstr "Tuteur d'aide aux devoirs"
 
@@ -149,11 +171,11 @@ msgstr "Tuteur d'aide aux devoirs"
 msgid "2013 -- 2014"
 msgstr ""
 
-#: ../../source/Teaching.rst:44
+#: ../../source/Teaching.rst:50
 msgid "Trait d'Union program (Villeurbanne, France)"
 msgstr "Programme Trait d'Union (Lycée Frédéric Faÿs, Villeurbanne, France)"
 
-#: ../../source/Teaching.rst:46
+#: ../../source/Teaching.rst:52
 msgid ""
 "I supervised and helped students from a high school in a disadvangtaged "
 "area do their homework and study (2 hours/week, ~10-20 students)"
@@ -161,7 +183,7 @@ msgstr ""
 "J'encadrais et aidais des lycéens scolarisés en zone d’éducation "
 "prioritaire à faire leurs devoirs et à réviser leurs cours."
 
-#: ../../source/Teaching.rst:50
+#: ../../source/Teaching.rst:56
 msgid "Bicycle mechanics instructor"
 msgstr "Instructrice de mécanique cycle"
 
@@ -169,7 +191,7 @@ msgstr "Instructrice de mécanique cycle"
 msgid "2020 -- current"
 msgstr "2020 -- aujourd'hui"
 
-#: ../../source/Teaching.rst:51
+#: ../../source/Teaching.rst:57
 msgid "`Cykelköket <CK_>`_ (Gothenburg, Sweden)"
 msgstr "`Cykelköket <CK_>`_ (Göteborg, Suède)"
 
@@ -177,23 +199,23 @@ msgstr "`Cykelköket <CK_>`_ (Göteborg, Suède)"
 msgid "2018 -- 2020"
 msgstr ""
 
-#: ../../source/Teaching.rst:53
+#: ../../source/Teaching.rst:59
 msgid "`uN p’Tit véLo dAnS La Tête <ptitvelo_>`_ (Grenoble, France)"
 msgstr ""
 
-#: ../../source/Teaching.rst:56
+#: ../../source/Teaching.rst:62
 msgid ""
-"I have been volunteering since 2017 in DIY bicycle workshops that aim at "
-"promoting cycling, learning mechanics and reusing of unused bicycles. "
-"First, I learned bicycle mechanics by going every Wednesday at the "
-"\"volunteer evening\" at *uN p’Tit véLo dAnS La Tête*, where we took "
+"I have been volunteering since 2017 in nonprofit DIY bicycle workshops "
+"that aim at promoting cycling, learning mechanics and reusing of unused "
+"bicycles. First, I learned bicycle mechanics by going every Wednesday at "
+"the \"volunteer evening\" at *uN p’Tit véLo dAnS La Tête*, where we took "
 "apart and repaired bikes for the workshop. Then, I also came at normal "
 "opening hours to share my knowledge and explain to people how to fix "
 "their bikes. I have been doing the same at *Cykelköket Göteborg* since I "
 "moved to Gothenburg. More details about my interest in bicycles: "
 ":ref:`Bicycles`."
 msgstr ""
-"Je suis bénévole depuis 2017 dans des ateliers d'auto-réparation de vélos"
+"Je suis bénévole depuis 2017 dans des ateliers associatifs d'auto-réparation de vélos"
 " qui ont pour but de promouvoir les déplacements à vélo, l'apprentissage "
 "de la mécanique et le réemploi de vélos inutilisés. J'ai d'abord appris "
 "la mécanique cycle en allant tous les mercredis soirs à permanence "

@@ -9,9 +9,13 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 |ORCID| `0000-0002-4965-6794 <http://orcid.org/0000-0002-4965-6794>`_  |nbsp|  
 |ResearcherID| `AAH-5591-2020 <https://www.webofscience.com/wos/author/record/1964531>`_ |nbsp|  
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
-|scholar| `Google Scholar <https://scholar.google.com/scholar?q=Juliette+Monsel>`_ 
+|scholar| `Google Scholar <https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=en&oi=ao>`_ 
 
-:2020 -- current: **Postdoctoral researcher**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden. Advisor: Janine Splettstoesser.
+:2024 -- current: **Research specialist**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden.
+
+    Permanent researcher in the Applied Quantum Physics Laboratory.
+
+:2020 -- 2023: **Postdoctoral researcher**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden. Advisor: Janine Splettstoesser.
 
     Thermodynamics of optomechanics and electronic transport.
     
@@ -57,16 +61,6 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 - |linkedin| https://www.linkedin.com/in/juliette-monsel/
 - |RG| https://www.researchgate.net/profile/Juliette_Monsel
 
-.. ~- |ORCID| http://orcid.org/0000-0002-4965-6794
-.. ~- |scholar| https://scholar.google.com/scholar?q=Juliette+Monsel
-
-.. ~.. |ORCID| image:: assets/orcid.png
-.. ~    :width: 20
-.. ~    :alt: ORCID
-    
-.. ~.. |scholar| image:: assets/scholar.png
-.. ~    :width: 20
-.. ~    :alt: Google Scholar
     
 .. |linkedin| image:: assets/linkedin.png
     :width: 20
