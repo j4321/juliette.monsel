@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-15 08:48+0100\n"
+"POT-Creation-Date: 2024-03-01 14:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,21 +100,73 @@ msgid "News"
 msgstr "Récent"
 
 #: ../../source/news.rst:4
-msgid "*Accepted article* -- February 12, 2024"
-msgstr "*Article accepté* -- 12 février 2024"
+msgid "*New preprint* -- February 29, 2024"
+msgstr "*Nouveau preprint* -- 29 février 2024"
 
 #: ../../source/news.rst:6
-msgid "Stability of long-sustained oscillations induced by electron tunneling"
+msgid "Coupling a single spin to high-frequency motion"
 msgstr ""
 
 #: ../../source/news.rst:9
+msgid ""
+"*Federico Fedele, Federico Cerisola, Lea Bresque, Florian Vigneau, "
+"Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Jonathan Dexter, "
+"Sofia Sevitz, Joe Dunlop, Alexia Auffèves, Juan Parrondo, András Pályi, "
+"Janet Anders, Natalia Ares*"
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid ""
+"Coupling a single spin to high-frequency mechanical motion is a "
+"fundamental bottleneck of applications such as quantum sensing, "
+"intermediate and long-distance spin-spin coupling, and classical and "
+"quantum information processing. Previous experiments have only shown "
+"single spin coupling to low-frequency mechanical resonators, such as "
+"diamond cantilevers. High-frequency mechanical resonators, having the "
+"ability to access the quantum regime, open a range of possibilities when "
+"coupled to single spins, including readout and storage of quantum states."
+" Here we report the first experimental demonstration of spin-mechanical "
+"coupling to a high-frequency resonator. We achieve this all-electrically "
+"on a fully suspended carbon nanotube device. A new mechanism gives rise "
+"to this coupling, which stems from spin-orbit coupling, and it is not "
+"mediated by strain. We observe both resonant and off-resonant coupling as"
+" a shift and broadening of the electric dipole spin resonance (EDSR), "
+"respectively. We develop a complete theoretical model taking into account"
+" the tensor form of the coupling and non-linearity in the motion. Our "
+"results propel spin-mechanical platforms to an uncharted regime. The "
+"interaction we reveal provides the full toolbox for promising "
+"applications ranging from the demonstration of macroscopic "
+"superpositions, to the operation of fully quantum engines, to quantum "
+"simulators."
+msgstr ""
+
+#: ../../source/news.rst:16 ../../source/news.rst:33
+msgid ""
+"This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-"
+"grants/>`_ project Nanomechanics in the solid-state for quantum "
+"information thermodynamics."
+msgstr ""
+
+#: ../../source/news.rst:18
+msgid "`arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_"
+msgstr ""
+
+#: ../../source/news.rst:21
+msgid "*Accepted article* -- February 12, 2024"
+msgstr "*Article accepté* -- 12 février 2024"
+
+#: ../../source/news.rst:23
+msgid "Stability of long-sustained oscillations induced by electron tunneling"
+msgstr ""
+
+#: ../../source/news.rst:26
 msgid ""
 "*Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra "
 "Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. "
 "Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares*"
 msgstr ""
 
-#: ../../source/news.rst:14
+#: ../../source/news.rst:31
 msgid ""
 "Self-oscillations are the result of an efficient mechanism generating "
 "periodic motion from a constant power source. In quantum devices, these "
@@ -131,39 +183,32 @@ msgid ""
 "understanding of bistability in nanoelectromechanical devices."
 msgstr ""
 
-#: ../../source/news.rst:16
-msgid ""
-"This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-"
-"grants/>`_ project Nanomechanics in the solid-state for quantum "
-"information thermodynamics."
-msgstr ""
-
-#: ../../source/news.rst:18
+#: ../../source/news.rst:35
 msgid ""
 "`Phys. Rev. Research "
 "<https://journals.aps.org/prresearch/accepted/2e076Ya6Nec1e781443632600fffc0bb46f5fec51>`_"
 " -- `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
 msgstr ""
 
-#: ../../source/news.rst:21
+#: ../../source/news.rst:38
 msgid "*New position* -- January 4, 2024"
 msgstr "*Nouvelle position* -- 4 janvier 2024"
 
-#: ../../source/news.rst:23 ../../source/news.rst:31
+#: ../../source/news.rst:40 ../../source/news.rst:48
 msgid "\\"
 msgstr ""
 
-#: ../../source/news.rst:26
+#: ../../source/news.rst:43
 msgid ""
 "I became a Research Specialist in the Applied Quantum Physics Laboratory,"
 " in the Deptartment of Microtechnology and Nanoscience at Chalmers."
 msgstr ""
 
-#: ../../source/news.rst:29
+#: ../../source/news.rst:46
 msgid "*Highlight* -- December 22, 2023"
 msgstr "*Highlight* -- 22 décembre 2023"
 
-#: ../../source/news.rst:34
+#: ../../source/news.rst:51
 msgid ""
 "Our article *Integrated microcavity optomechanics with a suspended "
 "photonic crystal mirror above a distributed Bragg reflector* `Opt. "
@@ -172,23 +217,23 @@ msgid ""
 "<https://opg.optica.org/spotlight/summary.cfm?id=537002>`_."
 msgstr ""
 
-#: ../../source/news.rst:37
+#: ../../source/news.rst:54
 msgid "*New preprint* -- November 26, 2023"
 msgstr "*Nouveau preprint* -- 26 novembre 2023"
 
-#: ../../source/news.rst:39
+#: ../../source/news.rst:56
 msgid ""
 "Dissipative and dispersive cavity optomechanics with a frequency-"
 "dependent mirror"
 msgstr ""
 
-#: ../../source/news.rst:42
+#: ../../source/news.rst:59
 msgid ""
 "*Juliette Monsel, Anastasiia Ciers, Sushanth Kini Manjeshwar, Witlef "
 "Wieczorek, Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:47
+#: ../../source/news.rst:64
 msgid ""
 "An optomechanical microcavity can considerably enhance the interaction "
 "between light and mechanical motion by confining light to a sub-"
@@ -215,31 +260,31 @@ msgid ""
 "properties of the Fano mirror."
 msgstr ""
 
-#: ../../source/news.rst:49
+#: ../../source/news.rst:66
 msgid ""
 "This work is the in-depth theory article associated with the experimental"
 " work `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_."
 msgstr ""
 
-#: ../../source/news.rst:51
+#: ../../source/news.rst:68
 msgid "`arXiv:2311.15311 <https://arxiv.org/abs/2311.15311>`_"
 msgstr ""
 
-#: ../../source/news.rst:54
+#: ../../source/news.rst:71
 msgid "*New article* -- September 6, 2023"
 msgstr "*Nouvel article* -- 6 septembre 2023"
 
-#: ../../source/news.rst:56
+#: ../../source/news.rst:73
 msgid ""
 "Non-geometric pumping effects on the performance of interacting quantum-"
 "dot heat engines"
 msgstr ""
 
-#: ../../source/news.rst:59
+#: ../../source/news.rst:76
 msgid "*Juliette Monsel, Jens Schulenborg, Janine Splettstoesser*"
 msgstr ""
 
-#: ../../source/news.rst:64
+#: ../../source/news.rst:81
 msgid ""
 "Periodically driven quantum dots can act as counterparts of cyclic "
 "thermal machines at the nanoscale. In the slow-driving regime of "
@@ -258,36 +303,36 @@ msgid ""
 "non-geometric pumping contributions."
 msgstr ""
 
-#: ../../source/news.rst:66
+#: ../../source/news.rst:83
 msgid ""
 "This work is part of the special volume of the `Frontier of Quantum and "
 "Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ in "
 "the European Physical Journal Special Topics."
 msgstr ""
 
-#: ../../source/news.rst:68
+#: ../../source/news.rst:85
 msgid ""
 "`Eur. Phys. J. Spec. Top. (2023) "
 "<https://doi.org/10.1140/epjs/s11734-023-00969-4>`_"
 msgstr ""
 
-#: ../../source/news.rst:71
+#: ../../source/news.rst:88
 msgid "*New article* -- August 30, 2023"
 msgstr "*Nouvel article* -- 30 août 2023"
 
-#: ../../source/news.rst:73
+#: ../../source/news.rst:90
 msgid ""
 "Integrated microcavity optomechanics with a suspended photonic crystal "
 "mirror above a distributed Bragg reflector"
 msgstr ""
 
-#: ../../source/news.rst:76
+#: ../../source/news.rst:93
 msgid ""
 "*Sushanth Kini Manjeshwar, Anastasiia Ciers, Juliette Monsel, Hannes "
 "Pfeifer, Cindy Peralle, Shu Min Wang, Philippe Tassin, Witlef Wieczorek*"
 msgstr ""
 
-#: ../../source/news.rst:81
+#: ../../source/news.rst:98
 msgid ""
 "Increasing the interaction between light and mechanical resonators is an "
 "ongoing endeavor in the field of cavity optomechanics. Optical "
@@ -305,7 +350,7 @@ msgid ""
 "compared to conventional optomechanical dynamics."
 msgstr ""
 
-#: ../../source/news.rst:83
+#: ../../source/news.rst:100
 msgid "`Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_"
 msgstr ""
 
