@@ -145,8 +145,9 @@ class MyStyle(PlainStyle):
             self.format_names('author'),
             self.format_title(e, 'title'),
            href [ url, journal ],
-            sentence [ optional_field('note') ],
-            # self.format_web_refs(e),
+            sentence [ 
+            optional_field('note') ],
+            self.format_code_data(e),
         ]
         return template
 
@@ -170,11 +171,15 @@ class MyStyle(PlainStyle):
 
     def format_url(self, e):
         # based on urlbst format.url
-        return href [
-            field('url', raw=True),
-            field('url', raw=True)
+        return join [
+            "[",
+            href [
+                field('url', raw=True),
+                'Website'
+            ],
+            "]"
         ]
-
+        
     def format_link(self, e):
         return first_of [
             optional_field("url", raw=True),
@@ -391,24 +396,56 @@ class MyStyle(PlainStyle):
 
     def format_web_refs(self, e):
         # based on urlbst output.web.refs
-        return sentence [
+        return words [
             optional [ self.format_url(e) ],
             optional [ self.format_eprint(e) ],
             optional [ self.format_pubmed(e) ],
             optional [ self.format_doi(e) ],
             optional [ self.format_video(e) ],
+            optional [ self.format_code(e) ],
+            optional [ self.format_data(e) ],
+        ]
+        
+    def format_code_data(self, e):
+        # based on urlbst output.web.refs
+        return words [
+            optional [ self.format_code(e) ],
+            optional [ self.format_data(e) ],
         ]
 
+    def format_code(self, e):
+        # based on urlbst format.url
+        return join [
+            "[",
+            href [
+                field('code', raw=True),
+                'Code'
+            ],
+            "]"
+        ]
+        
+    def format_data(self, e):
+        # based on urlbst format.url
+        return join [
+            "[",
+            href [
+                field('data', raw=True),
+                'Data'
+            ],
+            "]"
+        ]
+        
     def format_video(self, e):
         # based on urlbst format.url
-        return words [
-            'Video:',
+        return join [
+            "[",
             href [
                 field('video', raw=True),
-                field('video', raw=True)
-                ]
+                'Video'
+            ],
+            "]"
         ]
-
+        
     def format_phd(self, e):
         # based on urlbst format.url
         return words [
