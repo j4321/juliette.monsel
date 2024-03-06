@@ -117,4 +117,6 @@ I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`
 
 - *Stability of long-sustained oscillations induced by electron tunneling* --  `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_
 
+- *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
+
 
