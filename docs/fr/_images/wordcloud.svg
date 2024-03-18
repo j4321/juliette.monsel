@@ -7,152 +7,152 @@
 <text transform="translate(507,159)" font-size="80" style="fill:#173FE7FF">system</text>
 <text transform="translate(463,228)" font-size="36" style="fill:#063FF8FF">optomechanical</text>
 <text transform="translate(112,252)" font-size="36" style="fill:#B23F4CFF">work</text>
-<text transform="translate(529,260)" font-size="34" style="fill:#963F68FF">regime</text>
-<text transform="translate(200,26)" font-size="34" style="fill:#C13F3DFF">interaction</text>
-<text transform="translate(62,211)" font-size="32" style="fill:#563FA8FF">frequency</text>
-<text transform="translate(554,199)" font-size="30" style="fill:#553FA9FF">mechanical</text>
-<text transform="translate(65,81)" font-size="30" style="fill:#5B3FA3FF">cooling</text>
-<text transform="translate(108,109)" font-size="30" style="fill:#CD3F31FF">charge</text>
-<text transform="translate(545,287)" font-size="28" style="fill:#1F3FDFFF">motion</text>
-<text transform="translate(51,188) rotate(-90)" font-size="28" style="fill:#8C3F72FF">optical</text>
-<text transform="translate(418,110)" font-size="28" style="fill:#933F6BFF">cavity</text>
-<text transform="translate(611,63)" font-size="28" style="fill:#A83F56FF">battery</text>
-<text transform="translate(610,84)" font-size="26" style="fill:#DA3F24FF">single</text>
-<text transform="translate(290,202)" font-size="26" style="fill:#463FB8FF">microcavity</text>
-<text transform="translate(586,110)" font-size="26" style="fill:#293FD5FF">noise</text>
-<text transform="translate(119,271)" font-size="26" style="fill:#B23F4CFF">driving</text>
-<text transform="translate(511,19)" font-size="26" style="fill:#9B3F63FF">energy</text>
-<text transform="translate(73,129)" font-size="19" style="fill:#3E3FC0FF">mechanical resonator</text>
-<text transform="translate(628,173)" font-size="18" style="fill:#FC3F02FF">mechanism</text>
-<text transform="translate(220,294)" font-size="18" style="fill:#383FC6FF">light</text>
-<text transform="translate(92,41)" font-size="18" style="fill:#3A3FC4FF">heat</text>
-<text transform="translate(693,107)" font-size="18" style="fill:#663F98FF">pumping</text>
-<text transform="translate(385,287)" font-size="16" style="fill:#DF3F1FFF">sideband</text>
-<text transform="translate(656,275)" font-size="16" style="fill:#643F9AFF">mode</text>
-<text transform="translate(22,199) rotate(-90)" font-size="16" style="fill:#243FDAFF">temperature</text>
-<text transform="translate(215,250)" font-size="16" style="fill:#893F75FF">even</text>
-<text transform="translate(189,231)" font-size="16" style="fill:#E43F1AFF">electron</text>
-<text transform="translate(253,103)" font-size="16" style="fill:#FE3F00FF">thermodynamic</text>
-<text transform="translate(35,223)" font-size="16" style="fill:#173FE7FF">qubit</text>
-<text transform="translate(628,38)" font-size="16" style="fill:#263FD8FF">machine</text>
-<text transform="translate(614,240)" font-size="16" style="fill:#6B3F93FF">fluctuation</text>
-<text transform="translate(468,244)" font-size="14" style="fill:#973F67FF">open</text>
-<text transform="translate(442,121)" font-size="14" style="fill:#F73F07FF">coupled</text>
-<text transform="translate(66,52)" font-size="14" style="fill:#AD3F51FF">experimental</text>
-<text transform="translate(62,249)" font-size="14" style="fill:#BF3F3FFF">fully</text>
-<text transform="translate(657,258)" font-size="14" style="fill:#1C3FE2FF">resonance</text>
-<text transform="translate(475,275)" font-size="14" style="fill:#003FFEFF">based</text>
-<text transform="translate(730,180)" font-size="14" style="fill:#F73F07FF">state</text>
-<text transform="translate(143,283)" font-size="14" style="fill:#E83F16FF">dynamics</text>
-<text transform="translate(535,111)" font-size="14" style="fill:#D63F28FF">field</text>
-<text transform="translate(254,212)" font-size="14" style="fill:#263FD8FF">current</text>
-<text transform="translate(115,229)" font-size="14" style="fill:#F33F0BFF">thermal</text>
-<text transform="translate(439,43) rotate(-90)" font-size="14" style="fill:#983F66FF">bound</text>
-<text transform="translate(129,28)" font-size="14" style="fill:#EC3F12FF">driven</text>
-<text transform="translate(129,189)" font-size="14" style="fill:#3D3FC1FF">power</text>
-<text transform="translate(403,163) rotate(-90)" font-size="14" style="fill:#F13F0DFF">performance</text>
-<text transform="translate(411,298)" font-size="14" style="fill:#D03F2EFF">oscillations</text>
-<text transform="translate(211,171) rotate(-90)" font-size="14" style="fill:#C33F3BFF">setup</text>
-<text transform="translate(61,163) rotate(-90)" font-size="14" style="fill:#F13F0DFF">ground state</text>
-<text transform="translate(287,223)" font-size="14" style="fill:#F53F09FF">fano mirror</text>
-<text transform="translate(779,113) rotate(-90)" font-size="12" style="fill:#B53F49FF">high</text>
-<text transform="translate(651,249)" font-size="12" style="fill:#A53F59FF">demonstration</text>
-<text transform="translate(514,237)" font-size="12" style="fill:#733F8BFF">suspended</text>
-<text transform="translate(466,18)" font-size="12" style="fill:#563FA8FF">device</text>
-<text transform="translate(344,112)" font-size="12" style="fill:#963F68FF">results</text>
-<text transform="translate(487,28)" font-size="12" style="fill:#3A3FC4FF">platforms</text>
-<text transform="translate(417,260) rotate(-90)" font-size="12" style="fill:#543FAAFF">mirror</text>
-<text transform="translate(671,93)" font-size="12" style="fill:#AA3F54FF">standard</text>
-<text transform="translate(70,100)" font-size="12" style="fill:#B83F46FF">well</text>
-<text transform="translate(463,286)" font-size="12" style="fill:#783F86FF">effective</text>
-<text transform="translate(749,197)" font-size="12" style="fill:#303FCEFF">strong</text>
-<text transform="translate(333,296)" font-size="12" style="fill:#5A3FA4FF">strength</text>
-<text transform="translate(605,23)" font-size="12" style="fill:#AB3F53FF">acting</text>
-<text transform="translate(412,118) rotate(-90)" font-size="12" style="fill:#0F3FEFFF">parameters</text>
-<text transform="translate(524,296)" font-size="12" style="fill:#DB3F23FF">present</text>
-<text transform="translate(33,234)" font-size="11" style="fill:#883F76FF">equilibrium</text>
-<text transform="translate(711,78)" font-size="11" style="fill:#473FB7FF">transport</text>
-<text transform="translate(139,37)" font-size="11" style="fill:#703F8EFF">geometric</text>
-<text transform="translate(428,215)" font-size="11" style="fill:#183FE6FF">cycle</text>
-<text transform="translate(243,215) rotate(-90)" font-size="11" style="fill:#D53F29FF">refrigerator</text>
-<text transform="translate(358,166) rotate(-90)" font-size="11" style="fill:#2A3FD4FF">coherent</text>
-<text transform="translate(540,92)" font-size="8" style="fill:#DC3F22FF">suspended carbon</text>
-<text transform="translate(70,180) rotate(-90)" font-size="8" style="fill:#603F9EFF">carbon nanotube</text>
-<text transform="translate(8,185) rotate(-90)" font-size="8" style="fill:#EC3F12FF">nanotube device</text>
-<text transform="translate(524,205)" font-size="8" style="fill:#6B3F93FF">photonic crystal</text>
-<text transform="translate(310,274) rotate(-90)" font-size="7" style="fill:#A83F56FF">fundamental</text>
-<text transform="translate(508,166)" font-size="7" style="fill:#4B3FB3FF">applications</text>
-<text transform="translate(184,173) rotate(-90)" font-size="7" style="fill:#BB3F43FF">long</text>
-<text transform="translate(175,189)" font-size="7" style="fill:#0E3FF0FF">information</text>
-<text transform="translate(224,237)" font-size="7" style="fill:#EA3F14FF">previous</text>
-<text transform="translate(170,59)" font-size="7" style="fill:#F43F0AFF">report</text>
-<text transform="translate(228,115)" font-size="7" style="fill:#113FEDFF">observe</text>
-<text transform="translate(517,177)" font-size="7" style="fill:#663F98FF">resonant</text>
-<text transform="translate(363,275) rotate(-90)" font-size="7" style="fill:#3E3FC0FF">respectively</text>
-<text transform="translate(467,69)" font-size="7" style="fill:#6A3F94FF">develop</text>
-<text transform="translate(524,267)" font-size="7" style="fill:#503FAEFF">complete</text>
-<text transform="translate(461,253)" font-size="7" style="fill:#3C3FC2FF">theoretical</text>
-<text transform="translate(519,186)" font-size="7" style="fill:#743F8AFF">model</text>
-<text transform="translate(379,54) rotate(-90)" font-size="7" style="fill:#023FFCFF">form</text>
-<text transform="translate(734,90)" font-size="7" style="fill:#123FECFF">provides</text>
-<text transform="translate(580,173)" font-size="7" style="fill:#213FDDFF">operation</text>
-<text transform="translate(687,44)" font-size="7" style="fill:#E03F1EFF">wavelength</text>
-<text transform="translate(96,62)" font-size="7" style="fill:#6F3F8FFF">cost</text>
-<text transform="translate(295,147)" font-size="7" style="fill:#9B3F63FF">loss</text>
-<text transform="translate(295,178) rotate(-90)" font-size="7" style="fill:#863F78FF">rate</text>
-<text transform="translate(492,261)" font-size="7" style="fill:#4C3FB2FF">analyze</text>
-<text transform="translate(90,152)" font-size="7" style="fill:#433FBBFF">dependent</text>
-<text transform="translate(336,281)" font-size="7" style="fill:#8D3F71FF">importantly</text>
-<text transform="translate(177,292)" font-size="7" style="fill:#353FC9FF">output</text>
-<text transform="translate(506,246)" font-size="7" style="fill:#A13F5DFF">laser</text>
-<text transform="translate(27,196)" font-size="7" style="fill:#403FBEFF">phonon</text>
-<text transform="translate(317,82) rotate(-90)" font-size="7" style="fill:#173FE7FF">optomechanics</text>
-<text transform="translate(729,166)" font-size="7" style="fill:#0B3FF3FF">nonequilibrium</text>
-<text transform="translate(72,87)" font-size="7" style="fill:#A23F5CFF">question</text>
-<text transform="translate(82,266)" font-size="7" style="fill:#8C3F72FF">behave</text>
-<text transform="translate(462,5)" font-size="7" style="fill:#1C3FE2FF">zero</text>
-<text transform="translate(439,273) rotate(-90)" font-size="7" style="fill:#E63F18FF">terminal</text>
-<text transform="translate(319,209)" font-size="7" style="fill:#943F6AFF">conductor</text>
-<text transform="translate(663,102)" font-size="7" style="fill:#0A3FF4FF">voltage</text>
-<text transform="translate(280,292)" font-size="7" style="fill:#CB3F33FF">biases</text>
-<text transform="translate(293,184)" font-size="7" style="fill:#353FC9FF">shot</text>
-<text transform="translate(727,57)" font-size="7" style="fill:#5A3FA4FF">large</text>
-<text transform="translate(274,283)" font-size="7" style="fill:#673F97FF">vanish</text>
-<text transform="translate(403,127)" font-size="7" style="fill:#EC3F12FF">additional</text>
-<text transform="translate(433,71)" font-size="7" style="fill:#F83F06FF">sets</text>
-<text transform="translate(758,211)" font-size="7" style="fill:#063FF8FF">hole</text>
-<text transform="translate(511,195)" font-size="7" style="fill:#C73F37FF">symmetries</text>
-<text transform="translate(19,207)" font-size="7" style="fill:#DC3F22FF">contrast</text>
-<text transform="translate(677,140)" font-size="7" style="fill:#283FD6FF">cyclic</text>
-<text transform="translate(653,205)" font-size="7" style="fill:#DE3F20FF">order</text>
-<text transform="translate(145,87)" font-size="7" style="fill:#323FCCFF">optimal</text>
-<text transform="translate(579,132) rotate(-90)" font-size="7" style="fill:#4D3FB1FF">still</text>
-<text transform="translate(78,107)" font-size="7" style="fill:#383FC6FF">depends</text>
-<text transform="translate(89,160)" font-size="7" style="fill:#533FABFF">magnitude</text>
-<text transform="translate(262,110)" font-size="7" style="fill:#593FA5FF">sign</text>
-<text transform="translate(227,266)" font-size="7" style="fill:#FA3F04FF">detailed</text>
-<text transform="translate(154,15)" font-size="7" style="fill:#1D3FE1FF">weak</text>
-<text transform="translate(554,81) rotate(-90)" font-size="7" style="fill:#943F6AFF">self</text>
-<text transform="translate(287,69) rotate(-90)" font-size="7" style="fill:#1B3FE3FF">hysteresis</text>
-<text transform="translate(686,178)" font-size="7" style="fill:#6F3F8FFF">many</text>
-<text transform="translate(254,84) rotate(-90)" font-size="7" style="fill:#623F9CFF">electronic</text>
-<text transform="translate(334,166) rotate(-90)" font-size="7" style="fill:#0B3FF3FF">understanding</text>
-<text transform="translate(606,267)" font-size="7" style="fill:#EC3F12FF">ultrastrong</text>
-<text transform="translate(28,165) rotate(-90)" font-size="7" style="fill:#EF3F0FFF">electromechanical</text>
-<text transform="translate(476,58)" font-size="7" style="fill:#5C3FA2FF">ratio</text>
-<text transform="translate(254,218)" font-size="7" style="fill:#EA3F14FF">onsite</text>
-<text transform="translate(617,179)" font-size="7" style="fill:#B73F47FF">fermionic</text>
-<text transform="translate(93,189)" font-size="7" style="fill:#AA3F54FF">duality</text>
-<text transform="translate(228,276)" font-size="7" style="fill:#4B3FB3FF">evolution</text>
-<text transform="translate(696,205)" font-size="7" style="fill:#A93F55FF">equation</text>
-<text transform="translate(470,128)" font-size="7" style="fill:#9C3F62FF">curvatures</text>
-<text transform="translate(75,257)" font-size="7" style="fill:#D43F2AFF">concrete</text>
-<text transform="translate(726,65)" font-size="7" style="fill:#6D3F91FF">analysis</text>
-<text transform="translate(780,180)" font-size="7" style="fill:#523FACFF">give</text>
-<text transform="translate(286,112)" font-size="7" style="fill:#823F7CFF">wave</text>
-<text transform="translate(81,217)" font-size="7" style="fill:#A83F56FF">extracted</text>
-<text transform="translate(234,257)" font-size="7" style="fill:#A13F5DFF">autonomous</text>
-<text transform="translate(719,234)" font-size="7" style="fill:#AB3F53FF">implemented</text>
-<text transform="translate(61,60)" font-size="7" style="fill:#253FD9FF">entropy</text>
-<text transform="translate(286,136)" font-size="7" style="fill:#9B3F63FF">theorem</text>
+<text transform="translate(477,260)" font-size="34" style="fill:#963F68FF">interaction</text>
+<text transform="translate(67,65)" font-size="34" style="fill:#C13F3DFF">regime</text>
+<text transform="translate(72,211)" font-size="32" style="fill:#563FA8FF">frequency</text>
+<text transform="translate(5,123)" font-size="30" style="fill:#1A3FE4FF">mechanical</text>
+<text transform="translate(666,183)" font-size="30" style="fill:#D83F26FF">cooling</text>
+<text transform="translate(524,285)" font-size="30" style="fill:#0B3FF3FF">charge</text>
+<text transform="translate(207,29)" font-size="28" style="fill:#F83F06FF">motion</text>
+<text transform="translate(632,93)" font-size="28" style="fill:#D33F2BFF">optical</text>
+<text transform="translate(405,118)" font-size="28" style="fill:#933F6BFF">cavity</text>
+<text transform="translate(479,21)" font-size="28" style="fill:#A83F56FF">battery</text>
+<text transform="translate(28,93)" font-size="26" style="fill:#DA3F24FF">microcavity</text>
+<text transform="translate(516,202)" font-size="26" style="fill:#463FB8FF">single</text>
+<text transform="translate(157,276)" font-size="26" style="fill:#293FD5FF">noise</text>
+<text transform="translate(327,293)" font-size="26" style="fill:#443FBAFF">driving</text>
+<text transform="translate(55,233) rotate(-90)" font-size="26" style="fill:#123FECFF">energy</text>
+<text transform="translate(259,201)" font-size="17" style="fill:#B93F45FF">mechanical resonator</text>
+<text transform="translate(516,103)" font-size="16" style="fill:#443FBAFF">light</text>
+<text transform="translate(36,226) rotate(-90)" font-size="16" style="fill:#8E3F70FF">mechanism</text>
+<text transform="translate(340,25)" font-size="16" style="fill:#3A3FC4FF">heat</text>
+<text transform="translate(301,99)" font-size="16" style="fill:#663F98FF">pumping</text>
+<text transform="translate(203,293)" font-size="15" style="fill:#F03F0EFF">sideband</text>
+<text transform="translate(331,122)" font-size="15" style="fill:#363FC8FF">mode</text>
+<text transform="translate(260,215)" font-size="15" style="fill:#243FDAFF">temperature</text>
+<text transform="translate(649,276)" font-size="15" style="fill:#8F3F6FFF">even</text>
+<text transform="translate(668,195)" font-size="15" style="fill:#6D3F91FF">electron</text>
+<text transform="translate(625,61)" font-size="15" style="fill:#373FC7FF">thermodynamic</text>
+<text transform="translate(258,277) rotate(-90)" font-size="15" style="fill:#7D3F81FF">qubit</text>
+<text transform="translate(106,32)" font-size="15" style="fill:#263FD8FF">machine</text>
+<text transform="translate(459,296)" font-size="15" style="fill:#983F66FF">fluctuation</text>
+<text transform="translate(137,228)" font-size="14" style="fill:#FE3F00FF">based</text>
+<text transform="translate(600,177)" font-size="14" style="fill:#DB3F23FF">state</text>
+<text transform="translate(87,264)" font-size="14" style="fill:#1D3FE1FF">coupled</text>
+<text transform="translate(562,104)" font-size="14" style="fill:#C33F3BFF">dynamics</text>
+<text transform="translate(250,99)" font-size="14" style="fill:#6E3F90FF">open</text>
+<text transform="translate(194,126)" font-size="14" style="fill:#DF3F1FFF">experimental</text>
+<text transform="translate(202,242)" font-size="14" style="fill:#C23F3CFF">fully</text>
+<text transform="translate(475,28)" font-size="14" style="fill:#DD3F21FF">resonance</text>
+<text transform="translate(416,222)" font-size="14" style="fill:#813F7DFF">field</text>
+<text transform="translate(283,111)" font-size="14" style="fill:#C23F3CFF">current</text>
+<text transform="translate(461,283)" font-size="14" style="fill:#EB3F13FF">thermal</text>
+<text transform="translate(661,201) rotate(-90)" font-size="14" style="fill:#523FACFF">bound</text>
+<text transform="translate(694,105)" font-size="14" style="fill:#E03F1EFF">driven</text>
+<text transform="translate(147,41)" font-size="14" style="fill:#3D3FC1FF">power</text>
+<text transform="translate(620,43)" font-size="14" style="fill:#F13F0DFF">performance</text>
+<text transform="translate(656,239)" font-size="14" style="fill:#D03F2EFF">oscillations</text>
+<text transform="translate(301,172) rotate(-90)" font-size="14" style="fill:#C33F3BFF">setup</text>
+<text transform="translate(378,12)" font-size="14" style="fill:#F13F0DFF">ground state</text>
+<text transform="translate(153,192)" font-size="14" style="fill:#DE3F20FF">fano mirror</text>
+<text transform="translate(608,28)" font-size="12" style="fill:#EC3F12FF">suspended</text>
+<text transform="translate(747,111)" font-size="12" style="fill:#B53F49FF">mirror</text>
+<text transform="translate(195,228)" font-size="12" style="fill:#A53F59FF">standard</text>
+<text transform="translate(705,258)" font-size="12" style="fill:#733F8BFF">well</text>
+<text transform="translate(379,26)" font-size="12" style="fill:#563FA8FF">effective</text>
+<text transform="translate(24,135)" font-size="12" style="fill:#963F68FF">strong</text>
+<text transform="translate(216,256)" font-size="12" style="fill:#0F3FEFFF">high</text>
+<text transform="translate(275,10)" font-size="12" style="fill:#DB3F23FF">demonstration</text>
+<text transform="translate(66,102)" font-size="12" style="fill:#473FB7FF">device</text>
+<text transform="translate(392,98)" font-size="12" style="fill:#B83F46FF">results</text>
+<text transform="translate(45,241)" font-size="12" style="fill:#783F86FF">platforms</text>
+<text transform="translate(59,225)" font-size="12" style="fill:#303FCEFF">strength</text>
+<text transform="translate(387,127)" font-size="12" style="fill:#5A3FA4FF">acting</text>
+<text transform="translate(549,238)" font-size="12" style="fill:#B93F45FF">parameters</text>
+<text transform="translate(147,287)" font-size="12" style="fill:#193FE5FF">present</text>
+<text transform="translate(17,204) rotate(-90)" font-size="12" style="fill:#CC3F32FF">equilibrium</text>
+<text transform="translate(612,70)" font-size="12" style="fill:#303FCEFF">transport</text>
+<text transform="translate(314,190) rotate(-90)" font-size="12" style="fill:#2E3FD0FF">geometric</text>
+<text transform="translate(170,19)" font-size="12" style="fill:#703F8EFF">cycle</text>
+<text transform="translate(582,112)" font-size="11" style="fill:#183FE6FF">refrigerator</text>
+<text transform="translate(466,269)" font-size="11" style="fill:#D53F29FF">coherent</text>
+<text transform="translate(296,221)" font-size="8" style="fill:#2A3FD4FF">suspended carbon</text>
+<text transform="translate(206,113)" font-size="8" style="fill:#DC3F22FF">carbon nanotube</text>
+<text transform="translate(318,88) rotate(-90)" font-size="8" style="fill:#603F9EFF">nanotube device</text>
+<text transform="translate(379,106) rotate(-90)" font-size="8" style="fill:#EC3F12FF">photonic crystal</text>
+<text transform="translate(434,124)" font-size="7" style="fill:#6B3F93FF">wavelength</text>
+<text transform="translate(477,251) rotate(-90)" font-size="7" style="fill:#A83F56FF">cost</text>
+<text transform="translate(186,108)" font-size="7" style="fill:#4B3FB3FF">loss</text>
+<text transform="translate(400,262) rotate(-90)" font-size="7" style="fill:#BB3F43FF">rate</text>
+<text transform="translate(340,162)" font-size="7" style="fill:#0E3FF0FF">analyze</text>
+<text transform="translate(196,96)" font-size="7" style="fill:#0E3FF0FF">dependent</text>
+<text transform="translate(105,273)" font-size="7" style="fill:#2F3FCFFF">importantly</text>
+<text transform="translate(614,196)" font-size="7" style="fill:#DB3F23FF">output</text>
+<text transform="translate(283,281)" font-size="7" style="fill:#3E3FC0FF">laser</text>
+<text transform="translate(87,253)" font-size="7" style="fill:#143FEAFF">phonon</text>
+<text transform="translate(93,190)" font-size="7" style="fill:#503FAEFF">optomechanics</text>
+<text transform="translate(516,113)" font-size="7" style="fill:#3C3FC2FF">fundamental</text>
+<text transform="translate(594,183)" font-size="7" style="fill:#A43F5AFF">applications</text>
+<text transform="translate(469,46)" font-size="7" style="fill:#023FFCFF">long</text>
+<text transform="translate(275,297)" font-size="7" style="fill:#FE3F00FF">information</text>
+<text transform="translate(476,94)" font-size="7" style="fill:#813F7DFF">previous</text>
+<text transform="translate(330,131)" font-size="7" style="fill:#E03F1EFF">report</text>
+<text transform="translate(745,86)" font-size="7" style="fill:#483FB6FF">observe</text>
+<text transform="translate(93,157)" font-size="7" style="fill:#B33F4BFF">resonant</text>
+<text transform="translate(380,188)" font-size="7" style="fill:#863F78FF">respectively</text>
+<text transform="translate(703,201)" font-size="7" style="fill:#4C3FB2FF">develop</text>
+<text transform="translate(88,41)" font-size="7" style="fill:#433FBBFF">complete</text>
+<text transform="translate(741,197)" font-size="7" style="fill:#273FD7FF">theoretical</text>
+<text transform="translate(81,71)" font-size="7" style="fill:#B63F48FF">model</text>
+<text transform="translate(441,279)" font-size="7" style="fill:#D93F25FF">form</text>
+<text transform="translate(754,97)" font-size="7" style="fill:#E63F18FF">provides</text>
+<text transform="translate(613,16)" font-size="7" style="fill:#A13F5DFF">operation</text>
+<text transform="translate(698,67)" font-size="7" style="fill:#003FFEFF">nonequilibrium</text>
+<text transform="translate(515,169)" font-size="7" style="fill:#F93F05FF">question</text>
+<text transform="translate(383,147)" font-size="7" style="fill:#8C3F72FF">behave</text>
+<text transform="translate(202,7)" font-size="7" style="fill:#1C3FE2FF">zero</text>
+<text transform="translate(410,79) rotate(-90)" font-size="7" style="fill:#8B3F73FF">terminal</text>
+<text transform="translate(417,207)" font-size="7" style="fill:#8C3F72FF">conductor</text>
+<text transform="translate(463,54)" font-size="7" style="fill:#4E3FB0FF">voltage</text>
+<text transform="translate(680,33)" font-size="7" style="fill:#E53F19FF">biases</text>
+<text transform="translate(680,142)" font-size="7" style="fill:#AA3F54FF">shot</text>
+<text transform="translate(520,177)" font-size="7" style="fill:#E13F1DFF">large</text>
+<text transform="translate(640,285)" font-size="7" style="fill:#BF3F3FFF">vanish</text>
+<text transform="translate(606,165) rotate(-90)" font-size="7" style="fill:#DC3F22FF">additional</text>
+<text transform="translate(576,266) rotate(-90)" font-size="7" style="fill:#2D3FD1FF">sets</text>
+<text transform="translate(468,67)" font-size="7" style="fill:#BB3F43FF">hole</text>
+<text transform="translate(675,112)" font-size="7" style="fill:#CC3F32FF">symmetries</text>
+<text transform="translate(131,101)" font-size="7" style="fill:#443FBAFF">contrast</text>
+<text transform="translate(166,71)" font-size="7" style="fill:#613F9DFF">cyclic</text>
+<text transform="translate(341,153)" font-size="7" style="fill:#383FC6FF">order</text>
+<text transform="translate(56,250)" font-size="7" style="fill:#593FA5FF">optimal</text>
+<text transform="translate(611,77)" font-size="7" style="fill:#383FC6FF">still</text>
+<text transform="translate(757,207)" font-size="7" style="fill:#533FABFF">depends</text>
+<text transform="translate(17,102)" font-size="7" style="fill:#593FA5FF">magnitude</text>
+<text transform="translate(711,245)" font-size="7" style="fill:#543FAAFF">sign</text>
+<text transform="translate(654,99)" font-size="7" style="fill:#2D3FD1FF">detailed</text>
+<text transform="translate(182,141) rotate(-90)" font-size="7" style="fill:#093FF5FF">weak</text>
+<text transform="translate(56,143)" font-size="7" style="fill:#B93F45FF">self</text>
+<text transform="translate(147,258)" font-size="7" style="fill:#FA3F04FF">hysteresis</text>
+<text transform="translate(636,264)" font-size="7" style="fill:#933F6BFF">many</text>
+<text transform="translate(591,266)" font-size="7" style="fill:#6F3F8FFF">electronic</text>
+<text transform="translate(311,283) rotate(-90)" font-size="7" style="fill:#893F75FF">understanding</text>
+<text transform="translate(258,87) rotate(-90)" font-size="7" style="fill:#6D3F91FF">ultrastrong</text>
+<text transform="translate(70,214) rotate(-90)" font-size="7" style="fill:#9E3F60FF">electromechanical</text>
+<text transform="translate(43,62)" font-size="7" style="fill:#B73F47FF">ratio</text>
+<text transform="translate(384,167)" font-size="7" style="fill:#AA3F54FF">onsite</text>
+<text transform="translate(467,206)" font-size="7" style="fill:#8D3F71FF">fermionic</text>
+<text transform="translate(550,183)" font-size="7" style="fill:#AC3F52FF">duality</text>
+<text transform="translate(462,171) rotate(-90)" font-size="7" style="fill:#913F6DFF">evolution</text>
+<text transform="translate(216,166) rotate(-90)" font-size="7" style="fill:#493FB5FF">equation</text>
+<text transform="translate(676,265)" font-size="7" style="fill:#9A3F64FF">curvatures</text>
+<text transform="translate(631,205)" font-size="7" style="fill:#703F8EFF">concrete</text>
+<text transform="translate(333,170)" font-size="7" style="fill:#CA3F34FF">analysis</text>
+<text transform="translate(417,253) rotate(-90)" font-size="7" style="fill:#2B3FD3FF">give</text>
+<text transform="translate(617,290)" font-size="7" style="fill:#A93F55FF">wave</text>
+<text transform="translate(168,31)" font-size="7" style="fill:#D03F2EFF">extracted</text>
+<text transform="translate(366,206)" font-size="7" style="fill:#4F3FAFFF">autonomous</text>
+<text transform="translate(436,73) rotate(-90)" font-size="7" style="fill:#0B3FF3FF">implemented</text>
+<text transform="translate(364,252) rotate(-90)" font-size="7" style="fill:#D83F26FF">entropy</text>
+<text transform="translate(443,94)" font-size="7" style="fill:#E13F1DFF">theorem</text>
 </svg>

@@ -45,7 +45,7 @@
         "authors": "Juliette Monsel, Jens Schulenborg, Janine Splettstoesser",
         "summary": "Periodically driven quantum dots can act as counterparts of cyclic thermal machines at the nanoscale. In the slow-driving regime of geometric pumping, such machines have been shown to operate in analogy to a Carnot cycle. For larger driving frequencies, which are required in order to increase the cooling power, the efficiency of the operation decreases. Up to which frequency a close-to-optimal performance is still possible depends on the magnitude and sign of on-site electron-electron interaction. Extending our previous detailed study on cyclic quantum-dot refrigerators [`Phys. Rev. B 106, 035405 (2022) <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035405>`_], we here find that the optimal cooling power remains constant up to weak interaction strength compared to the cold-bath temperature. By contrast, the work cost depends on the interaction via the dot's charge relaxation rate, as the latter sets the typical driving frequency for the onset of non-geometric pumping contributions.\n\nThis work is part of the special volume of the `Frontier of Quantum and Mesoscopic Thermodynamics conference 2022 <https://fqmt.fzu.cz/22>`_ in the European Physical Journal Special Topics.",
         "links": [{
-            "reference": "Eur. Phys. J. Spec. Top. (2023)",
+            "reference": "Eur. Phys. J. Spec. Top. 232, 3267–3272",
             "URL": "https://doi.org/10.1140/epjs/s11734-023-00969-4"
         }]
     },
@@ -65,19 +65,15 @@
     },
     "Tabanera-Bravo2022Nov": {
         "kind": "article",
-        "header": "Accepted article",
-        "date": "February 12, 2024",
+        "header": "New article",
+        "date": "March 18, 2024",
         "title": "Stability of long-sustained oscillations induced by electron tunneling",
         "authors": "Jorge Tabanera-Bravo, Florian Vigneau, Juliette Monsel, Kushagra Aggarwal, Léa Bresque, Federico Fedele, Federico Cerisola, G. A. D. Briggs, Janet Anders, Alexia Auffèves, Juan M. R. Parrondo, Natalia Ares",
         "summary": "Self-oscillations are the result of an efficient mechanism generating periodic motion from a constant power source. In quantum devices, these oscillations may arise due to the interaction between single electron dynamics and mechanical motion. Due to the complexity of this mechanism, these self-oscillations may irrupt, vanish, or exhibit a bistable behavior causing hysteresis cycles. We observe these hysteresis cycles and characterize the stability of different regimes in single and double quantum dot configurations. In particular cases, we find these oscillations stable for over 20 seconds, many orders of magnitude above electronic and mechanical characteristic timescales, revealing the robustness of the mechanism at play. The experimental results are reproduced by our theoretical model that provides a complete understanding of bistability in nanoelectromechanical devices.\n\nThis work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics.",
         "links": [
 			{
-				"reference": "Phys. Rev. Research",
-				"URL": "https://journals.aps.org/prresearch/accepted/2e076Ya6Nec1e781443632600fffc0bb46f5fec51"
-			},
-			{
-				"reference": "arXiv:2211.04074",
-				"URL": "https://arxiv.org/abs/2211.04074"
+				"reference": "Phys. Rev. Research 6, 013291",
+				"URL": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291"
 			}
         ]
     },

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-04 11:55+0100\n"
+"POT-Creation-Date: 2024-03-18 15:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,25 +63,30 @@ msgid "Articles"
 msgstr "Articles"
 
 #: ../../source/publications-list.rst:17
-msgid "2023"
+msgid "2024"
 msgstr ""
 
 #: ../../source/publications-list.rst:27
-msgid "2022"
+msgid "2023"
 msgstr ""
 
 #: ../../source/publications-list.rst:37
-msgid "2021"
+msgid "2022"
 msgstr ""
 
 #: ../../source/publications-list.rst:47
-msgid "2020"
+msgid "2021"
 msgstr ""
 
 #: ../../source/publications-list.rst:57
+msgid "2020"
+msgstr ""
+
+#: ../../source/publications-list.rst:67
 msgid "2018"
 msgstr ""
 
-#: ../../source/publications-list.rst:66
+#: ../../source/publications-list.rst:76
 msgid "Books"
 msgstr "Livres"
+

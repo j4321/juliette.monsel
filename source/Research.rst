@@ -115,7 +115,7 @@ I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`
 
 - *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
 
-- *Stability of long-sustained oscillations induced by electron tunneling* --  `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_
+- *Stability of long-sustained oscillations induced by electron tunneling* --  `Phys. Rev. Research 6, 013291  (2024)  <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_
 
 - *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
 

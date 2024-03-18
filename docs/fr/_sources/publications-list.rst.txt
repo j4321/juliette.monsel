@@ -13,6 +13,16 @@ Preprints
 Articles
 --------
 
+.. rubric:: 2024
+
+.. container:: publi
+
+    .. bibliography:: publications.bib
+        :list: bullet
+        :filter: (not cited) and (type == "article") and (year == "2024")
+        :style: mystyle
+
+
 .. rubric:: 2023
 
 .. container:: publi
