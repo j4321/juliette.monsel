@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 15:58+0100\n"
+"POT-Creation-Date: 2024-04-05 09:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../source/Research.rst:2
 msgid "Research"
@@ -290,7 +290,8 @@ msgstr ""
 #: ../../source/Research.rst:118
 msgid ""
 "*Stability of long-sustained oscillations induced by electron tunneling* "
-"--  `arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
+"--  `Phys. Rev. Research 6, 013291  (2024)  "
+"<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_"
 msgstr ""
 
 #: ../../source/Research.rst:120
@@ -298,4 +299,10 @@ msgid ""
 "*Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 "
 "<https://arxiv.org/abs/2402.19288>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "*Stability of long-sustained oscillations "
+#~ "induced by electron tunneling* --  "
+#~ "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
+#~ msgstr ""
 
