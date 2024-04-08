@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-04 11:55+0100\n"
+"POT-Creation-Date: 2024-04-08 13:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../source/CV.rst:2
 msgid "Short CV"
@@ -73,12 +73,14 @@ msgid ""
 "**Research specialist**, `Dept. of Microtechnology and Nanoscience, "
 "Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden."
 msgstr ""
-"**Chercheuse**, `Dept. de Microtechnologie et Nanoscience, "
-"Chalmers Tekniska Högskola <MC2_>`_, Göteborg, Suède."
+"**Chercheuse**, `Dept. de Microtechnologie et Nanoscience, Chalmers "
+"Tekniska Högskola <MC2_>`_, Göteborg, Suède."
 
 #: ../../source/CV.rst:16
 msgid "Permanent researcher in the Applied Quantum Physics Laboratory."
-msgstr "Position permanente dans la division de physique quantique appliquée (AQP)."
+msgstr ""
+"Position permanente dans la division de physique quantique appliquée "
+"(AQP)."
 
 #: ../../source/CV.rst
 msgid "2020 -- 2023"
@@ -210,10 +212,10 @@ msgstr "Langues"
 #: ../../source/CV.rst:55
 msgid ""
 "French (native), English (fluent), Italian (good understanding -- B2), "
-"Swedish (currently learning -- B1)"
+"Swedish (currently learning -- B2)"
 msgstr ""
 "Français (langue maternelle), Anglais (courant), Italien (bonne "
-"compréhension -- B2), Suédois (apprentissage en cours -- B1)"
+"compréhension -- B2), Suédois (apprentissage en cours -- B2)"
 
 #: ../../source/CV.rst
 msgid "Programming"
