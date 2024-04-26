@@ -115,6 +115,16 @@ Contributed talks
 
 Invited seminars
 ----------------
+.. rubric:: 2024
+
+.. container:: publi
+
+    .. bibliography:: conf.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2024") and (keywords == "seminar")
+        :style: mystyle
+
+
 .. rubric:: 2023
 
 .. container:: publi
