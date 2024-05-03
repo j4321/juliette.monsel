@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-05 09:24+0200\n"
+"POT-Creation-Date: 2024-05-03 09:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/news.rst:4
-msgid "*Accepted article* -- April 4, 2024"
+msgid "*New article* -- April 29, 2024"
 msgstr ""
 
 #: ../../source/news.rst:6
@@ -67,10 +67,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/news.rst:18
-msgid ""
-"`Phys. Rev. A "
-"<https://journals.aps.org/pra/accepted/2b078Nb3Z8e1d72772ce95d1c7f975de1bd503b0a>`_"
-" -- `arXiv:2311.15311 <https://arxiv.org/abs/2311.15311>`_"
+msgid "`Phys. Rev. A 109, 043532 <https://doi.org/10.1103/PhysRevA.109.043532>`_"
 msgstr ""
 
 #: ../../source/news.rst:21
@@ -593,5 +590,15 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "`arXiv:2311.15311 <https://arxiv.org/abs/2311.15311>`_"
+#~ msgstr ""
+
+#~ msgid "*Accepted article* -- April 4, 2024"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Phys. Rev. A "
+#~ "<https://journals.aps.org/pra/accepted/2b078Nb3Z8e1d72772ce95d1c7f975de1bd503b0a>`_"
+#~ " -- `arXiv:2311.15311 "
+#~ "<https://arxiv.org/abs/2311.15311>`_"
 #~ msgstr ""
 

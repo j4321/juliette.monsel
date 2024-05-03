@@ -27,19 +27,15 @@
     },
     "Monsel2023Nov": {
         "kind": "article",
-        "header": "Accepted article",
-        "date": "April 4, 2024",
+        "header": "New article",
+        "date": "April 29, 2024",
         "title": "Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror",
         "authors": "Juliette Monsel, Anastasiia Ciers, Sushanth Kini Manjeshwar, Witlef Wieczorek, Janine Splettstoesser",
         "summary": "An optomechanical microcavity can considerably enhance the interaction between light and mechanical motion by confining light to a sub-wavelength volume. However, this comes at the cost of an increased optical loss rate. Therefore, microcavity-based optomechanical systems are placed in the unresolved-sideband regime, preventing sideband-based ground-state cooling. A pathway to reduce optical loss in such systems is to engineer the cavity mirrors, i.e., the optical modes that interact with the mechanical resonator. In our work, we analyze such an optomechanical system, whereby one of the mirrors is strongly frequency-dependent, i.e., a suspended Fano mirror. This optomechanical system consists of two optical modes that couple to the motion of the suspended Fano mirror. We formulate a quantum-coupled-mode description that includes both the standard dispersive optomechanical coupling as well as dissipative coupling. We solve the Langevin equations of the system dynamics in the linear regime showing that ground-state cooling from room temperature can be achieved even if the cavity is per se not in the resolved-sideband regime, but achieves effective sideband resolution through strong optical mode coupling. Importantly, we find that the cavity output spectrum needs to be properly analyzed with respect to the effective laser detuning to infer the phonon occupation of the mechanical resonator. Our work also predicts how to reach the regime of nonlinear quantum optomechanics in a Fano-based microcavity by engineering the properties of the Fano mirror.\n\nThis work is the in-depth theory article associated with the experimental work `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_.",
         "links": [
             {
-                "reference": "Phys. Rev. A",
-                "URL": "https://journals.aps.org/pra/accepted/2b078Nb3Z8e1d72772ce95d1c7f975de1bd503b0a"
-            },
-            {
-                "reference": "arXiv:2311.15311",
-                "URL": "https://arxiv.org/abs/2311.15311"
+                "reference": "Phys. Rev. A 109, 043532",
+                "URL": "https://doi.org/10.1103/PhysRevA.109.043532"
             }
         ]
     },
