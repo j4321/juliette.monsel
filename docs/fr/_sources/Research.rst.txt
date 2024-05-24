@@ -35,8 +35,11 @@ In collaboration with `Witlef Wieczorek's experimental group <https://wieczorek-
    
 and modeled all the optomechanical effects taking place in a microcavity with a suspended photonic crystal mirror.
 
-- *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* -- `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_
-- *Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror* -- `arXiv:2311.15311 <https://arxiv.org/abs/2311.15311>`_
+- *Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector* -- `Opt. Express 31, 30212 (2023) <https://doi.org/10.1364/OE.496447>`_
+
+- *Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror* -- `Phys. Rev. A 109, 043532 (2024) <https://doi.org/10.1103/PhysRevA.109.043532>`_
+
+- *Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror* -- `arXiv:2405.13624 <https://arxiv.org/abs/2405.13624>`_
 
 
 
@@ -96,7 +99,7 @@ A quantum dot is weakly coupled to two baths, namely is two electron reservoirs 
 
 and beyond the first correction, for a more traditional four-stroke refrigeration cycle.
 
-- *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `arXiv:2303.15420 <https://arxiv.org/abs/2303.15420>`_ 
+- *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `Eur. Phys. J. Spec. Top. 232, 3267–3272 (2023) <https://arxiv.org/abs/2303.15420>`_ 
 
 
 

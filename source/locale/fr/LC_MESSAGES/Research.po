@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-05 09:24+0200\n"
+"POT-Creation-Date: 2024-05-24 09:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,21 +122,28 @@ msgstr ""
 msgid ""
 "*Integrated microcavity optomechanics with a suspended photonic crystal "
 "mirror above a distributed Bragg reflector* -- `Opt. Express 31, 30212 "
-"<https://doi.org/10.1364/OE.496447>`_"
+"(2023) <https://doi.org/10.1364/OE.496447>`_"
 msgstr ""
 
-#: ../../source/Research.rst:39
+#: ../../source/Research.rst:40
 msgid ""
 "*Dissipative and dispersive cavity optomechanics with a frequency-"
-"dependent mirror* -- `arXiv:2311.15311 "
-"<https://arxiv.org/abs/2311.15311>`_"
+"dependent mirror* -- `Phys. Rev. A 109, 043532 (2024) "
+"<https://doi.org/10.1103/PhysRevA.109.043532>`_"
 msgstr ""
 
-#: ../../source/Research.rst:44
+#: ../../source/Research.rst:42
+msgid ""
+"*Coherent feedback control for cavity optomechanical systems with a "
+"frequency-dependent mirror* -- `arXiv:2405.13624 "
+"<https://arxiv.org/abs/2405.13624>`_"
+msgstr ""
+
+#: ../../source/Research.rst:47
 msgid "Hybrid optomechanical systems"
 msgstr "Systèmes hybrides optomécaniques"
 
-#: ../../source/Research.rst:48
+#: ../../source/Research.rst:51
 #, fuzzy
 msgid ""
 "This is a different kind of optomechanical system where the optical part "
@@ -152,7 +159,7 @@ msgid ""
 "fluctuation theorems in open quantum systems."
 msgstr ""
 
-#: ../../source/Research.rst:56
+#: ../../source/Research.rst:59
 msgid ""
 "*An Autonomous Quantum Machine to Measure the Thermodynamic Arrow of "
 "Time* -- `npj Quantum Inf. 4, 1 (2018) "
@@ -161,11 +168,11 @@ msgid ""
 "<https://www.youtube.com/watch?v=jhzOAz8H2UU>`_"
 msgstr ""
 
-#: ../../source/Research.rst:62
+#: ../../source/Research.rst:65
 msgid "One-dimensional atoms"
 msgstr "Atomes unidimensionnel"
 
-#: ../../source/Research.rst:66
+#: ../../source/Research.rst:69
 #, fuzzy
 msgid ""
 "A qubit is embeded in a one-dimenstional waveguide and the battery is the"
@@ -175,7 +182,7 @@ msgid ""
 "coherences on work exchanges."
 msgstr ""
 
-#: ../../source/Research.rst:71
+#: ../../source/Research.rst:74
 msgid ""
 "*The Energetic Cost of Work Extraction* -- `Phys. Rev. Lett. 124, 130601 "
 "(2020) <https://doi.org/10.1103/PhysRevLett.124.130601>`_ -- `Video of my"
@@ -183,15 +190,15 @@ msgid ""
 "<https://www.youtube.com/watch?v=AItlKhvJBt0>`_"
 msgstr ""
 
-#: ../../source/Research.rst:75
+#: ../../source/Research.rst:78
 msgid "Electronic systems"
 msgstr "Systèmes électroniques"
 
-#: ../../source/Research.rst:79
+#: ../../source/Research.rst:82
 msgid "Mesoscopic conductors"
 msgstr ""
 
-#: ../../source/Research.rst:83
+#: ../../source/Research.rst:86
 msgid ""
 "We study transport in mesoscopic conductors connected to two terminal or "
 "more with a scattering approach. We are particularly interested in "
@@ -199,7 +206,7 @@ msgid ""
 " the average current is zero (for spin, charge, heat, ...)."
 msgstr ""
 
-#: ../../source/Research.rst:85
+#: ../../source/Research.rst:88
 msgid ""
 "*Charge, spin, and heat shot noises in the absence of average currents: "
 "Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B "
@@ -207,11 +214,11 @@ msgid ""
 "<https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_"
 msgstr ""
 
-#: ../../source/Research.rst:89
+#: ../../source/Research.rst:92
 msgid "Driven quantum dots"
 msgstr "Boîtes quantiques"
 
-#: ../../source/Research.rst:93
+#: ../../source/Research.rst:96
 #, fuzzy
 msgid ""
 "A quantum dot is weakly coupled to two baths, namely is two electron "
@@ -231,7 +238,7 @@ msgstr ""
 "d'énergie pour des modulation périodiques lentes, jusqu'à la première "
 "correction non-adiabatique."
 
-#: ../../source/Research.rst:95
+#: ../../source/Research.rst:98
 msgid ""
 "*Geometric energy transport and refrigeration with driven quantum dots* "
 "-- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion "
@@ -240,30 +247,30 @@ msgid ""
 "content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_"
 msgstr ""
 
-#: ../../source/Research.rst:97
+#: ../../source/Research.rst:100
 msgid ""
 "and beyond the first correction, for a more traditional four-stroke "
 "refrigeration cycle."
 msgstr ""
 
-#: ../../source/Research.rst:99
+#: ../../source/Research.rst:102
 msgid ""
 "*Non-geometric pumping effects on the performance of interacting quantum-"
-"dot heat engines* -- `arXiv:2303.15420 "
+"dot heat engines* -- `Eur. Phys. J. Spec. Top. 232, 3267–3272 (2023) "
 "<https://arxiv.org/abs/2303.15420>`_"
 msgstr ""
 
-#: ../../source/Research.rst:103
+#: ../../source/Research.rst:106
 msgid ""
 "We also use fermionic duality at the jump operator level to explore the "
 "stochastic thermodynamics of such kind of systems."
 msgstr ""
 
-#: ../../source/Research.rst:107
+#: ../../source/Research.rst:110
 msgid "Suspended carbon nanotubes"
 msgstr "Nanotubes de carbone suspendus"
 
-#: ../../source/Research.rst:112
+#: ../../source/Research.rst:115
 #, fuzzy
 msgid ""
 "These devices combine electronic transport and mechanical degrees of "
@@ -272,7 +279,7 @@ msgid ""
 "devices similar to hybrid optomechanical systems."
 msgstr ""
 
-#: ../../source/Research.rst:114
+#: ../../source/Research.rst:117
 msgid ""
 "I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-"
 "grants/>`_ project Nanomechanics in the solid-state for quantum "
@@ -280,21 +287,21 @@ msgid ""
 "ares.com/>`_ (Oxford University, UK)."
 msgstr ""
 
-#: ../../source/Research.rst:116
+#: ../../source/Research.rst:119
 msgid ""
 "*Ultrastrong coupling between electron tunnelling and mechanical motion* "
 "--  `Phys. Rev. Research 4, 043168  (2022) "
 "<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_"
 msgstr ""
 
-#: ../../source/Research.rst:118
+#: ../../source/Research.rst:121
 msgid ""
 "*Stability of long-sustained oscillations induced by electron tunneling* "
 "--  `Phys. Rev. Research 6, 013291  (2024)  "
 "<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_"
 msgstr ""
 
-#: ../../source/Research.rst:120
+#: ../../source/Research.rst:123
 msgid ""
 "*Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 "
 "<https://arxiv.org/abs/2402.19288>`_"
@@ -304,5 +311,27 @@ msgstr ""
 #~ "*Stability of long-sustained oscillations "
 #~ "induced by electron tunneling* --  "
 #~ "`arXiv:2211.04074 <https://arxiv.org/abs/2211.04074>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Integrated microcavity optomechanics with a"
+#~ " suspended photonic crystal mirror above"
+#~ " a distributed Bragg reflector* -- "
+#~ "`Opt. Express 31, 30212 "
+#~ "<https://doi.org/10.1364/OE.496447>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Dissipative and dispersive cavity "
+#~ "optomechanics with a frequency-dependent "
+#~ "mirror* -- `arXiv:2311.15311 "
+#~ "<https://arxiv.org/abs/2311.15311>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Non-geometric pumping effects on the"
+#~ " performance of interacting quantum-dot "
+#~ "heat engines* -- `arXiv:2303.15420 "
+#~ "<https://arxiv.org/abs/2303.15420>`_"
 #~ msgstr ""
 
