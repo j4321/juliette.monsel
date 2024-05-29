@@ -190,6 +190,53 @@
 %        \field{title}
 %    }
 %} 
+%
+
+\DeclareBibliographyCategory{preprints}
+\DeclareBibliographyCategory{articles}
+\DeclareBibliographyCategory{books}
+\DeclareBibliographyCategory{invited}
+\DeclareBibliographyCategory{seminar}
+\DeclareBibliographyCategory{poster}
+\DeclareBibliographyCategory{contributed}
+\newcounter{preprints}
+\newcounter{articles}
+\newcounter{books}
+\newcounter{invited}
+\newcounter{seminar}
+\newcounter{poster}
+\newcounter{contributed}
+\AtDataInput{%
+    \ifboolexpr{ test {\ifkeyword{preprint}} }
+    {\addtocategory{preprints}{\thefield{entrykey}}%
+     \stepcounter{preprints}}
+    {}%
+    \ifboolexpr{ test {\ifkeyword{publi}} }
+    {\addtocategory{articles}{\thefield{entrykey}}%
+     \stepcounter{articles}}
+    {}
+    \ifboolexpr{ test {\ifkeyword{book}} }
+    {\addtocategory{books}{\thefield{entrykey}}%
+     \stepcounter{books}}
+    {}
+    \ifboolexpr{ test {\ifkeyword{invited}} }
+    {\addtocategory{invited}{\thefield{entrykey}}%
+     \stepcounter{invited}}
+    {}
+    \ifboolexpr{ test {\ifkeyword{seminar}} }
+    {\addtocategory{seminar}{\thefield{entrykey}}%
+     \stepcounter{seminar}}
+    {}
+    \ifboolexpr{ test {\ifkeyword{poster}} }
+    {\addtocategory{poster}{\thefield{entrykey}}%
+     \stepcounter{poster}}
+    {}
+    \ifboolexpr{ test {\ifkeyword{contributed}} }
+    {\addtocategory{contributed}{\thefield{entrykey}}%
+     \stepcounter{contributed}}
+    {}
+}
+    
 \underlineauthor{Monsel, Juliette}
 \addbibresource{../publications.bib}
 \addbibresource{../conf.bib}
@@ -327,35 +374,40 @@
 
 %\newpage
 \nocite{*}
+
 \section{Publications}
+%\cvitem{Summary}{\printbibliography[env=counter, heading=counter, keyword={preprint}]\therefs preprints, \printbibliography[env=counter, heading=counter, keyword={publi}]\therefs articles, \printbibliography[env=counter, heading=counter, keyword={book}]\therefs book.}
+\cvitem{Summary}{\arabic{preprints} preprints, \arabic{articles} peer-reviewed articles, \arabic{books} book.}
 \subsection{Preprints}
-\printbibliography[title={Preprints}, keyword={preprint}]
+\printbibliography[env=CV, category=preprints]
 \renewcommand*{\bibyear}{}
 \subsection{Articles}
-\printbibliography[title={Articles}, keyword={publi}]
+\printbibliography[env=CV, category=articles]
 \renewcommand*{\bibyear}{}
 \subsection{Books}
-\printbibliography[title={Books}, keyword={book}]
+\printbibliography[env=CV, category=books]
 \renewcommand*{\bibyear}{}
+
 
 
 \section{Conferences and seminars} 
+\cvitem{Summary}{\arabic{invited} invited talks, \arabic{contributed} contributed talks, \arabic{seminar} seminars and \arabic{poster} poster presentations.}
 \subsection{Invited talks}
-\printbibliography[title={Invited talks}, keyword={invited}]
+\printbibliography[env=CV, category=invited]
 \renewcommand*{\bibyear}{}
 %\vspace{0.1cm}
 %\newpage
 \subsection{Contributed talks}
-\printbibliography[title={Contributed talks}, keyword={contributed}]
+\printbibliography[env=CV, category=contributed]
 \renewcommand*{\bibyear}{}
 %\vspace{0.1cm}
 %\newpage
 \subsection{Invited seminars}
-\printbibliography[title={Invited seminars}, keyword={seminar}]
+\printbibliography[env=CV, category=seminar]
 \renewcommand*{\bibyear}{}
 %\vspace{0.1cm}
 \subsection{Contributed posters}
-\printbibliography[title={Contributed posters}, keyword={poster}]
+\printbibliography[env=CV, category=poster]
 \renewcommand*{\bibyear}{}
 
 
@@ -404,9 +456,9 @@
 %\cvitem[0.4em]{OS}{Linux, Windows, MacOS}
 %\cvitem[0.4em]{Text processing}{\LaTeX, LibreOffice}
 
-\section{Interests}
-\cvitem[0.4em]{Bicycle}{My main mean of transportation since 2017, volunteer mechanic and board member in Do-It-Yourself bicycle workshops.}
-\cvitem[0.4em]{Programming}{\colorhref{https://github.com/j4321/}{Open-source software} development with Python, answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}.}
+%\section{Interests}
+%\cvitem[0.4em]{Bicycle}{My main mean of transportation since 2017, volunteer mechanic and board member in Do-It-Yourself bicycle workshops.}
+%\cvitem[0.4em]{Programming}{\colorhref{https://github.com/j4321/}{Open-source software} development with Python, answering questions on \colorhref{https://stackoverflow.com/users/6415268/j-4321}{StackOverflow}.}
 %\cvitem[0.4em]{Reading}{Novels, mostly mysteries, in English (Michael Connelly, Peter Robinson) and in French (Fred Vargas).}
 
 
