@@ -36,6 +36,8 @@ It documents some of the skills that I acquired during my doctorate and mostly f
 
 :Oct. 2020 -- current: Assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.
 
+:Mar. -- Aug. 2024: Co-supervisor of a master student from Grenoble INP Phelma (France) at MC2, Chalmers University of Technology for a six-month project.
+
 :Apr. -- Jul. 2022: Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.
 
 :Oct. 2021 -- Jul. 2022: Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.
