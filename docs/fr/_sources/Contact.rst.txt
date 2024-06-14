@@ -14,6 +14,7 @@ Contact
     | Sweden
     |
     | office: B527 at MC2, Kemivägen 9
+    | phone: +46 31 772 25 59
 
 
 .. openstreetmap:: MC2, Chalmers
