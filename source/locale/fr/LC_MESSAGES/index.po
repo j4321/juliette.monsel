@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Juliette Monsel \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-24 09:59+0200\n"
+"POT-Creation-Date: 2024-07-30 15:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: ../../source/index.rst:47
+#: ../../source/index.rst:49
 msgid "My research webpage:"
 msgstr "Ma page personnelle"
 
@@ -27,13 +27,13 @@ msgstr "Juliette Monsel"
 
 #: ../../source/index.rst:15
 msgid ""
-"I am a researcher in the Applied Quantum Physics Laboratory, in the "
-"Department of Microtechnology and Nanoscience at `Chalmers University of "
-"Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden."
+"I am a researcher in the group `Dynamics and thermodynamics of nanoscale "
+"devices <https://sites.google.com/site/splettchalmers/research-group>`_, "
+"in the `Applied Quantum Physics Laboratory "
+"<https://www.chalmers.se/en/departments/mc2/research/applied-quantum-"
+"physics/>`_, in the Department of Microtechnology and Nanoscience at "
+"Chalmers University of Technology, in Gothenburg, Sweden."
 msgstr ""
-"Je suis une chercheuse la division de physique quantique appliquée (AQP),"
-" au Département de Microtechnologie et Nanoscience à `Chalmers University"
-" of Technology <https://www.chalmers.se/en/>`_, à Göteborg, Suède."
 
 #: ../../source/index.rst:17
 msgid ""
@@ -95,7 +95,15 @@ msgstr "l'optique quantique"
 msgid "electronic transport"
 msgstr "le transport électronique"
 
-#: ../../source/index.rst:42
+#: ../../source/index.rst:39
+msgid ""
+"For open positions, see Janine Splettstoesser's group webpage `Dynamics "
+"and thermodynamics of nanoscale devices "
+"<https://sites.google.com/site/splettchalmers/research-group/open-"
+"positions>`_."
+msgstr ""
+
+#: ../../source/index.rst:44
 msgid "News"
 msgstr "Récent"
 
@@ -732,4 +740,19 @@ msgstr ""
 #~ " -- `arXiv:2311.15311 "
 #~ "<https://arxiv.org/abs/2311.15311>`_"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "I am a researcher in the Applied"
+#~ " Quantum Physics Laboratory, in the "
+#~ "Department of Microtechnology and Nanoscience"
+#~ " at `Chalmers University of Technology "
+#~ "<https://www.chalmers.se/en/>`_, in Gothenburg, "
+#~ "Sweden."
+#~ msgstr ""
+#~ "Je suis une chercheuse la division "
+#~ "de physique quantique appliquée (AQP), "
+#~ "au Département de Microtechnologie et "
+#~ "Nanoscience à `Chalmers University of "
+#~ "Technology <https://www.chalmers.se/en/>`_, à "
+#~ "Göteborg, Suède."
 

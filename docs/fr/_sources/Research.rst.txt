@@ -1,6 +1,8 @@
 Research
 ========
 
+See also the *Dynamics and thermodynamics of nanoscale devices* group `webpage <https://sites.google.com/site/splettchalmers/research-group>`_.
+
 Quantum thermodynamics
 ----------------------
 

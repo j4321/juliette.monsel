@@ -12,7 +12,7 @@ Juliette Monsel
     :align: right
 
   
-I am a researcher in the Applied Quantum Physics Laboratory, in the Department of Microtechnology and Nanoscience at `Chalmers University of Technology <https://www.chalmers.se/en/>`_, in Gothenburg, Sweden. 
+I am a researcher in the group `Dynamics and thermodynamics of nanoscale devices <https://sites.google.com/site/splettchalmers/research-group>`_, in the `Applied Quantum Physics Laboratory <https://www.chalmers.se/en/departments/mc2/research/applied-quantum-physics/>`_, in the Department of Microtechnology and Nanoscience at Chalmers University of Technology, in Gothenburg, Sweden. 
 
 I did my Ph.D. under the supervision of `Alexia Auffèves <https://quantum-energy-team.cnrs.fr/>`_
 at the `Institut Néel <https://neel.cnrs.fr/>`_ (CNRS, Université Grenoble Alpes) in Grenoble, France. 
@@ -35,6 +35,8 @@ My research interests are:
 - electronic transport
 
 |
+
+For open positions, see Janine Splettstoesser's group webpage `Dynamics and thermodynamics of nanoscale devices <https://sites.google.com/site/splettchalmers/research-group/open-positions>`_.
 
 ------------
     
