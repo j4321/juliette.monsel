@@ -25,9 +25,9 @@ help:
 
 preview:
 	@make html
-	@sphinx-build -b html -D language=fr source build/html/fr
+#~ 	@sphinx-build -b html -D language=fr source build/html/fr
 
 github:
 	@make html
-	@sphinx-build -b html -D language=fr source build/html/fr
+#~ 	@sphinx-build -b html -D language=fr source build/html/fr
 	@cp -a build/html/. docs/

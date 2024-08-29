@@ -99,18 +99,3 @@
 
     `Eur. Phys. J. Spec. Top. 232, 3267–3272 <https://doi.org/10.1140/epjs/s11734-023-00969-4>`_
     
-
-- *New article* -- August 30, 2023
-
-.. admonition::  Integrated microcavity optomechanics with a suspended photonic crystal mirror above a distributed Bragg reflector
-    :class: preprint
-
-    *Sushanth Kini Manjeshwar, Anastasiia Ciers, Juliette Monsel, Hannes Pfeifer, Cindy Peralle, Shu Min Wang, Philippe Tassin, Witlef Wieczorek*
-
-    .. image:: assets/Manjeshwar2023May.svg
-        :align: right
-
-    Increasing the interaction between light and mechanical resonators is an ongoing endeavor in the field of cavity optomechanics. Optical microcavities allow for boosting the interaction strength through their strong spatial confinement of the optical field. In this work, we follow this approach by realizing a sub-wavelength-long, free-space optomechanical microcavity on-chip fabricated from an (Al,Ga)As heterostructure. A suspended GaAs photonic crystal mirror is acting as a highly reflective mechanical resonator, which together with a distributed Bragg reflector forms an optomechanical microcavity. We demonstrate precise control over the microcavity resonance by change of the photonic crystal parameters. The interplay between the microcavity mode and a guided resonance of the photonic crystal modifies the cavity response and results in a stronger dynamical backaction on the mechanical resonator compared to conventional optomechanical dynamics.
-
-    `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_
-    

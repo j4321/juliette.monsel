@@ -21,7 +21,7 @@ project = 'Juliette Monsel'
 copyright = '2020-2024, Juliette Monsel'
 author = 'Juliette Monsel'
 html_title = 'My research webpage'
-languages = ['en', 'fr']
+languages = ['en']
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -53,7 +53,6 @@ html_theme = 'alabaster'
 html_sidebars = {
     '**': [
         'about.html',
-        'language.html',
         'navigation.html',
         'relations.html',
     ]
