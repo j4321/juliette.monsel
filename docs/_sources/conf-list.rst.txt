@@ -7,7 +7,7 @@ Invited talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2024") and (keywords == "invited")
         :style: mystyle
@@ -17,7 +17,7 @@ Invited talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2023") and (keywords == "invited")
         :style: mystyle
@@ -27,7 +27,7 @@ Invited talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2022") and (keywords == "invited")
         :style: mystyle
@@ -37,7 +37,7 @@ Invited talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2019") and (keywords == "invited")
         :style: mystyle
@@ -48,7 +48,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2024") and (keywords == "contributed")
         :style: mystyle
@@ -58,7 +58,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2023") and (keywords == "contributed")
         :style: mystyle
@@ -68,7 +68,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2021") and (keywords == "contributed")
         :style: mystyle
@@ -78,7 +78,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2020") and (keywords == "contributed")
         :style: mystyle
@@ -88,7 +88,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2019") and (keywords == "contributed")
         :style: mystyle
@@ -98,7 +98,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2018") and (keywords == "contributed")
         :style: mystyle
@@ -108,7 +108,7 @@ Contributed talks
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2017") and (keywords == "contributed")
         :style: mystyle
@@ -119,7 +119,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2024") and (keywords == "seminar")
         :style: mystyle
@@ -129,7 +129,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2023") and (keywords == "seminar")
         :style: mystyle
@@ -139,7 +139,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2022") and (keywords == "seminar")
         :style: mystyle
@@ -149,7 +149,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2021") and (keywords == "seminar")
         :style: mystyle
@@ -159,7 +159,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2019") and (keywords == "seminar")
         :style: mystyle
@@ -169,7 +169,7 @@ Invited seminars
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2018") and (keywords == "seminar")
         :style: mystyle
@@ -180,7 +180,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2024") and (keywords == "poster")
         :style: mystyle
@@ -190,7 +190,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2023") and (keywords == "poster")
         :style: mystyle
@@ -200,7 +200,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2022") and (keywords == "poster")
         :style: mystyle
@@ -210,7 +210,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2021") and (keywords == "poster")
         :style: mystyle
@@ -220,7 +220,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2020") and (keywords == "poster")
         :style: mystyle
@@ -230,7 +230,7 @@ Contributed posters
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "2017") and (keywords == "poster")
         :style: mystyle

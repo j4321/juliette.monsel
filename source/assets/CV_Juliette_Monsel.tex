@@ -10,7 +10,8 @@
 
 % moderncv themes
 \moderncvstyle{perso}                            
-\moderncvcolor{darkblue}                         
+\moderncvcolor{darkblue}   
+\moderncvhead[\moderncvstyleheadoptions]{8}                      
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
@@ -25,8 +26,8 @@
 \setlength{\hintscolumnwidth}{2.75cm}                % if you want to change the width of the column with the dates
 %\setlength{\beforesectionvspace}{2.5ex}             % space above section title
 %\setlength{\beforesubsectionvspace}{1.75ex}         % space above subsection title
-\setlength{\beforesectionvspace}{2ex}             % space above section title
-\setlength{\beforesubsectionvspace}{1.5ex}         % space above subsection title
+\setlength{\beforesectionvspace}{2.5ex}             % space above section title
+\setlength{\beforesubsectionvspace}{1.25ex}         % space above subsection title
  
 \renewcommand\colorhref[3][black]{\href{#2}{\textit{\small\color{#1}#3}}}
 \usepackage[byyear]{moderncvbiblio}
@@ -239,7 +240,7 @@
     
 \underlineauthor{Monsel, Juliette}
 \addbibresource{../publications.bib}
-\addbibresource{../conf.bib}
+\addbibresource{../conferences.bib}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%% add icons for resaerch social media
@@ -263,14 +264,12 @@
 %\social[github]{j4321}                             % optional, remove / comment the line if not wanted
 \extrainfo{Nationality: French}                     % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
-\quote{\vskip-5mm Research interests: stochastic thermodynamics, quantum open systems, quantum optics, optomechanics and electronic transport.}                                 
-
-
+\quote{Research interests: stochastic thermodynamics, quantum open systems, quantum optics, optomechanics and electronic transport.}                                 
 
 %-----       resume       ---------------------------------------------------------
 \begin{document}
 \renewcommand{\labelitemi}{$\bullet$}
-
+\setlength{\quotewidth}{0.7\linewidth}
 \makecvtitle
 
 \vspace{-0.55cm}
@@ -286,20 +285,20 @@
 
 \section{Research experience}
 %TODO: detail projects
-\cventry[0.5em]{Since Jan. 2024}{Research specialist}{Department of Microtechnology and Nanoscience, Chalmers University of Technology}{Gothenburg, Sweden}{}{Permanent researcher position in the Applied Quantum Physics Laboratory.}
-\cventry[0.5em]{2020 -- 2023\\(3 years and 10 months)}{Postdoctoral researcher}{Department of Microtechnology and Nanoscience, Chalmers University of Technology}{Gothenburg, Sweden}{}{
+\cventry[0.3em]{Since Jan. 2024}{Research specialist}{Department of Microtechnology and Nanoscience, Chalmers University of Technology}{Gothenburg, Sweden}{}{Permanent researcher position in the Applied Quantum Physics Laboratory.}
+\cventry[0.3em]{2020 -- 2023\\(3 years and 10 months)}{Postdoctoral researcher}{Department of Microtechnology and Nanoscience, Chalmers University of Technology}{Gothenburg, Sweden}{}{
     Advisor: Janine Splettstoesser. Quantum thermodynamics.
     \begin{itemize}
         \item Studied thermodynamic of electronic transport
         \item Analyzed optomechanical cooling in a thermodynamic perspective
     \end{itemize}
 } 
-\cventry[0.5em]{2019 -- 2020\\(4 months)}{Postdoctoral researcher}{Institut Néel}{Grenoble, France}{}{Advisor: Alexia Auffèves. Quantum thermodynamics and optomechanics.
+\cventry[0.3em]{2019 -- 2020\\(4 months)}{Postdoctoral researcher}{Institut Néel}{Grenoble, France}{}{Advisor: Alexia Auffèves. Quantum thermodynamics and optomechanics.
 \begin{itemize}
     \item Explored the potential of carbon nanotubes for thermodynamic experiments
     \item Studied stochastic thermodynamics with Kerr resonators
 \end{itemize}} 
-\cventry[0.5em]{2016 -- 2019\\(3 years and 2 months)}{Doctoral researcher}{Institut Néel}{Grenoble, France}{}
+\cventry[0.3em]{2016 -- 2019\\(3 years and 2 months)}{Doctoral researcher}{Institut Néel}{Grenoble, France}{}
 {
     Supervisor: Alexia Auffèves. Quantum thermodynamics and optomechanics.
     \begin{itemize}
@@ -394,7 +393,7 @@
 
 
 \section{Conferences and seminars} 
-\cvitem{Summary}{\arabic{invited} invited talks, \arabic{contributed} contributed talks, \arabic{seminar} seminars and \arabic{poster} poster presentations.}
+\cvitem{Summary}{\arabic{invited} invited talks, \arabic{contributed} contributed talks, \arabic{seminar} seminars and \arabic{poster} poster presentations (not listed).}
 \subsection{Invited talks}
 \printbibliography[env=CV, category=invited]
 \renewcommand*{\bibyear}{}
@@ -409,11 +408,10 @@
 \printbibliography[env=CV, category=seminar]
 \renewcommand*{\bibyear}{}
 %\vspace{0.1cm}
-\subsection{Contributed posters}
-\printbibliography[env=CV, category=poster]
-\renewcommand*{\bibyear}{}
+%\subsection{Contributed posters}
+%\printbibliography[env=CV, category=poster]
+%\renewcommand*{\bibyear}{}
 
-\newpage
 \section{Service to the community}
 \cvitem[0.5em]{Reviewer}{Phys. Rev. Lett., Sci. Rep., Phys. Rev. A, J. Stat. Mech. Theory Exp., Phys. Rev. E, J. Phys. A Math., New J. Phys., Commun. Phys.}
 \subsection{Scientific outreach}

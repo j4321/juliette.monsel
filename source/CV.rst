@@ -13,7 +13,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 :2024 -- current: **Research specialist**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden.
 
-    Permanent researcher in the Applied Quantum Physics Laboratory.
+    Permanent researcher in the `Dynamics and thermodynamics of nanoscale devices group <https://sites.google.com/site/splettchalmers/`_ in the Applied Quantum Physics Laboratory.
 
 :2020 -- 2023: **Postdoctoral researcher**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden. Advisor: Janine Splettstoesser.
 

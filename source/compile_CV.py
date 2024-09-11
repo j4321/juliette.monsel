@@ -9,7 +9,7 @@ import traceback
 def compile_CV():
     
     try:
-        md5_new = subprocess.check_output(["md5sum", "conf.bib", 
+        md5_new = subprocess.check_output(["md5sum", "conferences.bib", 
                                            "publications.bib", 
                                            "assets/CV_Juliette_Monsel.tex", 
                                            "assets/CV_Juliette_Monsel.pdf"]).decode()
@@ -34,7 +34,7 @@ def compile_CV():
         os.rename("build/CV_Juliette_Monsel.pdf", "CV_Juliette_Monsel.pdf")
         os.chdir("..")
         
-        md5_new = subprocess.check_output(["md5sum", "conf.bib", 
+        md5_new = subprocess.check_output(["md5sum", "conferences.bib", 
                                            "publications.bib", 
                                            "assets/CV_Juliette_Monsel.tex", 
                                            "assets/CV_Juliette_Monsel.pdf"]).decode()

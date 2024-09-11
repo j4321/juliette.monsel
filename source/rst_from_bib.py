@@ -3,7 +3,7 @@
 """
 Generate the files publications-list.rst (list of publications) and
 conf-list.rst (list of conferences) from the bibtex files publications.bib
-and conf.bib.
+and conferences.bib.
 Also generate news.rst from news.json (TODO: directly generate news from bib but issue with formatting the titles at the moment)
 """
 import bibtexparser
@@ -88,7 +88,7 @@ Articles
 
 def generate_conf():
     """Generate file conf-list.rst"""
-    with open('conf.bib') as bibtex_file:
+    with open('conferences.bib') as bibtex_file:
         bib_database = bibtexparser.load(bibtex_file)
 
     dates = {'poster': set(),
@@ -117,7 +117,7 @@ def generate_conf():
 
 .. container:: publi
 
-    .. bibliography:: conf.bib
+    .. bibliography:: conferences.bib
         :list: bullet
         :filter: (not cited) and (year == "{year}") and (keywords == "{kind}")
         :style: mystyle
