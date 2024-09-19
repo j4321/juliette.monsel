@@ -90,25 +90,35 @@ We study transport in mesoscopic conductors connected to two terminal or more wi
 - *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B 107, 075409 <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_  
 
 
-.. rubric::  Driven quantum dots
+.. rubric::  Quantum dots
 
 .. image:: assets/transport.svg
     :width: 450
     
-A quantum dot is weakly coupled to two baths, namely is two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality,
+*Driven quantum dot*
     
-- *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) Editors' suggestion <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
+We study a quantum dot weakly coupled to two baths, namely two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel (sequentially) in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality,
+    
+- *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
 
 and beyond the first correction, for a more traditional four-stroke refrigeration cycle.
 
 - *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `Eur. Phys. J. Spec. Top. 232, 3267–3272 (2023) <https://arxiv.org/abs/2303.15420>`_ 
 
-
-
 We also use fermionic duality at the jump operator level to explore the stochastic thermodynamics of such kind of systems.
 
-.. rubric::  Suspended carbon nanotubes
+*Capacitively coupled quantum dots*
 
+Capacitively coupled quantum dots in contact with several baths can be used to implement an autonomous demon-type system where a useful task (cooling, power generation ...) is performed in the absence of average energy flow from the resource region into the working substance. 
+We use a combination of stochastic thermodynamics and full counting statistics to understand the performances of the device, in particular in term of precision, and the role of information exchanges.
+
+- *Role of nonequilibrium fluctuations and feedback in a quantum dot thermal machine* -- `Video of my talk at the Quantum Energy Initiative workshop 2023 <https://www.youtube.com/watch?v=Y7QskAPNSfQ>`_ 
+- *Autonomous demon exploiting heat and information at the trajectory level* -- `arXiv2409.05823 <https://arxiv.org/abs/2409.05823>`_ 
+
+
+
+
+.. rubric::  Suspended carbon nanotubes
 
 .. image:: assets/CNT.svg
     :width: 350

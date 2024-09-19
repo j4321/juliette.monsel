@@ -36,7 +36,7 @@ but they have the common goals of promoting bike riding, reusing and recycling o
 I have been a volunteer in two of them:
 
  - `uN p’Tit véLo dAnS La Tête <http://www.ptitvelo.net>`_ in Grenoble
- - `Cykelköket Göteborg <https://www.facebook.com/cykelkoket.gbg>`_ in Gotheburg
+ - `Cykelköket Göteborg <https://www.cykelkoket.org/>`_ in Gothenburg
 
 and this is where I learned almost everything I know about bicycle mechanics. 
 
@@ -56,24 +56,35 @@ Some external resources about bike kitchens:
  - `List of publications about bicycle workshops <https://bikeworkshopsresearch.wordpress.com/publications/>`_
  
  
-.. rubric:: Travelling
+.. rubric:: Traveling
 
-I have also discovered long distance cycling, which is a way of travelling during the holidays that I enjoy. For now I have only done two relatively short trips (I know people who have crossed continents):
+I have also discovered long distance cycling, which is a way of traveling during the holidays that I enjoy. 
 
-    - Châlons sur Sâone - Tours (6 days, ~ 600 km, summer 2019) with this bike:
+    - Châlons sur Sâone - Tours (6 days, ~ 600 km, summer 2019), in France, partly along the Loire river, with this bike:
     
       |diaferia|
     
-    - Gothenburg - Helsinborg following `Kattegattleden <https://kattegattleden.se/>`_ (3 days and half, ~ 400 km, summer 2020) with this bike (picture taken during the trip with the luggage on):
+    - Gothenburg - Helsinborg following `Kattegattleden <https://kattegattleden.se/>`_ (3 days and half, ~ 400 km, summer 2020), along the west coast of Sweden, with this bike (picture taken during the trip with the luggage on):
       
       |RD|
+
+    - Dalslandsleden (3 days, ~ 360 km, summer 2022), starting from Vänersborg, in the region west of lake Vänern (biggest Swedish lake)
+    
+    - Around lake Vättern (2nd biggest Swedish lake), starting from Jönköping (3 days and half, ~ 430 km, summer 2023)
+      
+      |RD2|
 
 
     
 .. |diaferia| image:: assets/velo_diaferia2.jpg
     :width: 250
-    :alt: My mountainbike with luggage
+    :alt: My travel bike with luggage
     
 .. |RD| image:: assets/velo_RD.jpg
     :width: 250
     :alt: My mountainbike with luggage
+    
+    
+.. |RD2| image:: assets/velo_RD_vattern.jpg
+    :width: 250
+    :alt: My mountainbike with luggage 2
