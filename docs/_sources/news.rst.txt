@@ -6,7 +6,7 @@
 .. admonition::  Autonomous demon exploiting heat and information at the trajectory level
     :class: preprint
 
-    *Juliette Monsel, Matteo Acciai, Rafael Sánchez, Janine Splettstoesse*
+    *Juliette Monsel, Matteo Acciai, Rafael Sánchez, Janine Splettstoesser*
 
     .. image:: assets/Monsel2024Sep.svg
         :align: right
