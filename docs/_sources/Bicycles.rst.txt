@@ -23,6 +23,8 @@ And when it comes to inconveniences like rain, quite common where I currently li
 
 However, in the case of cycling, it needs to be extended beyond clothing to include cycling equipment such as suitable tires. 
 
+    |snow|
+
 
 .. rubric:: Bike kitchens
 
@@ -71,8 +73,6 @@ I have also discovered long distance cycling, which is a way of traveling during
     - Dalslandsleden (3 days, ~ 360 km, summer 2022), starting from Vänersborg, in the region west of lake Vänern (biggest Swedish lake)
     
     - Around lake Vättern (2nd biggest Swedish lake), starting from Jönköping (3 days and half, ~ 430 km, summer 2023)
-      
-      |RD2|
 
 
     
@@ -80,11 +80,14 @@ I have also discovered long distance cycling, which is a way of traveling during
     :width: 250
     :alt: My travel bike with luggage
     
+    
+.. |snow| image:: assets/velo_neige.jpg
+    :width: 250
+    :alt: My mountainbike in the snow
+    
+    
 .. |RD| image:: assets/velo_RD.jpg
     :width: 250
     :alt: My mountainbike with luggage
     
     
-.. |RD2| image:: assets/velo_RD_vattern.jpg
-    :width: 250
-    :alt: My mountainbike with luggage 2
