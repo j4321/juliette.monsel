@@ -14,6 +14,7 @@ from arxiv_update_cli import api_general_query
 from PIL import Image
 import numpy as np
 import re
+from socket import error as SocketError
 
 re_latex = re.compile(r"\$.*?\$")
 
@@ -28,9 +29,13 @@ def generate_wordcloud(**kw):
     # retrieve articles
     author = "Juliette Monsel"
     abstracts = []
-    for article in api_general_query(f'au:%22{"+".join(author.split())}%22'):
-        txt = " ".join(article['summary'].splitlines())
-        abstracts.append(txt)
+    try:
+        for article in api_general_query(f'au:%22{"+".join(author.split())}%22'):
+            txt = " ".join(article['summary'].splitlines())
+            abstracts.append(txt)
+    except SocketError as e:
+        print(f"\033[31mUnable to fetch data to generate worldcloud image: {e}.\033[0m")
+        return
     if len(abstracts) == 0:
         print("No papers found")
         return
