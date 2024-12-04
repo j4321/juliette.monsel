@@ -3,6 +3,16 @@
 
 Invited talks
 -------------
+.. rubric:: 2025
+
+.. container:: publi
+
+    .. bibliography:: conferences.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2025") and (keywords == "invited")
+        :style: mystyle
+
+
 .. rubric:: 2024
 
 .. container:: publi
@@ -176,6 +186,16 @@ Invited seminars
 
 Contributed posters
 -------------------
+.. rubric:: 2025
+
+.. container:: publi
+
+    .. bibliography:: conferences.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2025") and (keywords == "poster")
+        :style: mystyle
+
+
 .. rubric:: 2024
 
 .. container:: publi
