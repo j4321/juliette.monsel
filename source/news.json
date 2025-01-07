@@ -43,19 +43,15 @@
     },
     "Du2024May": {
         "kind": "article",
-        "header": "Accepted article",
-        "date": "December 3, 2024",
+        "header": "New article",
+        "date": "January 6, 2025",
         "title": "Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror",
         "authors": "Lei Du, Juliette Monsel, Witlef Wieczorek, Janine Splettstoesser",
         "summary": "Ground-state cooling of mechanical resonators is a prerequisite for the observation of various quantum effects in optomechanical systems and thus has always been a crucial task in quantum optomechanics. In this paper, we study how to realize ground-state cooling of the mechanical mode in a Fano-mirror optomechanical setup, which allows for enhanced effective optomechanical interaction but typically works in the (deeply) unresolved-sideband regime. We reveal that for such a two-sided cavity geometry with very different decay rates at the two cavity mirrors when using an appropriate single-sided coherent feedback, it is possible to cool the mechanical mode down to its ground state within a broad range of parameters. This is possible even if the total optical loss is more than seven orders of magnitude larger than the mechanical frequency and the feedback efficiency is relatively low. Importantly, we show that a more standard two-sided feedback scheme is not appropriate to cooperate with a Fano-mirror system.",
         "links": [
            {
-                "reference": "Phys. Rev. A",
-                "URL": "https://journals.aps.org/pra/accepted/df07eNa8F671012145e8905170e6979fcf0d8f66b"
-            },
-            {
-                "reference": "arXiv:2405.13624",
-                "URL": "https://arxiv.org/abs/2405.13624"
+                "reference": "Phys. Rev. A 111, 013506",
+                "URL": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.013506"
             }
         ]
     },
