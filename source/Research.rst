@@ -41,7 +41,7 @@ and modeled all the optomechanical effects taking place in a microcavity with a 
 
 - *Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror* -- `Phys. Rev. A 109, 043532 (2024) <https://doi.org/10.1103/PhysRevA.109.043532>`_
 
-- *Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror* -- `arXiv:2405.13624 <https://arxiv.org/abs/2405.13624>`_
+- *Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror* -- `Phys. Rev. A 111, 013506 (2025) <https://doi.org/10.1103/PhysRevA.111.013506>`_
 
 
 
@@ -87,7 +87,7 @@ Electronic systems
     
 We study transport in mesoscopic conductors connected to two terminal or more with a scattering approach. We are particularly interested in properties of the current fluctuations in nonequilibrium situations where the average current is zero (for spin, charge, heat, ...).
 
-- *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B 107, 075409 <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_  
+- *Charge, spin, and heat shot noises in the absence of average currents: Conditions on bounds at zero and finite frequencies* -- `Phys. Rev. B 107, 075409 (2023) <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075409>`_  
 
 
 .. rubric::  Quantum dots
@@ -97,7 +97,7 @@ We study transport in mesoscopic conductors connected to two terminal or more wi
     
 *Driven quantum dot*
     
-We study a quantum dot weakly coupled to two baths, namely two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel (sequentially) in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality,
+We study a quantum dot weakly coupled to two baths, namely two electron reservoirs characterize by a temperature and a chemical potential. Electrons can tunnel (sequentially) in and out of the quantum dot. Parameters of this system can be driven (energies, chemical potentials, tunnel couplings, temperatures, ...). We investigate particle and energy currents for slow periodic driving up to the first non-adiabatic correction using a master equation approach and a dissipative symmetry of the system called fermionic duality, We are particularly interested in the role of the onsite electron-electron interaction, both in the usual case of Coulomb repulsion and the case of effective attractive interaction.
     
 - *Geometric energy transport and refrigeration with driven quantum dots* -- `Phys. Rev. B 106, 035405 (2022) <https://doi.org/10.1103/PhysRevB.106.035405>`_  -- `My poster at the QTD2022 conference <https://blogs.qub.ac.uk/qtd2022/wp-content/uploads/sites/310/2022/06/poster_Juliette_Monsel.pdf>`_
 
@@ -106,6 +106,13 @@ and beyond the first correction, for a more traditional four-stroke refrigeratio
 - *Non-geometric pumping effects on the performance of interacting quantum-dot heat engines* -- `Eur. Phys. J. Spec. Top. 232, 3267–3272 (2023) <https://arxiv.org/abs/2303.15420>`_ 
 
 We also use fermionic duality at the jump operator level to explore the stochastic thermodynamics of such kind of systems.
+
+*Mpemba effect*
+
+We explore the Mpemba effect, an anomalous relaxation effect where the system relaxes faster from a state farther from equilibrium 
+than from another state, closer to equilibrium, in a quantum dot weakly coupled to a single bath. We investigate in particular the role of the electron-electron interaction, which has an important impact on the relaxation rates involved in this effect.
+
+- *Role of electron-electron interaction in the Mpemba effect in quantum dots* -- `arXiv:2410.02546 <https://arxiv.org/abs/2303.15420>`_ 
 
 *Capacitively coupled quantum dots*
 

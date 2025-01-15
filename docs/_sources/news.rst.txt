@@ -13,7 +13,7 @@
 
     Ground-state cooling of mechanical resonators is a prerequisite for the observation of various quantum effects in optomechanical systems and thus has always been a crucial task in quantum optomechanics. In this paper, we study how to realize ground-state cooling of the mechanical mode in a Fano-mirror optomechanical setup, which allows for enhanced effective optomechanical interaction but typically works in the (deeply) unresolved-sideband regime. We reveal that for such a two-sided cavity geometry with very different decay rates at the two cavity mirrors when using an appropriate single-sided coherent feedback, it is possible to cool the mechanical mode down to its ground state within a broad range of parameters. This is possible even if the total optical loss is more than seven orders of magnitude larger than the mechanical frequency and the feedback efficiency is relatively low. Importantly, we show that a more standard two-sided feedback scheme is not appropriate to cooperate with a Fano-mirror system.
 
-    `Phys. Rev. A 111, 013506 <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.013506>`_
+    `Phys. Rev. A 111, 013506 <https://doi.org/10.1103/PhysRevA.111.013506>`_
     
 
 - *New preprint* -- December 24, 2024
