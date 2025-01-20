@@ -7,8 +7,8 @@
         "authors": "Juliane Graf, Janine Splettstoesser, Juliette Monsel",
         "summary": "The Mpemba effect has initially been noticed in macroscopic systems -- namely that hot water can freeze faster than cold water -- but recently its extension to open quantum systems has attracted significant attention. This phenomenon can be explained in the context of nonequilibrium thermodynamics of Markovian systems, relying on the amplitudes of different decay modes of the system dynamics. Here, we study the Mpemba effect in a single-level quantum dot coupled to a thermal bath, highlighting the role of the sign and magnitude of the electron-electron interaction in the occurrence of the Mpemba effect. We gain physical insights into the decay modes from a dissipative symmetry of this system called fermionic duality. Based on this analysis of the relaxation to equilibrium of the dot, we derive criteria for the occurrence of the Mpemba effect using two thermodynamically relevant measures of the distance to equilibrium, the nonequilibrium free energy and the dot energy. We furthermore compare this effect to a possible exponential speedup of the relaxation. Finally, we propose experimentally relevant schemes for the state preparation and explore different ways of observing the Mpemba effect in quantum dots in experiments.",
         "links": [{
-            "reference": "arXiv:2410.02546",
-            "URL": "https://arxiv.org/abs/2410.02546"
+            "reference": "arXiv:2412.18456",
+            "URL": "https://arxiv.org/abs/2412.18456"
         }]
     },
     "Dunlop2024Oct": {
