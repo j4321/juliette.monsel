@@ -26,11 +26,20 @@ def compile_CV():
         print("Compiling CV from CV_Juliette_Monsel.tex")
         os.chdir("assets")
         p = subprocess.Popen(["pdflatex", "-output-directory=build", "CV_Juliette_Monsel.tex"], stdout=subprocess.PIPE)
-        print(p.stdout.read().decode())
+        try:
+            print(p.stdout.read().decode())
+        except Exception as err:
+            print(err)
         p = subprocess.Popen(["biber", "build/CV_Juliette_Monsel"], stdout=subprocess.PIPE)
-        print(p.stdout.read().decode())
+        try:
+            print(p.stdout.read().decode())
+        except Exception as err:
+            print(err)
         p = subprocess.Popen(["pdflatex", "-output-directory=build", "CV_Juliette_Monsel.tex"], stdout=subprocess.PIPE)
-        print(p.stdout.read().decode())
+        try:
+            print(p.stdout.read().decode())
+        except Exception as err:
+            print(err)
         os.rename("build/CV_Juliette_Monsel.pdf", "CV_Juliette_Monsel.pdf")
         os.chdir("..")
         
