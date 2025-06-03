@@ -13,7 +13,7 @@
 
     The Mpemba effect has initially been noticed in macroscopic systems -- namely that hot water can freeze faster than cold water -- but recently its extension to open quantum systems has attracted significant attention. This phenomenon can be explained in the context of nonequilibrium thermodynamics of Markovian systems, relying on the amplitudes of different decay modes of the system dynamics. Here, we study the Mpemba effect in a single-level quantum dot coupled to a thermal bath, highlighting the role of the sign and magnitude of the electron-electron interaction in the occurrence of the Mpemba effect. We gain physical insights into the decay modes from a dissipative symmetry of this system called fermionic duality. Based on this analysis of the relaxation to equilibrium of the dot, we derive criteria for the occurrence of the Mpemba effect using two thermodynamically relevant measures of the distance to equilibrium, the nonequilibrium free energy and the dot energy. We furthermore compare this effect to a possible exponential speedup of the relaxation. Finally, we propose experimentally relevant schemes for the state preparation and explore different ways of observing the Mpemba effect in quantum dots in experiments.
 
-    `arXiv:2412.18456 <https://arxiv.org/abs/2412.18456>`_ -- `J. Phys.: Condens. Matter 37, 195302 -- Emerging leaders 2024 special issue <https://doi.org/10.1088/1361-648x/adc3e3>`_
+    `J. Phys.: Condens. Matter 37, 195302 -- Emerging leaders 2024 special issue <https://doi.org/10.1088/1361-648x/adc3e3>`_
     
 
 - *New article* -- January 15, 2025
@@ -59,21 +59,4 @@
     The energy cost of erasing a bit of information was fundamentally lower bounded by Landauer, in terms of the temperature of its environment: W≥kBTln2. However, in real electronic devices, the information-bearing system is usually in contact with two or more electrodes, with different temperatures and chemical potentials. It is not clear what sets the cost of erasure in such nonequilibrium situations. One promising technology for testing the thermodynamic limits of information processing is quantum dots, in which a bit is encoded in the presence or absence of a single electron. We here develop a thermodynamic description of devices of this type and find that, in addition to the electrode temperatures, the potential difference across the quantum dot and lifetime broadening of its energy level contribute to the minimum work cost of erasure. In practical contexts, these contributions may significantly outweigh the cost due to temperature alone.
 
     `arXiv:2410.02546 <https://arxiv.org/abs/2410.02546>`_
-    
-
-- *New article* -- April 29, 2024
-
-.. admonition::  Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror
-    :class: preprint
-
-    *Juliette Monsel, Anastasiia Ciers, Sushanth Kini Manjeshwar, Witlef Wieczorek, Janine Splettstoesser*
-
-    .. image:: assets/Monsel2023Nov.svg
-        :align: right
-
-    An optomechanical microcavity can considerably enhance the interaction between light and mechanical motion by confining light to a sub-wavelength volume. However, this comes at the cost of an increased optical loss rate. Therefore, microcavity-based optomechanical systems are placed in the unresolved-sideband regime, preventing sideband-based ground-state cooling. A pathway to reduce optical loss in such systems is to engineer the cavity mirrors, i.e., the optical modes that interact with the mechanical resonator. In our work, we analyze such an optomechanical system, whereby one of the mirrors is strongly frequency-dependent, i.e., a suspended Fano mirror. This optomechanical system consists of two optical modes that couple to the motion of the suspended Fano mirror. We formulate a quantum-coupled-mode description that includes both the standard dispersive optomechanical coupling as well as dissipative coupling. We solve the Langevin equations of the system dynamics in the linear regime showing that ground-state cooling from room temperature can be achieved even if the cavity is per se not in the resolved-sideband regime, but achieves effective sideband resolution through strong optical mode coupling. Importantly, we find that the cavity output spectrum needs to be properly analyzed with respect to the effective laser detuning to infer the phonon occupation of the mechanical resonator. Our work also predicts how to reach the regime of nonlinear quantum optomechanics in a Fano-based microcavity by engineering the properties of the Fano mirror.
-    
-    This work is the in-depth theory article associated with the experimental work `Opt. Express 31, 30212 <https://doi.org/10.1364/OE.496447>`_.
-
-    `Phys. Rev. A 109, 043532 <https://doi.org/10.1103/PhysRevA.109.043532>`_
     

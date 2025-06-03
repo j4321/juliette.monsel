@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Juliette Monsel'
-copyright = '2020-2024, Juliette Monsel'
+copyright = '2020-2025, Juliette Monsel'
 author = 'Juliette Monsel'
 html_title = 'My research webpage'
 languages = ['en']
