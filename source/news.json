@@ -15,15 +15,21 @@
     },
     "Dunlop2024Oct": {
         "kind": "article",
-        "header": "New preprint",
-        "date": "October 3, 2024",
+        "header": "Accepted article",
+        "date": "June 6, 2025",
         "title": "Extra cost of erasure due to quantum lifetime broadening",
         "authors": "Joe Dunlop, Federico Cerisola, Juliette Monsel, Sofia Sevitz, Jorge Tabanera-Bravo, Jonathan Dexter, Federico Fedele, Natalia Ares, Janet Anders",
         "summary": "The energy cost of erasing a bit of information was fundamentally lower bounded by Landauer, in terms of the temperature of its environment: W≥kBTln2. However, in real electronic devices, the information-bearing system is usually in contact with two or more electrodes, with different temperatures and chemical potentials. It is not clear what sets the cost of erasure in such nonequilibrium situations. One promising technology for testing the thermodynamic limits of information processing is quantum dots, in which a bit is encoded in the presence or absence of a single electron. We here develop a thermodynamic description of devices of this type and find that, in addition to the electrode temperatures, the potential difference across the quantum dot and lifetime broadening of its energy level contribute to the minimum work cost of erasure. In practical contexts, these contributions may significantly outweigh the cost due to temperature alone.",
-        "links": [{
-            "reference": "arXiv:2410.02546",
-            "URL": "https://arxiv.org/abs/2410.02546"
-        }]
+        "links": [
+            {
+                "reference": "arXiv:2410.02546",
+                "URL": "https://arxiv.org/abs/2410.02546"
+            },
+            {
+                "reference": "Accepted in Phys. Rev. A",
+                "URL": "https://link.aps.org/doi/10.1103/pc2t-ybtz"
+            }
+        ]
     },
     "Monsel2024Sep": {
         "kind": "article",
