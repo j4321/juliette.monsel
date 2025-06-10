@@ -112,7 +112,7 @@ We also use fermionic duality at the jump operator level to explore the stochast
 We explore the Mpemba effect, an anomalous relaxation effect where the system relaxes faster from a state farther from equilibrium 
 than from another state, closer to equilibrium, in a quantum dot weakly coupled to a single bath. We investigate in particular the role of the electron-electron interaction, which has an important impact on the relaxation rates involved in this effect.
 
-- *Role of electron-electron interaction in the Mpemba effect in quantum dots* -- `arXiv:2410.02546 <https://arxiv.org/abs/2303.15420>`_ 
+- *Role of electron-electron interaction in the Mpemba effect in quantum dots* -- `J. Phys.: Condens. Matter 37, 195302 (2025) <https://arxiv.org/abs/2303.15420>`_ 
 
 *Capacitively coupled quantum dots*
 
@@ -120,7 +120,7 @@ Capacitively coupled quantum dots in contact with several baths can be used to i
 We use a combination of stochastic thermodynamics and full counting statistics to understand the performances of the device, in particular in term of precision, and the role of information exchanges.
 
 - *Role of nonequilibrium fluctuations and feedback in a quantum dot thermal machine* -- `Video of my talk at the Quantum Energy Initiative workshop 2023 <https://www.youtube.com/watch?v=Y7QskAPNSfQ>`_ 
-- *Autonomous demon exploiting heat and information at the trajectory level* -- `arXiv2409.05823 <https://arxiv.org/abs/2409.05823>`_ 
+- *Autonomous demon exploiting heat and information at the trajectory level* -- `Phys. Rev. B 111, 045419 (2025) <https://arxiv.org/abs/2409.05823>`_ 
 
 
 
@@ -138,6 +138,8 @@ I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`
 - *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
 
 - *Stability of long-sustained oscillations induced by electron tunneling* --  `Phys. Rev. Research 6, 013291  (2024)  <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_
+
+- *Extra cost of erasure due to quantum lifetime broadening* --  `Phys. Rev. A (2025) <https://arxiv.org/abs/2410.02546>`_
 
 - *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
 

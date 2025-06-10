@@ -402,6 +402,7 @@ class MyStyle(PlainStyle):
             optional [ self.format_pubmed(e) ],
             optional [ self.format_doi(e) ],
             optional [ self.format_video(e) ],
+            optional [ self.format_slides(e) ],
             optional [ self.format_code(e) ],
             optional [ self.format_data(e) ],
         ]
@@ -442,6 +443,17 @@ class MyStyle(PlainStyle):
             href [
                 field('video', raw=True),
                 'Video'
+            ],
+            "]"
+        ]
+        
+    def format_slides(self, e):
+        # based on urlbst format.url
+        return join [
+            "[",
+            href [
+                field('slides', raw=True),
+                'Slides'
             ],
             "]"
         ]
