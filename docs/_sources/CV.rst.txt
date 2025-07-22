@@ -53,7 +53,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. rubric:: Skills
 
 :Languages: French (native), English (fluent), Italian (good understanding -- B2), Swedish (currently learning -- B2)
-:Programming: Python, Git, C++, Matlab
+:Programming: Python, Git, C++, Julia
 
 .. rubric:: Social media
 

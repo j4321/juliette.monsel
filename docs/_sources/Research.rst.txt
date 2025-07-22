@@ -139,7 +139,7 @@ I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`
 
 - *Stability of long-sustained oscillations induced by electron tunneling* --  `Phys. Rev. Research 6, 013291  (2024)  <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_
 
-- *Extra cost of erasure due to quantum lifetime broadening* --  `Phys. Rev. A (2025) <https://arxiv.org/abs/2410.02546>`_
+- *Extra cost of erasure due to quantum lifetime broadening* --  `Phys. Rev. A 112, L010601 (2025) <https://arxiv.org/abs/2410.02546>`_
 
 - *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
 
