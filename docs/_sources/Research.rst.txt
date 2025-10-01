@@ -143,4 +143,6 @@ I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`
 
 - *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
 
+- *Sources of nonlinearity in the response of a driven nano-electromechanical resonator* --  `arXiv:2509.12830 <https://arxiv.org/abs/2509.12830>`_
+
 
