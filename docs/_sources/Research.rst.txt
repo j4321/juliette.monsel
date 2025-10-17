@@ -121,6 +121,7 @@ We use a combination of stochastic thermodynamics and full counting statistics t
 
 - *Role of nonequilibrium fluctuations and feedback in a quantum dot thermal machine* -- `Video of my talk at the Quantum Energy Initiative workshop 2023 <https://www.youtube.com/watch?v=Y7QskAPNSfQ>`_ 
 - *Autonomous demon exploiting heat and information at the trajectory level* -- `Phys. Rev. B 111, 045419 (2025) <https://arxiv.org/abs/2409.05823>`_ 
+- *Precision of an autonomous demon exploiting nonthermal resources and information* -- `arXiv:2510.14578 <https://arxiv.org/abs/2510.14578>`_ 
 
 
 
