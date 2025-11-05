@@ -83,8 +83,8 @@
     },
     "Fedele2024Feb": {
         "kind": "article",
-        "header": "New preprint",
-        "date": "February 29, 2024",
+        "header": "Article accepted in Nature Communications",
+        "date": "November 5, 2025",
         "title": "Coupling a single spin to high-frequency motion",
         "authors": "Federico Fedele, Federico Cerisola, Lea Bresque, Florian Vigneau, Juliette Monsel, Jorge Tabanera, Kushagra Aggarwal, Jonathan Dexter, Sofia Sevitz, Joe Dunlop, Alexia Auffèves, Juan Parrondo, András Pályi, Janet Anders, Natalia Ares",
         "summary": "Coupling a single spin to high-frequency mechanical motion is a fundamental bottleneck of applications such as quantum sensing, intermediate and long-distance spin-spin coupling, and classical and quantum information processing. Previous experiments have only shown single spin coupling to low-frequency mechanical resonators, such as diamond cantilevers. High-frequency mechanical resonators, having the ability to access the quantum regime, open a range of possibilities when coupled to single spins, including readout and storage of quantum states. Here we report the first experimental demonstration of spin-mechanical coupling to a high-frequency resonator. We achieve this all-electrically on a fully suspended carbon nanotube device. A new mechanism gives rise to this coupling, which stems from spin-orbit coupling, and it is not mediated by strain. We observe both resonant and off-resonant coupling as a shift and broadening of the electric dipole spin resonance (EDSR), respectively. We develop a complete theoretical model taking into account the tensor form of the coupling and non-linearity in the motion. Our results propel spin-mechanical platforms to an uncharted regime. The interaction we reveal provides the full toolbox for promising applications ranging from the demonstration of macroscopic superpositions, to the operation of fully quantum engines, to quantum simulators.\n\nThis work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics.",
