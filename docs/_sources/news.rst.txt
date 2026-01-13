@@ -15,7 +15,7 @@
     
     This work is part of the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics.
 
-    `Nat. Commun. (in press) <https://www.nature.com/articles/s41467-025-66331-5>`_ -- `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
+    `Nat. Commun. 16, 11454 (2025) <https://www.nature.com/articles/s41467-025-66331-5>`_
     
 
 - *New preprint* -- October 17, 2025
@@ -93,19 +93,4 @@
     We propose an electronic bipartite system consisting of a working substance, in which a refrigeration process is implemented, and of a nonthermal resource region, containing a combination of different thermal baths. In the working substance, heat is extracted from the coldest of two electronic reservoirs (refrigeration) via heat- and particle transport through a quantum dot. This quantum dot of the working substance is capacitively coupled to the resource region. In such a setup, a finite cooling power can be obtained in the working substance, while the energy exchange with the resource region exactly cancels out on average. At the same time, information is always exchanged, even on average, due to the capacitive coupling between the two parts of the bipartite system. The proposed system therefore implements an autonomous demon with fully vanishing heat extraction from the resource. Unlike macroscopic machines, nanoscale machines exhibit large fluctuations in performance, so precision becomes an important performance quantifier. We give a comprehensive description of the thermodynamic performance of the proposed autonomous demon in terms of stochastic trajectories and of full counting statistics and demonstrate that the precision of the cooling power strongly depends on the operation principle of the device. More specifically, the interplay of information flow and counter-balancing heat flows dramatically impacts the trade-off between cooling power, efficiency, and precision. We expect this insight to be of relevance for guiding the design of energy-conversion processes exploiting nonthermal resources.
 
     `Phys. Rev. B 111, 045419 <https://link.aps.org/doi/10.1103/PhysRevB.111.045419>`_
-    
-
-- *New article* -- January 6, 2025
-
-.. admonition::  Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror
-    :class: preprint
-
-    *Lei Du, Juliette Monsel, Witlef Wieczorek, Janine Splettstoesser*
-
-    .. image:: assets/Du2024May.svg
-        :align: right
-
-    Ground-state cooling of mechanical resonators is a prerequisite for the observation of various quantum effects in optomechanical systems and thus has always been a crucial task in quantum optomechanics. In this paper, we study how to realize ground-state cooling of the mechanical mode in a Fano-mirror optomechanical setup, which allows for enhanced effective optomechanical interaction but typically works in the (deeply) unresolved-sideband regime. We reveal that for such a two-sided cavity geometry with very different decay rates at the two cavity mirrors when using an appropriate single-sided coherent feedback, it is possible to cool the mechanical mode down to its ground state within a broad range of parameters. This is possible even if the total optical loss is more than seven orders of magnitude larger than the mechanical frequency and the feedback efficiency is relatively low. Importantly, we show that a more standard two-sided feedback scheme is not appropriate to cooperate with a Fano-mirror system.
-
-    `Phys. Rev. A 111, 013506 <https://doi.org/10.1103/PhysRevA.111.013506>`_
     

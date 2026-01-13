@@ -20,12 +20,12 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
     Thermodynamics of optomechanics and electronic transport.
     
     
-:2019 -- 2020: **Postdoctoral researcher**, |Neel|, Grenoble, France. Advisor: Alexia Auffèves.
+:2019 -- 2020: **Postdoctoral researcher**, `Institut Néel, CNRS/UGA <https://neel.cnrs.fr/en>`_ , Grenoble, France. Advisor: Alexia Auffèves.
 
     Quantum thermodynamics and optomechanics.
     
 
-:2016 -- 2019: **Doctoral researcher**, |Neel|, Grenoble, France. Supervisor: Alexia Auffèves. 
+:2016 -- 2019: **Doctoral researcher**, `Institut Néel, CNRS/UGA <https://neel.cnrs.fr/en>`_ , Grenoble, France. Supervisor: Alexia Auffèves. 
     
     Quantum thermodynamics and optomechanics.
 
@@ -109,5 +109,3 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 .. _master: http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-physics-concepts-and-applications/master-2-physics-concepts-and-applications/
 
 .. _l3: http://www.ens-lyon.fr/MasterSDM/en/licence-3/l3-bsc-3rd-year-presentation
-
-.. |Neel| replace:: `Institut Néel, CNRS/UGA <neel_>`_    
