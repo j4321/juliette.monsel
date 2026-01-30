@@ -5,7 +5,13 @@ Teaching
 Teaching experience
 ~~~~~~~~~~~~~~~~~~~
 
-.. rubric:: Teaching assistant
+.. rubric:: Teaching
+
+:Jan. -- Mar. 2026: `PhD course: Quantum thermodynamics and information <https://www.chalmers.se/en/research/we-train-new-researchers/graduate-courses/FMCC004/>`_ (Chalmers University of Technology)
+
+    Lecturer for one third of the course
+    
+    (4 lectures and 2 tutorials, each 2 hour long, over 2 weeks).
 
 :Feb. 2024: `Winter school on ultrafast thermodynamics <https://www.chalmers.se/en/current/calendar/f-winter-school-on-ultrafast-thermodynamics/>`_ (Chalmers University of Technology)
 
@@ -16,7 +22,6 @@ Teaching experience
 :2017, 2018: Newtonian mechanics for first-year undergraduates (Université Grenoble Alpes, France) 
     
     I supervised tutorials (~20-30 students, 1.5 hours, twice a week) and lab work (~10-15 students, 3.5 hours, once a week). I contributed exercises to the exams and graded examinations and lab work reports.
-
     
     Program:
 
@@ -34,13 +39,17 @@ It documents some of the skills that I acquired during my doctorate and mostly f
   
 .. rubric:: Student supervision
 
-:Oct. 2020 -- current: Assistant supervisor of a Ph.D. student at MC2, Chalmers University of Technology.
+:Since Sep. 2025: Assistant supervisor of a Ph.D. student at MC2, Chalmers.
 
-:Mar. -- Aug. 2024: Co-supervisor of a master student from Grenoble INP Phelma (France) at MC2, Chalmers University of Technology for a six-month project.
+:Since Oct. 2024: Assistant supervisor of a Ph.D. student at MC2, Chalmers.
 
-:Apr. -- Jul. 2022: Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers University of Technology for a four-month project.
+:Oct. 2020 -- Feb. 2025: Assistant supervisor of a Ph.D. student at MC2, Chalmers.
 
-:Oct. 2021 -- Jul. 2022: Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers University of Technology.
+:Mar. -- Aug. 2024: Co-supervisor of a master student from Grenoble INP Phelma (France) at MC2, Chalmers for a six-month project.
+
+:Apr. -- Jul. 2022: Co-supervisor of a master student from École Normale Supérieure de Lyon (France) at MC2, Chalmers for a four-month project.
+
+:Oct. 2021 -- Jul. 2022: Co-supervisor of a master student from University of Regensburg (Germany) at MC2, Chalmers.
 
 :2016: Co-supervisor of a first-year master student during his two-month internship at the Institut Néel, Grenoble, France.
 
@@ -56,7 +65,7 @@ Related volunteer experience
 
 .. rubric:: Bicycle mechanics instructor
 
-:2020 -- current: `Cykelköket <CK_>`_ (Gothenburg, Sweden)
+:Since 2020: `Cykelköket <CK_>`_ (Gothenburg, Sweden)
 
 :2018 -- 2020: `uN p’Tit véLo dAnS La Tête <ptitvelo_>`_ (Grenoble, France)
 
