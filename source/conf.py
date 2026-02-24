@@ -96,4 +96,7 @@ generate_news()
 
 # --- wordcloud picture
 from generate_wordcloud import generate_wordcloud
-generate_wordcloud()
+try:
+    generate_wordcloud()
+except Exception as e:
+    print(e)
