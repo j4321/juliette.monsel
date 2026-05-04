@@ -20,6 +20,8 @@ My research mainly focus on the thermodynamics of quantum open systems, in regim
 
 - PhD dissertation: `Quantum Thermodynamics and Optomechanics <https://tel.archives-ouvertes.fr/tel-02517050>`_
 
+- Online seminar in the Quantum Energy Initiative seminar series: `Energetic cost of work extraction and information erasure <https://www.youtube.com/watch?v=cvLW36zNex4>`_
+
 Quantum optics
 --------------
 
@@ -42,6 +44,8 @@ and modeled all the optomechanical effects taking place in a microcavity with a 
 - *Dissipative and dispersive cavity optomechanics with a frequency-dependent mirror* -- `Phys. Rev. A 109, 043532 (2024) <https://doi.org/10.1103/PhysRevA.109.043532>`_
 
 - *Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror* -- `Phys. Rev. A 111, 013506 (2025) <https://doi.org/10.1103/PhysRevA.111.013506>`_
+
+- *Nonlinear quantum optomechanics in a Fano-mirror microcavity system* -- `arXiv:2602.20085 (2025) <https://arxiv.org/abs/2602.20085>`_
 
 
 
@@ -134,15 +138,15 @@ We use a combination of stochastic thermodynamics and full counting statistics t
 
 These devices combine electronic transport and mechanical degrees of freedom which makes them a very promising platform for thermodynamics. Charge or spin qubits can be created inside the nanotube, making these devices similar to hybrid optomechanical systems. 
 
-I am taking part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics led by `Natalia Ares <https://www.natalia-ares.com/>`_ (Oxford University, UK).
+I took part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ project Nanomechanics in the solid-state for quantum information thermodynamics led by `Natalia Ares <https://www.natalia-ares.com/>`_ (Oxford University, UK).
 
-- *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Research 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
+- *Ultrastrong coupling between electron tunnelling and mechanical motion* --  `Phys. Rev. Res. 4, 043168  (2022) <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043168>`_
 
-- *Stability of long-sustained oscillations induced by electron tunneling* --  `Phys. Rev. Research 6, 013291  (2024)  <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_
+- *Stability of long-sustained oscillations induced by electron tunneling* --  `Phys. Rev. Res. 6, 013291  (2024)  <https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013291>`_
 
 - *Extra cost of erasure due to quantum lifetime broadening* --  `Phys. Rev. A 112, L010601 (2025) <https://arxiv.org/abs/2410.02546>`_
 
-- *Coupling a single spin to high-frequency motion* --  `arXiv:2402.19288 <https://arxiv.org/abs/2402.19288>`_
+- *Coupling a single spin to the motion of a carbon nanotube* --  `Nat. Commun. 16, 11454 (2025) <https://arxiv.org/abs/2402.19288>`_
 
 - *Sources of nonlinearity in the response of a driven nano-electromechanical resonator* --  `arXiv:2509.12830 <https://arxiv.org/abs/2509.12830>`_
 
