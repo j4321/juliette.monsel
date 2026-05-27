@@ -11,7 +11,7 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 |Scopus| `Scopus <https://www.scopus.com/authid/detail.uri?authorId=57211212157>`_  |nbsp|  
 |scholar| `Google Scholar <https://scholar.google.com/citations?user=xfqFiyQAAAAJ&hl=en&oi=ao>`_ 
 
-:2024 -- current: **Research specialist**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden.
+:2024 -- current: **Staff scientist**, `Dept. of Microtechnology and Nanoscience, Chalmers University of Technology <MC2_>`_, Gothenburg, Sweden.
 
     Permanent researcher in the `Dynamics and thermodynamics of nanoscale devices group <https://sites.google.com/site/splettchalmers/>`_ in the Applied Quantum Physics Laboratory.
 
