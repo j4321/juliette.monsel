@@ -45,7 +45,7 @@ and modeled all the optomechanical effects taking place in a microcavity with a 
 
 - *Coherent feedback control for cavity optomechanical systems with a frequency-dependent mirror* -- `Phys. Rev. A 111, 013506 (2025) <https://doi.org/10.1103/PhysRevA.111.013506>`_
 
-- *Nonlinear quantum optomechanics in a Fano-mirror microcavity system* -- `arXiv:2602.20085 (2025) <https://arxiv.org/abs/2602.20085>`_
+- *Nonlinear quantum optomechanics in a Fano-mirror microcavity system* -- `Quantum Sci. Technol. 11, 035035 (2026) <https://iopscience.iop.org/article/10.1088/2058-9565/ae7e22>`_
 
 
 

@@ -387,9 +387,15 @@
 
 \section{Publications}
 %\cvitem{Summary}{\printbibliography[env=counter, heading=counter, keyword={preprint}]\therefs preprints, \printbibliography[env=counter, heading=counter, keyword={publi}]\therefs articles, \printbibliography[env=counter, heading=counter, keyword={book}]\therefs book.}
+\ifnum\value{preprints}>0 
 \cvitem{Summary}{\arabic{preprints} preprints, \arabic{articles} peer-reviewed articles, \arabic{books} book.}
+\else
+\cvitem{Summary}{\arabic{articles} peer-reviewed articles, \arabic{books} book.}
+\fi
+\ifnum\value{preprints}>0 
 \subsection{Preprints}
 \printbibliography[env=CV, category=preprints]
+\fi
 \renewcommand*{\bibyear}{}
 \subsection{Articles}
 \printbibliography[env=CV, category=articles]
@@ -447,15 +453,15 @@ As the representative of the MC2 department in the \colorhref{https://www.chalme
 \section{Volunteer experience}
 \cventry[0.5em]{2020 -- current}{Cykelköket}{}{Gothenburg, Sweden}{\href{https://www.cykelkoket.org}{\texttt{www.cykelkoket.org}}}{The ``Bike kitchen'' is a nonprofit Do-It-Yourself bicycle workshop.
     \begin{itemize}
-        \item Help people and teach them how to repair their bicycles
-        \item Take part in the administration of the workshop as a board member since Sep. 2020
+        \item Help people and teach them how to repair their bicycles.
+        \item Take part in the administration of the workshop as a board member since Sep. 2020 and as Treasurer since May 2026.
     \end{itemize}
 }
 \cventry[0.5em]{2017 -- 2020}{uN p’Tit véLo dAnS La Tête}{}{Grenoble, France}{\href{https://www.ptitvelo.net}{\texttt{www.ptitvelo.net}}}{Nonprofit self-repair workshop aiming at teaching bicycle mechanics and promoting bicycle riding. 
     \begin{itemize}
-        \item Learned bicycle mechanics by dismantling and repairing bicycles for the association
-        \item Explained to members of the association how to repair their bicycles
-        \item Took part in meetings and helped organize events as a member of the board from Sep. 2018 to Feb. 2020
+        \item Learned bicycle mechanics by dismantling and repairing bicycles for the association.
+        \item Explained to members of the association how to repair their bicycles.
+        \item Took part in meetings and helped organize events as a member of the board from Sep. 2018 to Feb. 2020.
     \end{itemize}
 }
 %\cventry{2013 -- 2014\\(7 months)}{Tutor for homework assistance}{Trait d'Union program}{Villeurbanne, France}{}{Homework assistance program for students from high schools in disadvantaged areas (2 hours/week).
