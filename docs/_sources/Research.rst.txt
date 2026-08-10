@@ -47,6 +47,8 @@ and modeled all the optomechanical effects taking place in a microcavity with a 
 
 - *Nonlinear quantum optomechanics in a Fano-mirror microcavity system* -- `Quantum Sci. Technol. 11, 035035 (2026) <https://iopscience.iop.org/article/10.1088/2058-9565/ae7e22>`_
 
+- *Optomechanical systems with a Fano membrane in the middle* -- `arXiv:2607.22526 (2026) <https://arxiv.org/abs/2607.22526>`_
+
 
 
 .. rubric::  Hybrid optomechanical systems

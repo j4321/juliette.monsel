@@ -47,6 +47,8 @@ and modeled all the optomechanical effects taking place in a microcavity with a 
 
 - *Nonlinear quantum optomechanics in a Fano-mirror microcavity system* -- `Quantum Sci. Technol. 11, 035035 (2026) <https://iopscience.iop.org/article/10.1088/2058-9565/ae7e22>`_
 
+- *Optomechanical systems with a Fano membrane in the middle* -- `arXiv:2607.22526 (2026) <https://arxiv.org/abs/2607.22526>`_
+
 
 
 .. rubric::  Hybrid optomechanical systems
@@ -124,7 +126,9 @@ Capacitively coupled quantum dots in contact with several baths can be used to i
 We use a combination of stochastic thermodynamics and full counting statistics to understand the performances of the device, in particular in term of precision, and the role of information exchanges.
 
 - *Role of nonequilibrium fluctuations and feedback in a quantum dot thermal machine* -- `Video of my talk at the Quantum Energy Initiative workshop 2023 <https://www.youtube.com/watch?v=Y7QskAPNSfQ>`_ 
+
 - *Autonomous demon exploiting heat and information at the trajectory level* -- `Phys. Rev. B 111, 045419 (2025) <https://doi.org/10.1103/PhysRevB.111.045419>`_ 
+
 - *Precision of an autonomous demon exploiting nonthermal resources and information* -- `Phys. Rev. B 113, 195442 (2026) <https://doi.org/10.1103/hnqk-6rcx>`_ 
 
 
