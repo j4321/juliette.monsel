@@ -387,10 +387,14 @@
 
 \section{Publications}
 %\cvitem{Summary}{\printbibliography[env=counter, heading=counter, keyword={preprint}]\therefs preprints, \printbibliography[env=counter, heading=counter, keyword={publi}]\therefs articles, \printbibliography[env=counter, heading=counter, keyword={book}]\therefs book.}
-\ifnum\value{preprints}>0 
+\ifnum\value{preprints}>1 
 \cvitem{Summary}{\arabic{preprints} preprints, \arabic{articles} peer-reviewed articles, \arabic{books} book.}
 \else
-\cvitem{Summary}{\arabic{articles} peer-reviewed articles, \arabic{books} book.}
+    \ifnum\value{preprints}>0 
+    \cvitem{Summary}{\arabic{preprints} preprint, \arabic{articles} peer-reviewed articles, \arabic{books} book.}
+    \else
+    \cvitem{Summary}{\arabic{articles} peer-reviewed articles, \arabic{books} book.}
+    \fi
 \fi
 \ifnum\value{preprints}>0 
 \subsection{Preprints}
