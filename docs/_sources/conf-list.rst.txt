@@ -206,6 +206,16 @@ Invited seminars
 
 Contributed posters
 -------------------
+.. rubric:: 2026
+
+.. container:: publi
+
+    .. bibliography:: conferences.bib
+        :list: bullet
+        :filter: (not cited) and (year == "2026") and (keywords == "poster")
+        :style: mystyle
+
+
 .. rubric:: 2025
 
 .. container:: publi

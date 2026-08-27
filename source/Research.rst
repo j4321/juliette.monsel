@@ -152,6 +152,6 @@ I took part in the `FQxI-funded <https://fqxi.org/programs/zenith-grants/>`_ pro
 
 - *Coupling a single spin to the motion of a carbon nanotube* --  `Nat. Commun. 16, 11454 (2025) <https://arxiv.org/abs/2402.19288>`_
 
-- *Sources of nonlinearity in the response of a driven nano-electromechanical resonator* --  `arXiv:2509.12830 <https://arxiv.org/abs/2509.12830>`_
+- *Sources of nonlinearity in the response of a driven nano-electromechanical resonator* --  `Phys. Rev. Res. 8, 033237 (2026) <https://arxiv.org/abs/2509.12830>`_
 
 
