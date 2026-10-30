@@ -11,10 +11,14 @@ import json
 import datetime
 
 
+class Empty:
+	value = ""
+	
+empty = Empty()
+
 def generate_publi():
     """Generate file publications-list.rst"""
-    with open('publications.bib') as bibtex_file:
-        bib_database = bibtexparser.load(bibtex_file)
+    bib_database = bibtexparser.parse_file('publications.bib')
 
     # ENTRYTYPE: article = published article, misc = preprint, book = book
     entries = {'article': [], 'misc': [], 'book': []}
@@ -63,7 +67,7 @@ Articles
     # published articles
     years = set()
     for entry in entries['article']:
-        year = entry.get('year', '')
+        year = entry.get('year', empty).value
         if year:
             years.add(int(year))
 
@@ -88,8 +92,7 @@ Articles
 
 def generate_conf():
     """Generate file conf-list.rst"""
-    with open('conferences.bib') as bibtex_file:
-        bib_database = bibtexparser.load(bibtex_file)
+    bib_database = bibtexparser.parse_file('conferences.bib')
 
     dates = {'poster': set(),
              'seminar': set(),
@@ -97,8 +100,8 @@ def generate_conf():
              'contributed': set()}
 
     for entry in bib_database.entries:
-        year = entry.get('year', '')
-        kind = entry.get('keywords', '')
+        year = entry.get('year', empty).value
+        kind = entry.get('keywords', empty).value
         dates[kind].add(year)
 
     headers = {

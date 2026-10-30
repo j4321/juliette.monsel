@@ -44,11 +44,12 @@ My full CV is available :download:`here <assets/CV_Juliette_Monsel.pdf>`
 
 .. ~:Submitted: **EIC Pathfinder Challenge**: `Alternative approaches to Quantum Information Processing, Communication, and Sensing <https://eic.ec.europa.eu/eic-funding-opportunities/calls-proposals/eic-pathfinder-challenge-alternative-approaches-quantum-information-processing-communication-and_en>`_, as part of a European consortium (Austria, Germany, Czech Republic and Sweden). I took part in the proposal writing and the budget elaboration.
 
+:2027 -- 2030: **VR Starting Grant** from Vetenskapsrådets, the Swedish Research Council for the project "Energetics and performance trade-offs in optomechanical devices for quantum sensing and quantum batteries".
 :2022: **Travel grant** from Chalmers Foundation (Chalmersska forskningsfonden) to go to Vienna for a research visit and the annual Quantum Thermodynamics Conference in July 2023.
 
 :2020: **Spinger Thesis Award**, recognizing outstanding Ph.D.research.
 
-:2016: **Ph.D. grant** from the `CFM Foundation for Research <http://www.fondation-cfm.fr/>`_.
+:2016 -- 2019: 3-year **Ph.D. grant** from the `CFM Foundation for Research <http://www.fondation-cfm.fr/>`_.
 
 .. rubric:: Skills
 
